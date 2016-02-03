@@ -1,0 +1,125 @@
+/* entity */
+
+CREATE TABLE User (
+	uid int,
+	password varchar(20),
+	birthday date,
+	email varchar(20),
+	PRIMARY KEY (uid)
+)
+
+CREATE TABLE Event (
+	eid int,
+	name varchar(30),
+	happen_date date,
+	description text,
+	category varchar(20),
+	PRIMARY KEY (eid)
+)
+
+CREATE TABLE Ticket (
+	tid int,
+	price int,
+	seat varchar(20),
+	seller varchar(20),
+	PRIMARY KEY (tid)
+)
+
+CREATE TABLE Performer (
+	pid int,
+	name varchar(20),
+	birthday date,
+	specialty varchar(20),
+	PRIMARY KEY (pid)
+)
+
+CREATE TABLE Venue (
+	vid int,
+	location varchar(60),
+	name varchar(30),
+	coordinate point,
+	PRIMARY KEY (vid)
+)
+
+CREATE TABLE Restaurant (
+	rid int,
+	name varchar(30),
+	cuisine varchar(30),
+	PRIMARY KEY (rid)
+)
+
+CREATE TABLE Comment (
+	cid int,
+	content text,
+	rating int,
+	PRIMARY KEY (cid)
+)
+
+/* relationship */
+
+CREATE TABLE Participates (
+	uid int,
+	eid int,
+	status varchar(20),
+	PRIMARY KEY (uid, eid),
+	FOREIGN KEY (uid) REFERENCES User,
+	FOREIGN KEY (eid) REFERENCES Event
+)
+
+CREATE TABLE Favors (
+	uid int,
+	tid int,
+	time timestamp,
+	PRIMARY KEY (uid, tid),
+	FOREIGN KEY (uid) REFERENCES User,
+	FOREIGN KEY (tid) REFERENCES Ticket
+)
+
+CREATE TABLE Has (
+	eid int NOT NULL,
+	tid int, 
+	PRIMARY KEY (tid),
+	FOREIGN KEY (eid) REFERENCES Event
+		ON DELETE NO ACTION, // I think it should be ON DELETE CASCADE, which means deleting an event will deleting all tickets associated with it?
+	FOREIGN KEY (tid) REFERENCES Ticket
+)
+
+CREATE TABLE Performs (
+	pid int,
+	eid int,
+	PRIMARY KEY (pid, eid),
+	FOREIGN KEY (pid) REFERENCES Performer,
+	FOREIGN KEY (eid) REFERENCES Event	
+)
+
+// Does it mean comment, venue or user could be null?
+CREATE TABLE Reviews (
+	cid int,
+	vid int,
+	uid int,
+	PRIMARY KEY (cid, vid, uid),
+	FOREIGN KEY (cid) REFERENCES Comment,
+	FOREIGN KEY (vid) REFERENCES Venue
+		ON DELETE CASCADE,
+	FOREIGN KEY (uid) REFERENCES User
+		ON DELETE CASCADE
+)
+
+CREATE TABLE Locates (
+	vid int NOT NULL,
+	eid int,
+	PRIMARY KEY (eid),
+	FOREIGN KEY (vid) REFERENCES Venue
+		ON DELETE NO ACTION, // Same question as Has
+	FOREIGN KEY (eid) REFERENCES Event
+)
+
+CREATE TABLE Near (
+	vid int,
+	rid int,
+	distance int,
+	PRIMARY KEY (vid, rid),
+	FOREIGN KEY (vid) REFERENCES Venue,
+	FOREIGN KEY (rid) REFERENCES Resturant	
+)
+
