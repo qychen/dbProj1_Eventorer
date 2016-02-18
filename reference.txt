@@ -1,3 +1,9 @@
 Tickets API:
 http://www.programmableweb.com/category/tickets/apis?category=20393
 
+Operations for psql:
+\i test.sql 
+
+\copy users from 'data.txt';
+
+
