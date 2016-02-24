@@ -4,10 +4,10 @@ DROP TABLE Event_Locates, Favors, Has_Tickets, Nearby, Participates, Performers,
 
 CREATE TABLE Users (
 	uid int PRIMARY KEY,
-	password varchar(30),
+	name text,
+	password text,
 	birthday date,
-	image text,
-	email varchar(20)
+	email text
 );
 
 CREATE TABLE Venues (
@@ -31,10 +31,12 @@ CREATE TABLE Event_Locates (
 CREATE TABLE Has_Tickets (
 	eid int NOT NULL,
 	tid int, 
-	price real,
-	happen_date date,
-	seat varchar(30),
-	seller varchar(100),
+	listing_count int,
+	average_price real,
+	lowest_price real,
+	highest_price real,
+	happen_date timestamp,
+	url text,
 	PRIMARY KEY (tid),
 	FOREIGN KEY (eid) REFERENCES Event_Locates
 		ON DELETE CASCADE
@@ -104,4 +106,7 @@ CREATE TABLE Nearby (
 \copy event_locates from data/Event_Locates.txt
 \copy performers from data/Performers.txt
 \copy performs from data/Performs.txt
-
+\copy has_tickets from data/Has_Tickets.txt
+\copy users from data/Users.txt
+\copy participates from data/Participates.txt
+\copy favors from data/Favors.txt
