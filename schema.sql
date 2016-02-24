@@ -1,3 +1,5 @@
+DROP TABLE Event_Locates, Favors, Has_Tickets, Nearby, Participates, Performers, Performs, Restaurants, Reviews, Users, Venues;
+
 /* entity */
 
 CREATE TABLE Users (
@@ -8,13 +10,20 @@ CREATE TABLE Users (
 	email varchar(20)
 );
 
-CREATE TABLE Event_Locates (
-	vid int NOT NULL,
-	eid int PRIMARY KEY,
+CREATE TABLE Venues (
+	vid int PRIMARY KEY,
 	name varchar(80),
+	location text,
+	coordinate point,
+	url text
+);
+
+CREATE TABLE Event_Locates (
+	eid int PRIMARY KEY,
+	vid int NOT NULL,
+	name text,
 	description text,
-	category varchar(30),
-	image text,
+	category text,
 	FOREIGN KEY (vid) REFERENCES Venues
 		ON DELETE CASCADE
 );
@@ -34,25 +43,17 @@ CREATE TABLE Has_Tickets (
 
 CREATE TABLE Performers (
 	pid int PRIMARY KEY,
-	name varchar(50),
-	birthday date,
-	specialty varchar(30),
-	image text
-);
-
-CREATE TABLE Venues (
-	vid int PRIMARY KEY,
-	location text,
-	name varchar(80),
-	coordinate point,
-	image text
+	name text,
+	type text,
+	image text,
+	url text
 );
 
 CREATE TABLE Restaurants (
 	rid int PRIMARY KEY,
 	name varchar(80),
 	cuisine varchar(30),
-image text
+	image text
 );
 
 /* relationship */
@@ -73,8 +74,8 @@ CREATE TABLE Favors (
 
 
 CREATE TABLE Performs (
-	pid int REFERENCES Performers,
 	eid int REFERENCES Event_Locates,
+	pid int REFERENCES Performers,
 	PRIMARY KEY (pid, eid)
 );
 
@@ -99,4 +100,8 @@ CREATE TABLE Nearby (
 	PRIMARY KEY (vid, rid)
 );
 
+\copy venues from data/Venues.txt 
+\copy event_locates from data/Event_Locates.txt
+\copy performers from data/Performers.txt
+\copy performs from data/Performs.txt
 

@@ -1,9 +1,14 @@
 Tickets API:
 http://www.programmableweb.com/category/tickets/apis?category=20393
+SeatGeek:
+http://platform.seatgeek.com/
 
 Operations for psql:
 \i test.sql 
 
 \copy users from 'data.txt';
 
+\d+ users
+\dt
 
+truncate venues cascade;

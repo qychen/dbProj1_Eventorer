@@ -1,0 +1,855 @@
+4319	Cirque du Soleil - Downtown Disney	1478 East Buena Vista Drive Orlando, FL 32830	(28.3714,-81.5132)	https://seatgeek.com/venues/cirque-du-soleil-downtown-disney/tickets
+517	House of Blues Boston	15 Lansdowne St. Boston, MA 02215	(42.2913,-71.0889)	https://seatgeek.com/venues/house-of-blues-boston/tickets
+3905	Alumni Arena	175 Alumni Arena Buffalo, NY 14260	(42.8864,-78.8784)	https://seatgeek.com/venues/alumni-arena/tickets
+179410	Aperture Cinema	311 West Fourth St. Winston Salem, NC 27101	(36.0983,-80.2475)	https://seatgeek.com/venues/aperture-cinema/tickets
+3182	Broadway Theatre	1681 Broadway New York, NY 10019	(40.7632,-73.9829)	https://seatgeek.com/venues/broadway-theatre-1/tickets
+2948	Nederlander Theatre	208 West 41st Street New York, NY 10036	(40.7557,-73.9882)	https://seatgeek.com/venues/nederlander-theatre/tickets
+3661	Barrymore Theatre	243 West 47th Street New York, NY 10036	(40.6971,-73.9796)	https://seatgeek.com/venues/barrymore-theatre/tickets
+836	Marquis Theatre	1535 Broadway New York, NY 10036	(40.7584,-73.9855)	https://seatgeek.com/venues/marquis-theatre/tickets
+2930	Majestic Theatre	245 West 44th St New York, NY 10036	(40.7584,-73.9882)	https://seatgeek.com/venues/majestic-theatre-9/tickets
+2935	Richard Rodgers Theatre	226 West 46th Street New York, NY 10036	(40.7592,-73.9866)	https://seatgeek.com/venues/richard-rodgers-theatre/tickets
+3423	Williams Arena	1925 University Avenue Se Minneapolis, MN 55455	(44.9768,-93.2284)	https://seatgeek.com/venues/williams-arena/tickets
+58749	Davenport Theatre	354 West 45 Street New York, NY 10036	(40.7599,-73.9906)	https://seatgeek.com/venues/davenport-theatre/tickets
+8947	Theatre Row - The Lion Theatre	410 West 42nd Street New York, NY 10036	(40.7587,-73.9933)	https://seatgeek.com/venues/theatre-row-the-lion-theatre/tickets
+1544	TD Garden	100 Legends Way Boston, MA 02114	(42.3653,-71.0618)	https://seatgeek.com/venues/td-garden/tickets
+3148	Wells Fargo Center	3601 S Broad St Philadelphia, PA 19148	(39.9,-75.17)	https://seatgeek.com/venues/wells-fargo-center/tickets
+1363	Wicomico Civic Center	500 Glen Avenue Salisbury, MD 21804	(38.3676,-75.5736)	https://seatgeek.com/venues/wicomico-civic-center/tickets
+4412	Little Shubert Theatre	422 West 42nd Street New York, NY 10036	(40.7588,-73.9936)	https://seatgeek.com/venues/little-shubert-theatre/tickets
+4451	St. Luke's Theatre	308 West 46th Street New York, NY 10036	(40.76,-73.9884)	https://seatgeek.com/venues/st-luke-s-theatre/tickets
+3893	Samuel J. Friedman Theatre	261 West 47th Street New York, NY 10036	(40.7602,-73.9868)	https://seatgeek.com/venues/samuel-j-friedman-theatre/tickets
+3183	August Wilson Theatre	245 West 52nd Street New York, NY 10019	(40.7629,-73.9837)	https://seatgeek.com/venues/august-wilson-theatre/tickets
+3187	Shubert Theatre	225 West 44th Street New York, NY 10036	(40.6971,-73.9796)	https://seatgeek.com/venues/shubert-theatre-1/tickets
+2302	Imperial Theatre	249 West 45th Street New York, NY 10036	(40.7588,-73.9873)	https://seatgeek.com/venues/imperial-theatre/tickets
+1430	PNC Arena	1400 Edwards Mill Road Raleigh, NC 27607	(35.804,-78.7265)	https://seatgeek.com/venues/pnc-arena/tickets
+3181	Gershwin Theatre	222 West 51st Street New York, NY 10019	(40.7625,-73.985)	https://seatgeek.com/venues/gershwin-theatre/tickets
+181	Verizon Center	601 F Street NW Washington, DC 20004	(38.8973,-77.0209)	https://seatgeek.com/venues/verizon-center/tickets
+1522	Minskoff Theatre	200 West 45th Street New York, NY 10036	(40.7578,-73.986)	https://seatgeek.com/venues/minskoff-theatre/tickets
+3459	Stephen C. O'Connell Center	2020 West University Avenue Gainesville, FL 32611	(29.6495,-82.3526)	https://seatgeek.com/venues/stephen-c-o-connell-center/tickets
+2970	Acorn Theatre	410 West 42nd Street New York, NY 10036	(40.7587,-73.9933)	https://seatgeek.com/venues/acorn-theatre/tickets
+2924	St. James Theatre	246 West 44th Street New York, NY 10036	(40.758,-73.9875)	https://seatgeek.com/venues/st-james-theatre/tickets
+988	Chrysler Hall	201 Brambleton Avenue Norfolk, VA 23510	(36.854,-76.2859)	https://seatgeek.com/venues/chrysler-hall/tickets
+2946	Stephen Sondheim Theatre	124 West 43 Street New York, NY 10036	(40.7558,-73.9849)	https://seatgeek.com/venues/stephen-sondheim-theatre/tickets
+5360	Alfred A. McKethan Stadium at Perry Field	2190 Stadium Road Gainesville, FL 32611	(29.6486,-82.3394)	https://seatgeek.com/venues/alfred-a-mckethan-stadium-at-perry-field-1/tickets
+3475	Bud Walton Arena	1270 Leroy Pond Drive Fayetteville, AR 72701	(36.0611,-94.1781)	https://seatgeek.com/venues/bud-walton-arena/tickets
+2928	New Amsterdam Theatre	214 West 42nd Street New York, NY 10036	(40.7563,-73.9877)	https://seatgeek.com/venues/new-amsterdam-theatre/tickets
+2956	Palace Theatre New York	1564 Broadway New York, NY 10036	(40.759,-73.9848)	https://seatgeek.com/venues/palace-theatre-new-york/tickets
+2933	Eugene O'Neill Theatre	230 West 49th Street New York, NY 10019	(40.7611,-73.9858)	https://seatgeek.com/venues/eugene-o-neill-theatre/tickets
+4305	Bernard B Jacobs Theatre	242 West 45th Street New York, NY 10036	(40.7579,-73.9874)	https://seatgeek.com/venues/bernard-b-jacobs-theatre/tickets
+2953	Vivian Beaumont Theatre	150 West 65th Street New York, NY 10023	(40.7731,-73.9822)	https://seatgeek.com/venues/vivian-beaumont-theatre/tickets
+3882	Al Hirschfeld Theatre	302 West 45th Street New York, NY 10036	(40.7594,-73.9891)	https://seatgeek.com/venues/al-hirschfeld-theatre/tickets
+3897	Circle In The Square Theatre	1633 Broadway New York, NY 10019	(40.7616,-73.984)	https://seatgeek.com/venues/circle-in-the-square-theatre/tickets
+209	Rupp Arena	430 W Vine St Lexington, KY 40507	(38.0495,-84.5024)	https://seatgeek.com/venues/rupp-arena/tickets
+1607	Indiana Farmers Coliseum	1202 E. 38th St Indianapolis, IN 46205	(39.8275,-86.1365)	https://seatgeek.com/venues/indiana-farmers-coliseum/tickets
+1356	Barbara B Mann Performing Arts Hall	8099 College Parkway Fort Myers, FL 33919	(26.5511,-81.8873)	https://seatgeek.com/venues/barbara-b-mann-performing-arts-hall/tickets
+1150	Academy of Music	1420 Locust St Philadelphia, PA 19102	(39.9482,-75.1658)	https://seatgeek.com/venues/academy-of-music/tickets
+986	Heinz Hall	600 Penn Avenue Pittsburgh, PA 15222	(40.4437,-79.8858)	https://seatgeek.com/venues/heinz-hall/tickets
+984	Palace Theatre Columbus	34 W. Broad St. Columbus, OH 43215	(39.9623,-83.0017)	https://seatgeek.com/venues/palace-theatre-columbus/tickets
+91	Air Canada Centre	40 Bay Street Toronto, Canada	(43.6532,-79.3832)	https://seatgeek.com/venues/air-canada-centre/tickets
+1367	The Lakeland Center	701 West Lime Street Lakeland, FL 33815	(28.0411,-81.9635)	https://seatgeek.com/venues/the-lakeland-center/tickets
+1027	Carol Morsani Hall	1010 North W.C. MacInnes Place Tampa, FL 33602	(27.9519,-82.4632)	https://seatgeek.com/venues/carol-morsani-hall/tickets
+120	Quicken Loans Arena	1 Center Court Cleveland, OH 44115	(41.4971,-81.6884)	https://seatgeek.com/venues/quicken-loans-arena/tickets
+1242	Joe Louis Arena	600 Civic Center Dr Detroit, MI 48226	(42.3252,-83.0514)	https://seatgeek.com/venues/joe-louis-arena/tickets
+687	The Peace Center for the Performing Arts	300 South Main Street Greenville, SC 29601	(34.8472,-82.4006)	https://seatgeek.com/venues/the-peace-center-for-the-performing-arts/tickets
+1722	Ohio Theatre	39 E State St Columbus, OH 43215	(39.9602,-82.9991)	https://seatgeek.com/venues/ohio-theatre/tickets
+2428	Metropolitan Opera	10 Lincoln Center Plaza New York, NY 10023	(40.7714,-73.983)	https://seatgeek.com/venues/metropolitan-opera/tickets
+78588	Cougar Field	3100 Cullen Blvd Houston, TX 77204	(29.7258,-95.3463)	https://seatgeek.com/venues/cougar-field/tickets
+3185	Lunt-Fontanne Theatre	205 West 46th Street New York, NY 10036	(40.759,-73.9861)	https://seatgeek.com/venues/lunt-fontanne-theatre/tickets
+3189	David H Koch Theater	20 Lincoln Center Plaza New York, NY 10023	(40.772,-73.9837)	https://seatgeek.com/venues/david-h-koch-theater/tickets
+2940	Winter Garden Theatre	1634 Broadway New York, NY 10019	(40.7616,-73.984)	https://seatgeek.com/venues/winter-garden-theatre/tickets
+3603	The Playhouse on Rodney Square	1007 North Market Street Wilmington, DE 19801	(39.7457,-75.5477)	https://seatgeek.com/venues/the-playhouse-on-rodney-square/tickets
+5352	Olsen Field	100 Wellborn Rd. College Station, TX 77845	(30.6156,-96.3484)	https://seatgeek.com/venues/olsen-field/tickets
+2197	Belk Theatre	130 North Tryon St. Charlotte, NC 28202	(35.2267,-80.8423)	https://seatgeek.com/venues/belk-theatre/tickets
+3813	Detroit Opera House	1526 Broadway Detroit, MI 48226	(42.3317,-83.0479)	https://seatgeek.com/venues/detroit-opera-house/tickets
+139	Bell Centre	1909 Avenue des Canadiens-de-Montreal Montreal, Canada	(45.496,-73.5695)	https://seatgeek.com/venues/bell-centre/tickets
+182	Amalie Arena	401 Channelside Drive Tampa, FL 33602	(27.9426,-82.4519)	https://seatgeek.com/venues/amalie-arena/tickets
+1096	Van Wezel Performing Arts Hall	777 N. Tamiami Trail Sarasota, FL 34236	(27.3425,-82.5468)	https://seatgeek.com/venues/van-wezel-performing-arts-hall/tickets
+33867	Stress Factory	90 Church St New Brunswick, NJ 08901	(40.496,-74.4434)	https://seatgeek.com/venues/stress-factory/tickets
+3186	John Golden Theatre	252 West 45th Street New York, NY 10036	(40.7589,-73.9878)	https://seatgeek.com/venues/john-golden-theatre/tickets
+1215	Selena Auditorium	1901 N. Shoreline Corpus Christi, TX 78401	(27.8093,-97.393)	https://seatgeek.com/venues/selena-auditorium/tickets
+188792	Crossover'S Entertainment Lounge	428 Dunlop W Barrie, Canada	(44.3774,-79.717)	https://seatgeek.com/venues/crossover-s-entertainment-lounge/tickets
+1199	EJ Thomas Hall	198 Hill Street Akron, OH 44325	(41.0785,-81.5153)	https://seatgeek.com/venues/ej-thomas-hall/tickets
+4115	Belasco Theatre	111 West 44th Street New York, NY 10036	(40.7563,-73.9836)	https://seatgeek.com/venues/belasco-theatre/tickets
+405	House of Blues - Houston	1204 Caroline Street Houston, TX 77002	(29.7539,-95.3641)	https://seatgeek.com/venues/house-of-blues-houston/tickets
+6163	The Paramount	370 New York Ave Huntington, NY 11743	(40.8696,-73.4261)	https://seatgeek.com/venues/the-paramount-1/tickets
+484	The Grand Theater at Foxwoods Resort Casino	39 Norwich Westerly Road Mashantucket, CT 06339	(41.47,-71.96)	https://seatgeek.com/venues/the-grand-theater-at-foxwoods-resort-casino/tickets
+4371	The Snapple Theater Center	210 West 50th Street New York, NY 10019	(40.7614,-73.9848)	https://seatgeek.com/venues/the-snapple-theater-center/tickets
+2961	Walnut Street Theatre	825 Walnut Street Philadelphia, PA 19107	(39.9482,-75.1553)	https://seatgeek.com/venues/walnut-street-theatre/tickets
+70820	The Stand NYC	239 3rd Avenue New York, NY 10003	(40.7367,-73.9844)	https://seatgeek.com/venues/the-stand-nyc/tickets
+1372	Taft Theatre	317 East 5th Street Cincinnati, OH 45202	(39.102,-84.5075)	https://seatgeek.com/venues/taft-theatre/tickets
+117	American Airlines Center	2500 Victory Ave Dallas, TX 75219	(32.7767,-96.797)	https://seatgeek.com/venues/american-airlines-center/tickets
+1970	Royal Alexandra Theatre	260 King St. W Toronto, Canada	(43.6473,-79.3875)	https://seatgeek.com/venues/royal-alexandra-theatre/tickets
+82692	The Standing Room	4738 Vernon Blvd Long Island City, NY 11101	(40.7445,-73.9538)	https://seatgeek.com/venues/the-standing-room/tickets
+69827	New York Comedy Club	236 West 78th Street New York, NY 10024	(40.7828,-73.9802)	https://seatgeek.com/venues/new-york-comedy-club/tickets
+4706	Grand Ole Opry House	2804 Opryland Drive Nashville, TN 37214	(36.2063,-86.6936)	https://seatgeek.com/venues/grand-ole-opry-house/tickets
+2969	Helen Hayes Theatre	240 West 44th Street New York, NY 10036	(40.7581,-73.9877)	https://seatgeek.com/venues/helen-hayes-theatre/tickets
+123	Xcel Energy Center	199 West Kellogg Boulevard Saint Paul, MN 55102	(44.9443,-93.101)	https://seatgeek.com/venues/xcel-energy-center/tickets
+774	Carnegie Hall - Stern Auditorium	881 7th Ave New York, NY 10019	(40.7649,-73.9799)	https://seatgeek.com/venues/carnegie-hall-stern-auditorium/tickets
+2959	Ed Mirvish Theatre	244 Victoria St Toronto, Canada	(43.6553,-79.3795)	https://seatgeek.com/venues/ed-mirvish-theatre/tickets
+2952	Lincoln Center Theater - Mitzi E. Newhouse	150 West 65th Street New York, NY 10023	(40.7736,-73.984)	https://seatgeek.com/venues/lincoln-center-theater-mitzi-e-newhouse/tickets
+77657	The Cabot	286 Cabot Street Beverly, MA 01915	(42.5514,-70.8789)	https://seatgeek.com/venues/the-cabot/tickets
+2942	Booth Theatre	222 West 45th Street New York, NY 10036	(40.7583,-73.9863)	https://seatgeek.com/venues/booth-theatre/tickets
+3471	Ferrell Center	1900 S. University Parks Dr. Waco, TX 76706	(31.548,-97.1057)	https://seatgeek.com/venues/ferrell-center/tickets
+612	Higher Ground	1214 Williston Road South Burlington, VT 05403	(44.4689,-73.1756)	https://seatgeek.com/venues/higher-ground/tickets
+59984	Walt Disney Theater at Dr Phillips Center	445 S Magnolia Ave Orlando, FL 32801	(28.5384,-81.3774)	https://seatgeek.com/venues/walt-disney-theater-at-dr-phillips-center/tickets
+2949	Ambassador Theatre	215 West 49th street New York, NY 10019	(40.7613,-73.985)	https://seatgeek.com/venues/ambassador-theatre/tickets
+54234	Laughing Skull Lounge	878 Peachtree Street Atlanta, GA 30309	(33.7788,-84.3844)	https://seatgeek.com/venues/laughing-skull-lounge/tickets
+4458	Studio 54	254 West 54th Street New York, NY 10019	(40.6136,-74.0794)	https://seatgeek.com/venues/studio-54/tickets
+735	Hershey Theatre	15 E Caracas Ave Hershey, PA 17033	(40.2886,-76.6509)	https://seatgeek.com/venues/hershey-theatre/tickets
+185	AT&T Center	1 AT&T Center San Antonio, TX 78219	(29.4264,-98.4365)	https://seatgeek.com/venues/at-t-center/tickets
+85	BOK Center	200 south denver Tulsa, OK 74103	(36.1529,-95.9961)	https://seatgeek.com/venues/bok-center/tickets
+4324	Theatre Row - The Kirk Theatre	410 West 42nd Street New York, NY 10036	(40.7587,-73.9933)	https://seatgeek.com/venues/theatre-row-the-kirk-theatre/tickets
+8910	Guthrie Theater McGuire Proscenium Stage	818 South 2nd Street Minneapolis, MN 55415	(44.978,-93.2554)	https://seatgeek.com/venues/guthrie-theater-mcguire-proscenium-stage/tickets
+4018	Marcus Center for the Performing Arts	929 North Water Street Milwaukee, WI 53202	(43.0426,-87.9117)	https://seatgeek.com/venues/marcus-center-for-the-performing-arts/tickets
+8355	Kalita Humphreys Theater	2400 Flora Street Dallas, TX 75201	(32.7767,-96.797)	https://seatgeek.com/venues/kalita-humphreys-theater/tickets
+3728	Turner Hall Ballroom	1032 N 4Th Street Milwaukee, WI 53203	(43.0437,-87.9159)	https://seatgeek.com/venues/turner-hall-ballroom/tickets
+2153	Music Hall Kansas City	301 West 13th St. Kansas City, MO 64105	(39.0983,-94.5875)	https://seatgeek.com/venues/music-hall-kansas-city-1/tickets
+356	House of Blues New Orleans	225 Decatur Street New Orleans, LA 70130	(29.9532,-90.0662)	https://seatgeek.com/venues/house-of-blues-new-orleans/tickets
+4321	The Ordway Center for the Performing Arts	345 Washington Street Saint Paul, MN 55102	(44.9445,-93.0977)	https://seatgeek.com/venues/the-ordway-center-for-the-performing-arts/tickets
+883	Variety Playhouse	1099 Euclid Avenue Atlanta, GA 30307	(33.7638,-84.3512)	https://seatgeek.com/venues/variety-playhouse/tickets
+1897	Cadillac Palace Theatre	151 W Randolph Street Chicago, IL 60602	(41.8843,-87.6329)	https://seatgeek.com/venues/cadillac-palace-theatre/tickets
+3488	Silvio O. Conte Forum	140 Commonwealth Ave. Chestnut Hill, MA 02467	(42.3353,-71.1685)	https://seatgeek.com/venues/silvio-o-conte-forum/tickets
+187	Pepsi Center	1000 Chopper Circle Denver, CO 80204	(39.7487,-105.008)	https://seatgeek.com/venues/pepsi-center/tickets
+188	Vivint Smart Home Arena	301 West South Temple Salt Lake City, UT 84101	(40.7693,-111.9)	https://seatgeek.com/venues/vivint-smart-home-arena/tickets
+5929	The Second City Mainstage Theatre	1616 N Wells St Chicago, IL 60614	(41.9116,-87.635)	https://seatgeek.com/venues/the-second-city-mainstage-theatre/tickets
+716	The Fabulous Fox Theatre St Louis	527 N. Grand Blvd St. Louis, MO 63103	(38.6387,-90.2318)	https://seatgeek.com/venues/the-fabulous-fox-theatre-st-louis/tickets
+11700	The Elbo Room	2871 N. Lincoln Ave. Chicago, IL 60657	(41.9342,-87.6607)	https://seatgeek.com/venues/the-elbo-room-1/tickets
+99	Schottenstein Center	555 Borror Drive Columbus, OH 43210	(40.0077,-83.0248)	https://seatgeek.com/venues/schottenstein-center/tickets
+149274	The Pavilion at Ole Miss	328 Mississippi 31 Oxford, MS 38677	(34.2709,-89.5368)	https://seatgeek.com/venues/the-pavilion-at-ole-miss/tickets
+420	Bass Concert Hall	2350 Robert Dedman Drive Austin, TX 78701	(30.2862,-97.7312)	https://seatgeek.com/venues/bass-concert-hall/tickets
+7824	UP Comedy Club	230 W. North Ave Chicago, IL 60614	(41.9111,-87.6359)	https://seatgeek.com/venues/up-comedy-club/tickets
+32007	The Second City	99 Blue Jays Way Toronto, Canada	(43.6453,-79.3918)	https://seatgeek.com/venues/the-second-city/tickets
+14438	Metropolitan Room	34 West 22nd Street New York, NY 10010	(40.74,-73.99)	https://seatgeek.com/venues/metropolitan-room/tickets
+835	Buell Theatre	1031 13th Street Denver, CO 80204	(39.7447,-104.999)	https://seatgeek.com/venues/buell-theatre/tickets
+3515	Majestic Theatre	115 King St. Madison, WI 53703	(43.0744,-89.3809)	https://seatgeek.com/venues/majestic-theatre-1/tickets
+39142	Century Room	580 King St. W. Toronto, Canada	(43.6446,-79.3992)	https://seatgeek.com/venues/century-room/tickets
+30147	Hyde Park Cafe	1806 W. Platt Street Tampa, FL 33606	(27.9418,-82.4783)	https://seatgeek.com/venues/hyde-park-cafe/tickets
+3732	Buddy Guys Legends	700 S Wabash Chicago, IL 60605	(41.873,-87.6264)	https://seatgeek.com/venues/buddy-guys-legends/tickets
+13270	Rosa's Lounge	3420 W Armitage Ave. Chicago, IL 60647	(41.8781,-87.6298)	https://seatgeek.com/venues/rosa-s-lounge/tickets
+2149	The Westcott Theater	524 Westcott Street Syracuse, NY 13210	(43.041,-76.1193)	https://seatgeek.com/venues/the-westcott-theater/tickets
+44333	Wall Lounge	2201 Collins Ave Miami Beach, FL 33139	(25.7976,-80.1283)	https://seatgeek.com/venues/wall-lounge-1/tickets
+803	Byham Theater	101 Sixth Street Pittsburgh, PA 15222	(40.4406,-79.9959)	https://seatgeek.com/venues/byham-theater/tickets
+112	Time Warner Cable Arena	333 East Trade Street Charlotte, NC 28202	(35.2248,-80.8403)	https://seatgeek.com/venues/time-warner-cable-arena/tickets
+4414	The Green Lot at Turner Field	521 Capitol Avenue Atlanta, GA 30312	(33.7359,-84.3905)	https://seatgeek.com/venues/the-green-lot-at-turner-field/tickets
+9310	Studio One Riffe Center	77 South High Street Columbus, OH 43215	(39.9606,-83.0007)	https://seatgeek.com/venues/studio-one-riffe-center/tickets
+179669	Texas Seaport Museum	2200 Harborside Galveston, TX 77550	(29.3091,-94.7936)	https://seatgeek.com/venues/texas-seaport-museum/tickets
+53398	Cherokee Ranch and Castle	6113 Daniels Park Rd Sedalia, CO 80135	(39.4576,-104.938)	https://seatgeek.com/venues/cherokee-ranch-and-castle/tickets
+3015	Meadow Brook Theatre	207 Wilson Hall Rochester, MI 48309	(42.6806,-83.1338)	https://seatgeek.com/venues/meadow-brook-theatre/tickets
+4354	Laura Pels Theater	111 West 46th Street New York, NY 10036	(40.7576,-73.9827)	https://seatgeek.com/venues/laura-pels-theater/tickets
+4405	Marriott Theater	10 Marriott Drive Lincolnshire, IL 60069	(42.1959,-87.9174)	https://seatgeek.com/venues/marriott-theater/tickets
+2963	American Airlines Theatre	227 West 42nd Street New York, NY 10036	(40.7566,-73.9883)	https://seatgeek.com/venues/american-airlines-theatre/tickets
+2478	Drury Lane Theatre Oakbrook Terrace	100 Drury Lane Oakbrook Terrace, IL 60181	(41.8597,-87.9524)	https://seatgeek.com/venues/drury-lane-theatre-oakbrook-terrace/tickets
+771	The Avalon Ballroom Theatre At Niagara Fallsview Casino Resort	6380 Fallsview Boulevard Niagara Falls, Canada	(43.0896,-79.0849)	https://seatgeek.com/venues/the-avalon-ballroom-theatre-at-niagara-fallsview-casino-resort/tickets
+55006	Zach Theatre	1510 Toomey Rd. Austin, TX 78704	(30.264,-97.7589)	https://seatgeek.com/venues/zach-theatre/tickets
+5334	Founders Park	431 Williams St Columbia, SC 29208	(33.986,-81.0433)	https://seatgeek.com/venues/founders-park-1/tickets
+5344	Baum Stadium At George Cole Field	350 North Razorback Road Fayetteville, AR 72701	(36.0626,-94.1574)	https://seatgeek.com/venues/baum-stadium-at-george-cole-field/tickets
+5349	Hawkins Field	2600 Jess Neely Drive Nashville, TN 37212	(36.1428,-86.8076)	https://seatgeek.com/venues/hawkins-field/tickets
+45659	Mark Light Field	6201 San Amaro Drive Miami, FL 33146	(25.7133,-80.2832)	https://seatgeek.com/venues/mark-light-field/tickets
+425	Masquerade	695 North Ave NE Atlanta, GA 30308	(33.7709,-84.3645)	https://seatgeek.com/venues/masquerade-1/tickets
+55283	Terra Fermata	26 SE 6th Street Stuart, FL 34994	(27.1946,-80.2522)	https://seatgeek.com/venues/terra-fermata/tickets
+3386	Stage AE	400 North Shore Drive Pittsburgh, PA 15212	(40.4457,-80.0125)	https://seatgeek.com/venues/stage-ae/tickets
+7096	Jay Bergman Field	Building 82 Orlando, FL 32816	(28.6095,-81.1961)	https://seatgeek.com/venues/jay-bergman-field/tickets
+987	Sheas Performing Arts Center	646 Main Street Buffalo, NY 14202	(42.8915,-78.8725)	https://seatgeek.com/venues/sheas-performing-arts-center/tickets
+8948	Lincoln Center Theater - Claire Tow Theater	150 West 65th Street New York, NY 10023	(40.7736,-73.9837)	https://seatgeek.com/venues/lincoln-center-theater-claire-tow-theater/tickets
+1543	Webster Bank Arena	600 Main Street Bridgeport, CT 06604	(41.1828,-73.181)	https://seatgeek.com/venues/webster-bank-arena/tickets
+2954	Kennedy Center Opera House	2700 F Street Washington, DC 20566	(38.8974,-77.0549)	https://seatgeek.com/venues/kennedy-center-opera-house/tickets
+3455	Auburn Arena	250 Beard Auburn, AL 36849	(32.6075,-85.4817)	https://seatgeek.com/venues/auburn-arena/tickets
+1352	Mullins Center	200 Commonwealth Avenue Amherst, MA 01003	(42.3928,-72.534)	https://seatgeek.com/venues/mullins-center/tickets
+3470	Robins Center	28 Westhampton Way Richmond, VA 23173	(37.5736,-77.5395)	https://seatgeek.com/venues/robins-center/tickets
+806	Verizon Wireless Arena	555 Elm Street Manchester, NH 03101	(42.9862,-71.463)	https://seatgeek.com/venues/verizon-wireless-arena/tickets
+297	Count Basie Theatre	99 Monmouth Street Red Bank, NJ 07701	(40.3489,-74.0702)	https://seatgeek.com/venues/count-basie-theatre/tickets
+1410	United Palace Theatre	4140 Broadway New York, NY 10033	(40.85,-73.94)	https://seatgeek.com/venues/united-palace-theatre/tickets
+1618	Albany Civic Center	100 W Ogelthorpe Blvd Albany, GA 31703	(31.5754,-84.1502)	https://seatgeek.com/venues/albany-civic-center-1/tickets
+1334	Peabody Auditorium	600 Auditorium Blvd. Daytona Beach, FL 32118	(29.23,-81.01)	https://seatgeek.com/venues/peabody-auditorium-1/tickets
+53719	Cross Insurance Center	515 Main Street Bangor, ME 04401	(44.7882,-68.7782)	https://seatgeek.com/venues/cross-insurance-center/tickets
+519	Irving Plaza	17 Irving Place New York, NY 10003	(40.7349,-73.9884)	https://seatgeek.com/venues/irving-plaza/tickets
+121	Bankers Life Fieldhouse	125 S. Pennsylvania St. Indianapolis, IN 46204	(39.7648,-86.1563)	https://seatgeek.com/venues/bankers-life-fieldhouse/tickets
+3472	Gampel Pavilion	2095 Hillside Rd. Storrs, CT 06269	(41.8072,-72.2557)	https://seatgeek.com/venues/gampel-pavilion/tickets
+150	Canadian Tire Centre	1000 Paladium Drive Kanata, Canada	(45.2973,-75.9258)	https://seatgeek.com/venues/canadian-tire-centre/tickets
+153	Times Union Center	51 South Pearl Street Albany, NY 12207	(42.6482,-73.7538)	https://seatgeek.com/venues/times-union-center/tickets
+1194	Mahaffey Theater	400 First Street South Saint Petersburg, FL 33701	(27.7671,-82.6324)	https://seatgeek.com/venues/mahaffey-theater/tickets
+3431	Cintas Center	1624 Herald Ave Cincinnati, OH 45207	(39.1489,-84.4726)	https://seatgeek.com/venues/cintas-center/tickets
+55374	CFE Arena	2911 E. Robinson Street Orlando, FL 32816	(28.5469,-81.3467)	https://seatgeek.com/venues/cfe-arena-1/tickets
+204	Royal Oak Music Theatre	318 W. 4th St. Royal Oak, MI 48067	(42.4874,-83.1474)	https://seatgeek.com/venues/royal-oak-music-theatre/tickets
+3476	Reilly Center	3261 West State Street St. Bonaventure, NY 14778	(42.0786,-78.4759)	https://seatgeek.com/venues/reilly-center/tickets
+180	XL Center	1 Civic Center Plaza Hartford, CT 06103	(41.7672,-72.6756)	https://seatgeek.com/venues/xl-center/tickets
+4367	Theatre Row - The Clurman Theatre	410 West 42nd Street New York, NY 10036	(40.7588,-73.9938)	https://seatgeek.com/venues/theatre-row-the-clurman-theatre/tickets
+1879	Reed Arena	730 Olsen Boulevard College Station, TX 77843	(30.6056,-96.3469)	https://seatgeek.com/venues/reed-arena/tickets
+804	EagleBank Arena	4500 Patriot Circle Fairfax, VA 22030	(38.8462,-77.3064)	https://seatgeek.com/venues/eaglebank-arena/tickets
+3450	Crisler Center	333 East Stadium Ann Arbor, MI 48104	(42.2658,-83.7451)	https://seatgeek.com/venues/crisler-center/tickets
+214078	Temple Israel	4901 Providence Road Charlotte, NC 28216	(35.2271,-80.8431)	https://seatgeek.com/venues/temple-israel-2/tickets
+13717	The Laughing Derby	1250 Bardstown Rd Louisville, KY 40204	(38.2353,-85.7172)	https://seatgeek.com/venues/the-laughing-derby/tickets
+139408	Pollack	555 rue Sherbrooke Ouest Montreal, Canada	(45.5056,-73.573)	https://seatgeek.com/venues/pollack/tickets
+1373	Embassy Theatre	125 West Jefferson Blvd Fort Wayne, IN 46802	(41.0761,-85.1395)	https://seatgeek.com/venues/embassy-theatre/tickets
+1326	Wilbur Theatre	246 Tremont Street Boston, MA 02116	(42.3508,-71.0648)	https://seatgeek.com/venues/wilbur-theatre/tickets
+951	Germain Arena	11000 Everblades Parkway Estero, FL 33928	(26.4413,-81.7768)	https://seatgeek.com/venues/germain-arena/tickets
+6847	Gwinnett Center	6400 Sugarloaf Parkway Duluth, GA 30097	(33.9608,-84.0379)	https://seatgeek.com/venues/gwinnett-center/tickets
+183	American Airlines Arena	601 Biscayne Blvd Miami, FL 33132	(25.7812,-80.1878)	https://seatgeek.com/venues/american-airlines-arena/tickets
+137	The Palace of Auburn Hills	6 Championship Drive Auburn Hills, MI 48326	(42.6968,-83.2455)	https://seatgeek.com/venues/the-palace-of-auburn-hills/tickets
+798	Ferguson Center for the Arts Concert Hall	1 University Place Newport News, VA 23606	(37.0648,-76.4932)	https://seatgeek.com/venues/ferguson-center-for-the-arts-concert-hall/tickets
+776	Merrill Auditorium	20 Myrtle Street Portland, ME 04101	(43.6595,-70.2571)	https://seatgeek.com/venues/merrill-auditorium/tickets
+60271	Thalia Hall	1807 S Allport St Chicago, IL 60608	(41.8577,-87.6572)	https://seatgeek.com/venues/thalia-hall/tickets
+179515	Salle Tanna Schulich Hall	McGill University Montreal, Canada	(45.5048,-73.5771)	https://seatgeek.com/venues/salle-tanna-schulich-hall/tickets
+357	The National	708 East Broad Street Richmond, VA 23219	(37.5419,-77.4352)	https://seatgeek.com/venues/the-national/tickets
+748	Alabama Theatre	4750 S Kings Hwy North Myrtle Beach, SC 29582	(33.7993,-78.7374)	https://seatgeek.com/venues/alabama-theatre-1/tickets
+3886	Kennedy Center Eisenhower Theater	2700 F Street Nw Washington, DC 20566	(38.8962,-77.0555)	https://seatgeek.com/venues/kennedy-center-eisenhower-theater/tickets
+67633	Harvester Performance Center	450 Franklin Street Rocky Mount, VA 24151	(36.9976,-79.892)	https://seatgeek.com/venues/harvester-performance-center/tickets
+1728	Carpenter Theatre	600 East Grace Street Richmond, VA 23219	(37.54,-77.44)	https://seatgeek.com/venues/carpenter-theatre/tickets
+1817	Apollo Theater	253 West 125th Street New York, NY 10027	(40.8097,-73.9502)	https://seatgeek.com/venues/apollo-theater/tickets
+962	Durham Performing Arts Center	123 Vivian St Durham, NC 27701	(35.9931,-78.9023)	https://seatgeek.com/venues/durham-performing-arts-center/tickets
+13837	Palm Beach Improv	550 S ROSEMARY AVE West Palm Beach, FL 33401	(26.7153,-80.0534)	https://seatgeek.com/venues/palm-beach-improv/tickets
+9102	Broward Center for the Performing Arts	201 SW 5th Avenue Fort Lauderdale, FL 33312	(26.1202,-80.1485)	https://seatgeek.com/venues/broward-center-for-the-performing-arts/tickets
+469	Wang Theatre at Boston	270 Tremont Street Boston, MA 02116	(42.3503,-71.065)	https://seatgeek.com/venues/wang-theatre-at-boston/tickets
+13618	Levity Live	4210 Palisades Center Drive West Nyack, NY 10994	(41.0981,-73.9527)	https://seatgeek.com/venues/levity-live/tickets
+126	BB&T Center	1 Panther Pkwy Sunrise, FL 33323	(26.1585,-80.3256)	https://seatgeek.com/venues/bb-t-center/tickets
+2067	JQH Arena	901 S. National Ave. Springfield, MO 65897	(37.209,-93.2923)	https://seatgeek.com/venues/jqh-arena/tickets
+3473	Fogelman Arena in Devlin Fieldhouse	1  Freret Street New Orleans, LA 70118	(29.939,-90.1208)	https://seatgeek.com/venues/fogelman-arena-in-devlin-fieldhouse/tickets
+742	The Social	54 N Orange Ave Orlando, FL 32801	(28.5431,-81.3793)	https://seatgeek.com/venues/the-social/tickets
+3605	The Complex	536 West 100 South Salt Lake City, UT 84101	(40.7557,-111.844)	https://seatgeek.com/venues/the-complex/tickets
+7952	Terminal West	887 West Marietta St NW Atlanta, GA 30318	(33.7831,-84.4172)	https://seatgeek.com/venues/terminal-west/tickets
+9352	Blue Man Group Theatre at Universal CityWalk	6000 Universal Blvd Orlando, FL 32819	(28.4762,-81.4625)	https://seatgeek.com/venues/blue-man-group-theatre-at-universal-citywalk/tickets
+779	Amos' Southend	1423 S Tryon St Charlotte, NC 28203	(35.2167,-80.8551)	https://seatgeek.com/venues/amos-southend/tickets
+135	Target Center	600 First Avenue North Minneapolis, MN 55403	(44.9795,-93.2762)	https://seatgeek.com/venues/target-center/tickets
+136	United Center	1901 W Madison St Chicago, IL 60612	(41.8807,-87.6746)	https://seatgeek.com/venues/united-center/tickets
+2882	Summit Music Hall	1902 Blake Street Denver, CO 80202	(39.7533,-104.995)	https://seatgeek.com/venues/summit-music-hall/tickets
+1658	Petersen Events Center	3719 Terrace Street Pittsburgh, PA 15261	(40.4432,-79.9616)	https://seatgeek.com/venues/petersen-events-center/tickets
+1243	FedExForum	191 Beale Street Memphis, TN 38103	(35.1383,-90.0522)	https://seatgeek.com/venues/fedexforum/tickets
+777	Seminole Hard Rock Hotel & Casino	1 Seminole Way Hollywood, FL 33314	(26.041,-80.2117)	https://seatgeek.com/venues/seminole-hard-rock-hotel-casino/tickets
+2964	Orpheum Theatre	126 Second Ave New York, NY 10003	(40.7284,-73.9878)	https://seatgeek.com/venues/orpheum-theatre-9/tickets
+3883	Astor Place Theatre	434 Lafayette Street New York, NY 10003	(40.7292,-73.992)	https://seatgeek.com/venues/astor-place-theatre/tickets
+131913	Wagner'S Backyard	15505 NORTH INTERSTATE 35 BUILDING C Pflugerville, TX 78660	(30.4515,-97.666)	https://seatgeek.com/venues/wagner-s-backyard/tickets
+7515	Comedy Castle	310 South Troy St. Royal Oak, MI 48067	(42.4876,-83.1421)	https://seatgeek.com/venues/comedy-castle/tickets
+5090	Carolina Theatre	309 West Morgan Street Durham, NC 27701	(36.1465,-79.4216)	https://seatgeek.com/venues/carolina-theatre/tickets
+3193	Ziff Ballet Opera House at Adrienne Arsht Center	1300 Biscayne Blvd Miami, FL 33132	(25.7877,-80.1886)	https://seatgeek.com/venues/ziff-ballet-opera-house-at-adrienne-arsht-center/tickets
+42122	Fort Lauderdale Improv	5700 Seminole Way Fort Lauderdale, FL 33314	(26.1237,-80.1436)	https://seatgeek.com/venues/fort-lauderdale-improv/tickets
+7039	Asylum	121 Center Street Portland, ME 04101	(43.6564,-70.259)	https://seatgeek.com/venues/asylum-11/tickets
+6660	Kravis Center	701 Okeechobee Blvd. West Palm Beach, FL 33401	(26.7069,-80.0611)	https://seatgeek.com/venues/kravis-center/tickets
+1721	State Theatre - The Playhouse Square Center	1501 Euclid Ave. Cleveland, OH 44115	(41.5013,-81.6807)	https://seatgeek.com/venues/state-theatre-the-playhouse-square-center/tickets
+1877	McLeod Center	2501 Hudson Rd. Cedar Falls, IA 50614	(42.5153,-92.4657)	https://seatgeek.com/venues/mcleod-center/tickets
+746	The Norva	317 Monticello Ave Norfolk, VA 23510	(36.8501,-76.2893)	https://seatgeek.com/venues/the-norva/tickets
+3458	Hilton Coliseum	1700 Lincoln Way Ames, IA 50011	(42.0206,-93.6348)	https://seatgeek.com/venues/hilton-coliseum/tickets
+4401	New World Stages / Stage 4	340 West 50th Street New York, NY 10019	(40.7628,-73.9874)	https://seatgeek.com/venues/new-world-stages-stage-4/tickets
+57227	Laugh Boston	425 Summer Street Boston, MA 02210	(42.3601,-71.0589)	https://seatgeek.com/venues/laugh-boston/tickets
+364	Rams Head Live	20 Market Place Baltimore, MD 21202	(39.2885,-76.6068)	https://seatgeek.com/venues/rams-head-live/tickets
+1180	Carnegie Of Homestead Music Hall	510 East 10th Avenue Munhall, PA 15120	(40.407,-79.9029)	https://seatgeek.com/venues/carnegie-of-homestead-music-hall/tickets
+94	Wells Fargo Arena	730 3rd Street Des Moines, IA 50309	(41.5917,-93.6215)	https://seatgeek.com/venues/wells-fargo-arena-2/tickets
+4375	New World Stages - Stage 3	340 West 50th Street New York, NY 10019	(40.7628,-73.9874)	https://seatgeek.com/venues/new-world-stages-stage-3/tickets
+493	Florida Theatre	128 East Forsyth Street Jacksonville, FL 32202	(30.3263,-81.6557)	https://seatgeek.com/venues/florida-theatre/tickets
+2929	New World Stages	340 West 50th Street New York, NY 10019	(40.7628,-73.9874)	https://seatgeek.com/venues/new-world-stages/tickets
+4307	Minetta Lane Theatre	18 Minetta Lane New York, NY 10012	(40.7303,-74.0011)	https://seatgeek.com/venues/minetta-lane-theatre/tickets
+3693	Sangamon Auditorium	1 University Plaza Springfield, IL 62703	(39.7494,-89.6059)	https://seatgeek.com/venues/sangamon-auditorium/tickets
+207	BMO Harris Bradley Center	1001 North 4th Street Milwaukee, WI 53203	(43.0434,-87.9173)	https://seatgeek.com/venues/bmo-harris-bradley-center/tickets
+1813	Tivoli Theatre	709 Broad St Chattanooga, TN 37402	(35.0479,-85.3112)	https://seatgeek.com/venues/tivoli-theatre/tickets
+4498	O'Reilly Theater	621 Penn Avenue Pittsburgh, PA 15222	(40.444,-79.8856)	https://seatgeek.com/venues/o-reilly-theater/tickets
+3859	Ponte Vedra Concert Hall	1050 A1A North Ponte Vedra Beach, FL 32082	(30.0971,-81.466)	https://seatgeek.com/venues/ponte-vedra-concert-hall/tickets
+7023	Oriental Theatre	24 W Randolph St Chicago, IL 60601	(41.8846,-87.6287)	https://seatgeek.com/venues/oriental-theatre/tickets
+4617	Bedell Performance Hall	518 South Fountain Street Cape Girardeau, MO 63701	(37.2963,-89.521)	https://seatgeek.com/venues/bedell-performance-hall/tickets
+4369	Ricketson Theatre	1050 13th Street Denver, CO 80204	(39.7448,-104.999)	https://seatgeek.com/venues/ricketson-theatre/tickets
+599	Five Flags Center	405 Main Street Dubuque, IA 52001	(42.4979,-90.6662)	https://seatgeek.com/venues/five-flags-center/tickets
+110013	Dallas Comedy House	3025 Main St. Dallas, TX 75226	(32.7834,-96.7761)	https://seatgeek.com/venues/dallas-comedy-house/tickets
+1476	Black River Coliseum	301 South 5th Street Poplar Bluff, MO 63901	(36.7551,-90.396)	https://seatgeek.com/venues/black-river-coliseum/tickets
+161063	Atlanta Comedy Theater	4650 Jimmy Carter Boulevard Norcross, GA 30093	(33.8849,-84.1937)	https://seatgeek.com/venues/atlanta-comedy-theater/tickets
+719	Bowery Ballroom	6 Delancey Street New York, NY 10002	(40.72,-73.9936)	https://seatgeek.com/venues/bowery-ballroom/tickets
+4413	Stage Theatre	1050 13th Street Denver, CO 80204	(39.745,-104.999)	https://seatgeek.com/venues/stage-theatre/tickets
+1516	Mercy Lounge	1 Cannery Row Nashville, TN 37203	(36.153,-86.7799)	https://seatgeek.com/venues/mercy-lounge/tickets
+3406	Granada	1020 Massachusetts Lawrence, KS 66044	(38.9648,-95.2355)	https://seatgeek.com/venues/granada/tickets
+3426	Lloyd Noble Center	2900 Jenkins Center Norman, OK 73019	(35.1884,-97.4428)	https://seatgeek.com/venues/lloyd-noble-center/tickets
+507	Bismarck Civic Center	315 South 5th Street Bismarck, ND 58504	(46.8031,-100.783)	https://seatgeek.com/venues/bismarck-civic-center/tickets
+611	Lupo's Heartbreak Hotel	79 Washington St. Providence, RI 02903	(41.8234,-71.4142)	https://seatgeek.com/venues/lupo-s-heartbreak-hotel/tickets
+440	The Pageant	6161 Delmar Blvd Saint Louis, MO 63112	(38.6556,-90.2979)	https://seatgeek.com/venues/the-pageant/tickets
+1515	Lawrence Joel Veterans Memorial Coliseum	2825 University Parkway Winston-Salem, NC 27105	(36.1279,-80.2539)	https://seatgeek.com/venues/lawrence-joel-veterans-memorial-coliseum/tickets
+8821	The Vogue	6259 North College Avenue Indianapolis, IN 46220	(39.8692,-86.1457)	https://seatgeek.com/venues/the-vogue-3/tickets
+328	The Orange Peel	101 Biltmore Ave Asheville, NC 28801	(35.4633,-82.3052)	https://seatgeek.com/venues/the-orange-peel/tickets
+161674	Cafe Iguana Pines	8358 Pines Blvd Pembroke Pines, FL 33024	(26.0076,-80.2516)	https://seatgeek.com/venues/cafe-iguana-pines/tickets
+1049	State Theatre	687 Central Avenue Saint Petersburg, FL 33701	(27.7715,-82.6434)	https://seatgeek.com/venues/state-theatre-14/tickets
+3427	Coors Events Center	1 Kittredge Loop Drive Boulder, CO 80309	(40.0017,-105.263)	https://seatgeek.com/venues/coors-events-center/tickets
+359	Headliners Music Hall	1386 Lexington Road Louisville, KY 40206	(38.2508,-85.7238)	https://seatgeek.com/venues/headliners-music-hall/tickets
+3467	Carver-Hawkeye Arena	1 Elliot Drive Iowa City, IA 52242	(41.6639,-91.5545)	https://seatgeek.com/venues/carver-hawkeye-arena/tickets
+1429	Colonial Life Arena	801 Lincoln Street Columbia, SC 29208	(33.9947,-81.037)	https://seatgeek.com/venues/colonial-life-arena/tickets
+451	Fillmore Auditorium	1510 Clarkson Street Denver, CO 80218	(39.7404,-104.977)	https://seatgeek.com/venues/fillmore-auditorium/tickets
+698	Enmax Centre	2510 Scenic Dr. Lethbridge, Canada	(49.6688,-112.805)	https://seatgeek.com/venues/enmax-centre/tickets
+2965	Briar Street Theatre	3133 N Halsted Chicago, IL 60657	(41.9391,-87.6492)	https://seatgeek.com/venues/briar-street-theatre/tickets
+5183	Joseph J. Gentile Center	6511 N. Winthrop Chicago, IL 60626	(42.0007,-87.659)	https://seatgeek.com/venues/joseph-j-gentile-center/tickets
+4960	Turf Club	1601 University Avenue Saint Paul, MN 55104	(44.9557,-93.168)	https://seatgeek.com/venues/turf-club/tickets
+16898	Park City Live	427 Main St. Park City, UT 84060	(40.6437,-111.496)	https://seatgeek.com/venues/park-city-live/tickets
+562	7th Street Entry	701 First Avenue North Minneapolis, MN 55403	(44.9783,-93.2761)	https://seatgeek.com/venues/7th-street-entry/tickets
+7697	Wooly's	504 E. Locust Des Moines, IA 50309	(41.5897,-93.6109)	https://seatgeek.com/venues/wooly-s/tickets
+9827	Studio Paris	59 W. Hubbard Street Chicago, IL 60654	(41.8898,-87.6304)	https://seatgeek.com/venues/studio-paris/tickets
+78758	Moomba Theater	1780 Avenue Pierre Peladeau Laval, Canada	(45.5616,-73.7429)	https://seatgeek.com/venues/moomba-theater/tickets
+3121	Barrymore'S	323 Bank Street Ottawa, Canada	(45.4144,-75.6955)	https://seatgeek.com/venues/barrymore-s/tickets
+1082	Exit In	2208 Elliston PL Nashville, TN 37203	(36.1515,-86.8044)	https://seatgeek.com/venues/exit-in/tickets
+6310	New City Gas	950 rue Ottawa Montreal, Canada	(45.4955,-73.5576)	https://seatgeek.com/venues/new-city-gas/tickets
+78722	Buddy Guy&apos;s Legends	700 S. Wabash Chicago, IL 60605	(41.873,-87.6264)	https://seatgeek.com/venues/buddy-guy-apos-s-legends/tickets
+42278	Mokai	235 23rd St Miami Beach, FL 33139	(25.7986,-80.1288)	https://seatgeek.com/venues/mokai/tickets
+41977	Marquee	289 10th Ave New York, NY 10001	(40.7028,-73.9903)	https://seatgeek.com/venues/marquee-7/tickets
+849	Ogden Theatre	935 E Colfax Ave Denver, CO 80218	(39.7403,-104.975)	https://seatgeek.com/venues/ogden-theatre/tickets
+1933	The Parish at House of Blues	225 Decatur Street New Orleans, LA 70130	(29.9511,-90.0715)	https://seatgeek.com/venues/the-parish-at-house-of-blues/tickets
+3593	PGA National Resort	400 Avenue of the Champions Palm Beach Gardens, FL 33418	(26.832,-80.1395)	https://seatgeek.com/venues/pga-national-resort/tickets
+36485	Circus Afterhours	917 Ste Montreal, Canada	(45.5167,-73.5578)	https://seatgeek.com/venues/circus-afterhours/tickets
+1296	UNO Lakefront Arena	6801 Franklin Ave New Orleans, LA 70122	(30.0305,-90.0493)	https://seatgeek.com/venues/uno-lakefront-arena/tickets
+585	Orchestra Hall	1111 Nicollet Mall Minneapolis, MN 55403	(44.9724,-93.2749)	https://seatgeek.com/venues/orchestra-hall/tickets
+3902	Civic Opera House	20 N Wacker Drive Chicago, IL 60606	(41.8781,-87.6298)	https://seatgeek.com/venues/civic-opera-house/tickets
+5161	Daskalakis Athletic Center	3301 Market Street Philadelphia, PA 19104	(39.9564,-75.1901)	https://seatgeek.com/venues/daskalakis-athletic-center/tickets
+1548	Artis Naples	5833 Pelican Bay Boulevard Naples, FL 34108	(26.142,-81.7948)	https://seatgeek.com/venues/artis-naples/tickets
+243	Express Live	405 Neil Avenue Columbus, OH 43215	(39.9697,-83.0095)	https://seatgeek.com/venues/express-live/tickets
+572	K-Rock Centre	1 Barrack Street Kingston, Canada	(44.2333,-76.4796)	https://seatgeek.com/venues/k-rock-centre/tickets
+747	Gramercy Theatre	127 East 23rd Street New York, NY 10010	(40.738,-73.9829)	https://seatgeek.com/venues/gramercy-theatre/tickets
+3422	Xfinity Center	2001 Paint Branch Drive College Park, MD 20740	(38.9897,-76.9378)	https://seatgeek.com/venues/xfinity-center-1/tickets
+7655	Millikens Reef	683 Dave Nisbet Drive Cape Canaveral, FL 32920	(28.4057,-80.6189)	https://seatgeek.com/venues/millikens-reef/tickets
+4203	Murphy Center	1500 Greenland Dr. Murfreesboro, TN 37132	(35.852,-86.362)	https://seatgeek.com/venues/murphy-center/tickets
+674	Kirby Center	71 Public Square Wilkes-Barre, PA 18701	(41.2454,-75.8817)	https://seatgeek.com/venues/kirby-center/tickets
+252846	Dubai Nightclub	5317 E. Independence Blvd Charlotte, NC 28212	(35.1878,-80.7574)	https://seatgeek.com/venues/dubai-nightclub/tickets
+538	9:30 Club	815 V St NW Washington, DC 20001	(38.9179,-77.0237)	https://seatgeek.com/venues/9-30-club/tickets
+1202	Star Plaza Theatre	8001 Delaware Place Merrillville, IN 46410	(41.4737,-87.3306)	https://seatgeek.com/venues/star-plaza-theatre/tickets
+1500	Prudential Center	25 Lafayette Street Newark, NJ 07102	(40.7333,-74.1713)	https://seatgeek.com/venues/prudential-center/tickets
+734	Wellmont Theatre	5  Seymour St Montclair, NJ 07042	(40.8259,-74.209)	https://seatgeek.com/venues/wellmont-theatre/tickets
+1017	Raleigh Memorial Auditorium	500 Fayetteville Street Mall Raleigh, NC 27601	(35.7855,-78.6427)	https://seatgeek.com/venues/raleigh-memorial-auditorium/tickets
+600	Richmond Coliseum	601 E. Leigh Street Richmond, VA 23219	(37.5447,-77.4345)	https://seatgeek.com/venues/richmond-coliseum/tickets
+3453	Purcell Pavilion at the Joyce Center	1 Moose Krause Circle Notre Dame, IN 46556	(41.6996,-86.2328)	https://seatgeek.com/venues/purcell-pavilion-at-the-joyce-center/tickets
+2652	Amway Center	400 West Church Street Orlando, FL 32801	(28.5402,-81.3839)	https://seatgeek.com/venues/amway-center/tickets
+7546	Barclays Center	620 Atlantic Avenue Brooklyn, NY 11217	(40.6837,-73.9788)	https://seatgeek.com/venues/barclays-center/tickets
+430	Nationwide Arena	200 West Nationwide Boulevard Columbus, OH 43215	(39.9694,-83.0064)	https://seatgeek.com/venues/nationwide-arena/tickets
+108	Bryce Jordan Center	127 Bryce Jordan Center University Park, PA 16802	(40.8099,-77.8562)	https://seatgeek.com/venues/bryce-jordan-center/tickets
+8609	Tivoli Theatre - Downers Grove	5021 Highland Avenue Downers Grove, IL 60515	(41.7963,-88.0093)	https://seatgeek.com/venues/tivoli-theatre-downers-grove/tickets
+3437	Cameron Indoor Stadium	1 Whitford Drive Durham, NC 27706	(35.9968,-78.9437)	https://seatgeek.com/venues/cameron-indoor-stadium/tickets
+1786	Dow Event Center	303 Johnson Street Saginaw, MI 48607	(43.4359,-83.9362)	https://seatgeek.com/venues/dow-event-center/tickets
+1952	Altar Bar	1620 Penn Avenue Pittsburgh, PA 15222	(40.4492,-79.9868)	https://seatgeek.com/venues/altar-bar/tickets
+4318	Greensboro Coliseum	1921 W Lee St Greensboro, NC 27403	(36.0586,-79.8221)	https://seatgeek.com/venues/greensboro-coliseum/tickets
+331	Allen County War Memorial Coliseum	4000 Parnell Avenue Fort Wayne, IN 46805	(41.115,-85.1236)	https://seatgeek.com/venues/allen-county-war-memorial-coliseum/tickets
+843	Upstate Concert Hall	1208 Route 146 Clifton Park, NY 12065	(42.8687,-73.8233)	https://seatgeek.com/venues/upstate-concert-hall/tickets
+540	Paradise Rock Club	967 Commonwealth Avenue Boston, MA 02215	(42.352,-71.1195)	https://seatgeek.com/venues/paradise-rock-club/tickets
+5339	Disch Falk Field	1300 E Martin Luther King Jr Blvd Austin, TX 78713	(30.2789,-97.7262)	https://seatgeek.com/venues/disch-falk-field/tickets
+58366	Comedy Off Broadway	161 Lexington Green Circle Lexington, KY 40503	(38.0406,-84.5037)	https://seatgeek.com/venues/comedy-off-broadway/tickets
+343	Hamilton Place Theatre	1 Summers Lane Hamilton, Canada	(43.2568,-79.8721)	https://seatgeek.com/venues/hamilton-place-theatre/tickets
+12557	Towne Crier Cafe	379 Main Street Beacon, NY 12508	(41.5043,-73.9687)	https://seatgeek.com/venues/towne-crier-cafe/tickets
+961	Hanover Theatre	2 Southbridge Street Worcester, MA 01608	(42.2614,-71.8036)	https://seatgeek.com/venues/hanover-theatre/tickets
+3590	Gaillard Auditorium	95 Calhoun St Charleston, SC 29403	(32.7876,-79.9321)	https://seatgeek.com/venues/gaillard-auditorium/tickets
+3188	Charles Playhouse	74 Warrenton Street Boston, MA 02116	(42.3503,-71.066)	https://seatgeek.com/venues/charles-playhouse/tickets
+6639	New York City Center	130 West 56th Street New York, NY 10019	(40.7642,-73.979)	https://seatgeek.com/venues/new-york-city-center-1/tickets
+510	Stranahan Theater	4645 Heatherdowns Blvd. Toledo, OH 43614	(41.5944,-83.6521)	https://seatgeek.com/venues/stranahan-theater/tickets
+3234	BAM Harvey Theater	651 Fulton St Brooklyn, NY 11217	(40.69,-73.98)	https://seatgeek.com/venues/bam-harvey-theater/tickets
+712	Fox Theatre	660 Peachtree St NE Atlanta, GA 30308	(33.7727,-84.3853)	https://seatgeek.com/venues/fox-theatre-1/tickets
+212	First Niagara Center	1 Seymour H. Knox III Plaza Buffalo, NY 14203	(42.8759,-78.8767)	https://seatgeek.com/venues/first-niagara-center/tickets
+2135	The Ritz	2820 Industrial Drive Raleigh, NC 27609	(35.8164,-78.6209)	https://seatgeek.com/venues/the-ritz-8/tickets
+3887	Paper Mill Playhouse	22 Brookside Drive Millburn, NJ 07041	(40.73,-74.31)	https://seatgeek.com/venues/paper-mill-playhouse/tickets
+8906	Lucille's At B.B. King Blues Club & Grill - New York	237 West 42 St. New York, NY 10036	(40.7569,-73.9884)	https://seatgeek.com/venues/lucille-s-at-b-b-king-blues-club-grill-new-york/tickets
+3202	RiverCenter - Bill Heard Theatre	900 Broadway Columbus, GA 31901	(32.4632,-84.9931)	https://seatgeek.com/venues/rivercenter-bill-heard-theatre-1/tickets
+37729	Lower Ossington Theatre	100 Ossington Avenue Toronto, Canada	(43.6463,-79.4198)	https://seatgeek.com/venues/lower-ossington-theatre/tickets
+15663	Academy Of Music Theatre	274 Main Street Northampton, MA 01060	(42.32,-72.63)	https://seatgeek.com/venues/academy-of-music-theatre/tickets
+551	Kalamazoo State Theatre	404 South Burdick Kalamazoo, MI 49007	(42.2742,-85.5968)	https://seatgeek.com/venues/kalamazoo-state-theatre/tickets
+92	Mohegan Sun Arena	1 Mohegan Sun Blvd Uncasville, CT 06382	(41.4917,-72.0909)	https://seatgeek.com/venues/mohegan-sun-arena/tickets
+2452	Sony Centre For The Performing Arts	1 Front Street East Toronto, Canada	(43.6532,-79.3832)	https://seatgeek.com/venues/sony-centre-for-the-performing-arts/tickets
+342	Jacksonville Veterans Memorial Arena	300 A Philip Randolph Blvd Jacksonville, FL 32202	(30.3258,-81.6451)	https://seatgeek.com/venues/jacksonville-veterans-memorial-arena/tickets
+595	Birchmere Music Hall	3701 Mt. Vernon Avenue Alexandria, VA 22305	(38.8386,-77.0622)	https://seatgeek.com/venues/birchmere-music-hall/tickets
+6494	EKU Center for the Arts	1 Hall Drive Richmond, KY 40475	(37.7328,-84.301)	https://seatgeek.com/venues/eku-center-for-the-arts/tickets
+355	North Charleston Coliseum	5001 Coliseum Drive North Charleston, SC 29418	(32.8669,-80.0213)	https://seatgeek.com/venues/north-charleston-coliseum/tickets
+2858	Four Seasons Centre	145 Queen Street West Toronto, Canada	(43.6532,-79.3832)	https://seatgeek.com/venues/four-seasons-centre/tickets
+1811	Honeywell Center	275 West Market Street Wabash, IN 46992	(40.7963,-85.8251)	https://seatgeek.com/venues/honeywell-center/tickets
+2541	Huntington Center	401 Jefferson Ave Toledo, OH 43604	(41.6503,-83.5363)	https://seatgeek.com/venues/huntington-center/tickets
+93	Madison Square Garden	4 Pennsylvania Plaza New York, NY 10001	(40.7509,-73.9943)	https://seatgeek.com/venues/madison-square-garden/tickets
+4258	SECU Arena	8000 York Rd Towson, MD 21252	(39.3936,-76.6068)	https://seatgeek.com/venues/secu-arena/tickets
+69949	Pittsburgh Improv	166 East Bridge Street Homestead, PA 15120	(40.409,-79.9148)	https://seatgeek.com/venues/pittsburgh-improv/tickets
+2967	Cort Theatre	138 West 48th Street New York, NY 10036	(40.7592,-73.983)	https://seatgeek.com/venues/cort-theatre/tickets
+3432	Memorial Gym	2601 Jess Neely Drive Nashville, TN 37212	(36.1445,-86.8075)	https://seatgeek.com/venues/memorial-gym/tickets
+3268	Playstation Theater	1515 Broadway New York, NY 10036	(40.7576,-73.9858)	https://seatgeek.com/venues/playstation-theater/tickets
+3356	NYCB Theatre at Westbury	960 Brush Hollow Road Westbury, NY 11590	(40.7534,-73.5859)	https://seatgeek.com/venues/nycb-theatre-at-westbury/tickets
+1916	Jefferson Theatre	110 E Main St Charlottesville, VA 22902	(38.0307,-78.4812)	https://seatgeek.com/venues/jefferson-theatre-3/tickets
+179579	JeBon Sushi	15 St. Marks Pl. New York, NY 10001	(40.7293,-73.9889)	https://seatgeek.com/venues/jebon-sushi/tickets
+1756	Knight Concert Hall at Adrienne Arsht Center	1300 Biscayne Blvd Miami, FL 33132	(25.7877,-80.1886)	https://seatgeek.com/venues/knight-concert-hall-at-adrienne-arsht-center/tickets
+56866	Governors Levittown	90 Division Ave. Levittown, NY 11756	(40.7273,-73.5273)	https://seatgeek.com/venues/governors-levittown/tickets
+741	Culture Room	3045 N Federal Hwy Fort Lauderdale, FL 33306	(26.1666,-80.1166)	https://seatgeek.com/venues/culture-room/tickets
+414	Beacon Theatre	2124 Broadway New York, NY 10023	(40.763,-73.9826)	https://seatgeek.com/venues/beacon-theatre/tickets
+7818	Howard Theatre	620 T Street NW Washington, DC 20001	(38.9072,-77.0369)	https://seatgeek.com/venues/howard-theatre/tickets
+584	Boston Symphony Hall	301 Massachusetts Avenue Boston, MA 02115	(42.3429,-71.0857)	https://seatgeek.com/venues/boston-symphony-hall/tickets
+1446	Brighton Music Hall	158 Brighton Avenue Boston, MA 02134	(42.3529,-71.1326)	https://seatgeek.com/venues/brighton-music-hall/tickets
+8637	Juanita K. Hammons Hall	901 South National Ave Springfield, MO 65897	(37.209,-93.2923)	https://seatgeek.com/venues/juanita-k-hammons-hall/tickets
+1608	Music Hall Center	350 Madison Detroit, MI 48226	(42.3374,-83.0459)	https://seatgeek.com/venues/music-hall-center/tickets
+16001	The Comedy Attic	123 South Walnut Street Bloomington, IN 47404	(39.1658,-86.5336)	https://seatgeek.com/venues/the-comedy-attic/tickets
+6673	Betty Engelstad Sioux Center	1 Ralph Engelstad Arena Drive Grand Forks, ND 58202	(47.9326,-97.0707)	https://seatgeek.com/venues/betty-engelstad-sioux-center/tickets
+632	BMO Harris Bank Center	300 Elm Street Rockford, IL 61101	(42.2711,-89.094)	https://seatgeek.com/venues/bmo-harris-bank-center/tickets
+957	Ridgefield Playhouse	80 East Ridge St Ridgefield, CT 06877	(41.2824,-73.4931)	https://seatgeek.com/venues/ridgefield-playhouse/tickets
+1171	Warner Theatre	513 13th Street NW Washington, DC 20004	(38.8965,-77.0296)	https://seatgeek.com/venues/warner-theatre-1/tickets
+5804	Skyway Theatre	711 Hennepin Ave Minneapolis, MN 55403	(44.9773,-93.275)	https://seatgeek.com/venues/skyway-theatre/tickets
+186	Scottrade Center	1401 Clark Avenue Saint Louis, MO 63103	(38.6268,-90.2026)	https://seatgeek.com/venues/scottrade-center/tickets
+252	B.B. King Blues Club & Grill	237 West 42nd Street New York, NY 10036	(40.7566,-73.9883)	https://seatgeek.com/venues/b-b-king-blues-club-grill/tickets
+818	Schermerhorn Symphony Center	1 Symphony Place Nashville, TN 37201	(36.1603,-86.7758)	https://seatgeek.com/venues/schermerhorn-symphony-center/tickets
+3325	The City Theatre	2301 Woodward Avenue Detroit, MI 48201	(42.3314,-83.0458)	https://seatgeek.com/venues/the-city-theatre/tickets
+3160	Crowbar	1812 N 17th St Tampa, FL 33605	(27.9608,-82.4406)	https://seatgeek.com/venues/crowbar-2/tickets
+208	Chesapeake Energy Arena	100 W Reno Ave Oklahoma City, OK 73102	(35.4634,-97.5146)	https://seatgeek.com/venues/chesapeake-energy-arena/tickets
+6244	Pharr Events Center	3000 North Cage Pharr, TX 78577	(26.1948,-98.1832)	https://seatgeek.com/venues/pharr-events-center/tickets
+57432	Aztec Theater	104 N St Mary's St San Antonio, TX 78205	(29.4247,-98.491)	https://seatgeek.com/venues/aztec-theater/tickets
+184	Smoothie King Center	1501 Girod Street New Orleans, LA 70113	(29.9496,-90.0824)	https://seatgeek.com/venues/smoothie-king-center/tickets
+92907	The City Center	505 S Chestnut Champaign, IL 61820	(40.1393,-88.2453)	https://seatgeek.com/venues/the-city-center/tickets
+850	Parker Playhouse	707 NE 8th Street Fort Lauderdale, FL 33304	(26.1342,-80.1362)	https://seatgeek.com/venues/parker-playhouse/tickets
+665	New Jersey Performing Arts Center	1 Center Street Newark, NJ 07102	(40.7397,-74.1678)	https://seatgeek.com/venues/new-jersey-performing-arts-center/tickets
+539	Theatre of Living Arts	334 South Street Philadelphia, PA 19147	(39.9413,-75.1488)	https://seatgeek.com/venues/theatre-of-living-arts/tickets
+3474	Reed Green Coliseum	112 Coliseum Drive Hattiesburg, MS 39406	(31.3319,-89.3373)	https://seatgeek.com/venues/reed-green-coliseum/tickets
+7387	Old National Centre	502 N. New Jersey St. Indianapolis, IN 46204	(39.7745,-86.1506)	https://seatgeek.com/venues/old-national-centre/tickets
+1265	Pantages Theatre	710 Hennepin Avenue Minneapolis, MN 55403	(44.9776,-93.2754)	https://seatgeek.com/venues/pantages-theatre-1/tickets
+2895	Brown Theater at Wortham Center	500 Texas Houston, TX 77002	(29.7689,-95.3912)	https://seatgeek.com/venues/brown-theater-at-wortham-center/tickets
+6462	Trojan Arena	5000 Veterans Stadium Dr. Troy, AL 36082	(31.8073,-85.9626)	https://seatgeek.com/venues/trojan-arena/tickets
+58024	Side Splitters Comedy Club	12938 N Dale Mabry Highway Tampa, FL 33618	(28.0642,-82.5045)	https://seatgeek.com/venues/side-splitters-comedy-club-1/tickets
+485	Orpheum Theatre Omaha	409 S 16th St Omaha, NE 68102	(41.2561,-95.9369)	https://seatgeek.com/venues/orpheum-theatre-omaha/tickets
+3579	US Cellular Coliseum	101 S. Madison Street Bloomington, IL 61701	(40.4782,-88.9961)	https://seatgeek.com/venues/us-cellular-coliseum/tickets
+2262	Weidner Center for the Performing Arts	2420 Nicolet Dr Green Bay, WI 54311	(44.5338,-87.9296)	https://seatgeek.com/venues/weidner-center-for-the-performing-arts/tickets
+61655	The Hi Fi	1043 Virginia Ave Indianapolis, IN 46203	(39.7527,-86.141)	https://seatgeek.com/venues/the-hi-fi-2/tickets
+6809	Chicago Improv	5 Woodfield Rd Schaumburg, IL 60173	(42.0432,-88.0449)	https://seatgeek.com/venues/chicago-improv/tickets
+542	Eagles Ballroom	2401 W. Wisconsin Avenue Milwaukee, WI 53233	(43.0382,-87.9433)	https://seatgeek.com/venues/eagles-ballroom/tickets
+78706	Vox Concert Series @ Wildwood Station	1800 S Roddis Ave Marshfield, WI 54449	(44.6689,-90.1718)	https://seatgeek.com/venues/vox-concert-series-wildwood-station/tickets
+5517	Mariucci Arena	1901 4th St. SE Minneapolis, MN 55455	(44.9775,-93.2281)	https://seatgeek.com/venues/mariucci-arena/tickets
+787	Milwaukee Theatre	500 West Kilbourn Avenue Milwaukee, WI 53203	(43.0418,-87.9068)	https://seatgeek.com/venues/milwaukee-theatre/tickets
+48918	Pinnacle Bank Arena	400 Pinnacle Arena Drive Lincoln, NE 68508	(40.8184,-96.7128)	https://seatgeek.com/venues/pinnacle-bank-arena/tickets
+1568	INTRUST Bank Arena	500 East Waterman Street Wichita, KS 67202	(37.6824,-97.3321)	https://seatgeek.com/venues/intrust-bank-arena/tickets
+1416	Allen Event Center	200 E. Stacy Road Allen, TX 75002	(33.13,-96.65)	https://seatgeek.com/venues/allen-event-center/tickets
+1344	Blind Pig	208 South 1st Street Ann Arbor, MI 48104	(42.2802,-83.7513)	https://seatgeek.com/venues/blind-pig/tickets
+2150	Port City Music Hall	504 Congress Street Portland, ME 04101	(43.6563,-70.2606)	https://seatgeek.com/venues/port-city-music-hall/tickets
+1526	Neighborhood Theatre	511 E 36th Street Charlotte, NC 28205	(35.2474,-80.8039)	https://seatgeek.com/venues/neighborhood-theatre/tickets
+71185	Capitol Music Club	244 1st Ave. North Saskatoon, Canada	(52.1322,-106.664)	https://seatgeek.com/venues/capitol-music-club/tickets
+69263	Music Farm Columbia	1022 Senate Street Columbia, SC 29201	(33.9986,-81.0353)	https://seatgeek.com/venues/music-farm-columbia/tickets
+6245	The Handlebar	319 North Tarragona Pensacola, FL 32501	(30.4178,-87.2138)	https://seatgeek.com/venues/the-handlebar/tickets
+3670	ACL Live at The Moody Theater	310 Willie Nelson Blvd Austin, TX 78701	(30.2654,-97.7473)	https://seatgeek.com/venues/acl-live-at-the-moody-theater/tickets
+978	Potawatomi Bingo Casino	1721 West Canal Street Milwaukee, WI 53233	(43.0305,-87.9346)	https://seatgeek.com/venues/potawatomi-bingo-casino/tickets
+5002	Bourbon Theatre	1415 O Street Lincoln, NE 68508	(40.8136,-96.7007)	https://seatgeek.com/venues/bourbon-theatre/tickets
+3156	Meyer Theatre	117 South Washington Street Green Bay, WI 54301	(44.5192,-88.0198)	https://seatgeek.com/venues/meyer-theatre/tickets
+766	Emo's	603 Red River Austin, TX 78741	(30.2667,-97.737)	https://seatgeek.com/venues/emo-s-3/tickets
+2445	Charline McCombs Empire Theatre	226 N. St. Marys Street San Antonio, TX 78205	(29.4262,-98.4913)	https://seatgeek.com/venues/charline-mccombs-empire-theatre/tickets
+421	Cain's Ballroom	423 North Main Street Tulsa, OK 74103	(36.1605,-95.9948)	https://seatgeek.com/venues/cain-s-ballroom/tickets
+447	Egyptian Room at Old National Centre	502 N. NEW JERSEY ST. Indianapolis, IN 46204	(39.7745,-86.1511)	https://seatgeek.com/venues/egyptian-room-at-old-national-centre-1/tickets
+57172	Comedy Cafe	615 E Brady St Milwaukee, WI 53203	(43.0389,-87.9065)	https://seatgeek.com/venues/comedy-cafe/tickets
+368	Agora Theatre	5000 Euclid Avenue Cleveland, OH 44103	(41.504,-81.6538)	https://seatgeek.com/venues/agora-theatre/tickets
+1099	Santa Ana Star Center	3001 Civic Center Rio Rancho, NM 87144	(35.3092,-106.687)	https://seatgeek.com/venues/santa-ana-star-center/tickets
+7025	Wagner Noel Performing Arts Center	1310 N. FM 1788 Midland, TX 79707	(31.9685,-102.251)	https://seatgeek.com/venues/wagner-noel-performing-arts-center/tickets
+4212	Thomas Assembly Center	1650 West Alabama Avenue Ruston, LA 71272	(32.531,-92.6584)	https://seatgeek.com/venues/thomas-assembly-center/tickets
+122	Allstate Arena	6920 N. Mannheim Road Rosemont, IL 60018	(42.0049,-87.8877)	https://seatgeek.com/venues/allstate-arena/tickets
+4255	Jon M. Huntsman Center	1825 East South Campus Drive Salt Lake City, UT 84112	(40.7608,-111.891)	https://seatgeek.com/venues/jon-m-huntsman-center/tickets
+564	House of Blues Dallas	2200 North Lamar St. Dallas, TX 75202	(32.7767,-96.797)	https://seatgeek.com/venues/house-of-blues-dallas/tickets
+556	Highline Ballroom	431 W 16th St New York, NY 10011	(40.7431,-74.0057)	https://seatgeek.com/venues/highline-ballroom/tickets
+921	State Farm Center	1800 S 1st St Champaign, IL 61820	(40.1164,-88.2434)	https://seatgeek.com/venues/state-farm-center/tickets
+78342	Comedy Corner Underground	1501 Washington Ave S. Minneapolis, MN 55454	(44.9728,-93.2477)	https://seatgeek.com/venues/comedy-corner-underground/tickets
+47110	Tongue & Groove	565 Main Street Atlanta, GA 30324	(33.689,-84.4376)	https://seatgeek.com/venues/tongue-groove/tickets
+761	Triple Rock Social Club	629 Cedar Avenue Minneapolis, MN 55454	(44.9669,-93.2473)	https://seatgeek.com/venues/triple-rock-social-club/tickets
+515	House of Blues Chicago	329 N Dearborn St Chicago, IL 60654	(41.8881,-87.6294)	https://seatgeek.com/venues/house-of-blues-chicago/tickets
+370	First Avenue	701 First Avenue North Minneapolis, MN 55403	(44.9786,-93.2763)	https://seatgeek.com/venues/first-avenue/tickets
+557	Metro	3730 N. Clark St. Chicago, IL 60613	(41.95,-87.6586)	https://seatgeek.com/venues/metro/tickets
+7322	Comedy Connection RI	39 Warren Ave East Providence, RI 02914	(41.8177,-71.3831)	https://seatgeek.com/venues/comedy-connection-ri/tickets
+76712	The Pub Station	2502 1st Avenue North Billings, MT 59101	(45.7835,-108.502)	https://seatgeek.com/venues/the-pub-station/tickets
+172486	Badlands Pawn	1600 Russell St Sioux Falls, SD 57104	(43.5642,-96.748)	https://seatgeek.com/venues/badlands-pawn-1/tickets
+45910	Output	74 Wythe Avenue Brooklyn, NY 11211	(40.7223,-73.9577)	https://seatgeek.com/venues/output/tickets
+568	The Fillmore Charlotte	820 Hamilton St Charlotte, NC 28206	(35.2024,-80.8432)	https://seatgeek.com/venues/the-fillmore-charlotte/tickets
+76207	Theatre Fairmount	5240 Ave. Park Montreal, Canada	(45.5205,-73.5985)	https://seatgeek.com/venues/theatre-fairmount/tickets
+170613	Drinkhouse Fire & Ice	1672 Collins Ave Miami Beach, FL 33139	(25.7916,-80.1299)	https://seatgeek.com/venues/drinkhouse-fire-ice/tickets
+11280	The Sinclair	52 Church St Cambridge, MA 02138	(42.374,-71.1206)	https://seatgeek.com/venues/the-sinclair/tickets
+7066	Duling Hall	622 Duling Avenue Jackson, MS 39216	(32.2988,-90.1848)	https://seatgeek.com/venues/duling-hall/tickets
+23293	Tier Nightclub	20 E. Central Boulevard Orlando, FL 32801	(28.5421,-81.3786)	https://seatgeek.com/venues/tier-nightclub/tickets
+913	The Plaza Theatre Performing Arts Center	125 Pioneer Plaza El Paso, TX 79901	(31.8125,-106.443)	https://seatgeek.com/venues/the-plaza-theatre-performing-arts-center/tickets
+9543	Brewster Street Ice House	1724 North Tancahua Street Corpus Christi, TX 78401	(27.8075,-97.3984)	https://seatgeek.com/venues/brewster-street-ice-house/tickets
+75001	Milk River	960 Atlantic Avenue Brooklyn, NY 11238	(40.6804,-73.9624)	https://seatgeek.com/venues/milk-river/tickets
+81756	Soundcheck	1420 K St NW Washington, DC 20005	(38.9022,-77.0329)	https://seatgeek.com/venues/soundcheck/tickets
+2475	George's Majestic Lounge	519 W Dickson St. Fayetteville, AR 72701	(36.0662,-94.1664)	https://seatgeek.com/venues/george-s-majestic-lounge/tickets
+233151	The V Charlotte	500 WEST FIFTH STREET Charlotte, NC 28202	(35.2318,-80.8457)	https://seatgeek.com/venues/the-v-charlotte/tickets
+7681	Mill City Nights	111 5th St N Minneapolis, MN 55403	(44.9904,-93.2545)	https://seatgeek.com/venues/mill-city-nights/tickets
+12314	Le Belmont	4483 Boulevard Saint Montreal, Canada	(45.5201,-73.5861)	https://seatgeek.com/venues/le-belmont/tickets
+555	Bluebird Theater	3317 East Colfax Ave. Denver, CO 80206	(39.7404,-104.948)	https://seatgeek.com/venues/bluebird-theater/tickets
+76105	Set	320 Lincoln Road Miami Beach, FL 33139	(25.7904,-80.1313)	https://seatgeek.com/venues/set/tickets
+76182	Auberge Saint-Gabriel	426 Saint Montreal, Canada	(45.5058,-73.5545)	https://seatgeek.com/venues/auberge-saint-gabriel/tickets
+4134	Marriott Center	500 E University Parkway Provo, UT 84604	(40.2549,-111.65)	https://seatgeek.com/venues/marriott-center/tickets
+276	Belly Up Aspen	450 South Galena St Aspen, CO 81611	(39.1875,-106.819)	https://seatgeek.com/venues/belly-up-aspen/tickets
+619	Ford Park	5115 IH Beaumont, TX 77705	(30.0861,-94.1016)	https://seatgeek.com/venues/ford-park-1/tickets
+125037	House Show	210 E. Trade Street Rock Hill, SC 28205	(34.9319,-81.0178)	https://seatgeek.com/venues/house-show-58/tickets
+3965	Coyote Joe's	4621 Wilkinson Boulevard Charlotte, NC 28208	(35.2276,-80.9159)	https://seatgeek.com/venues/coyote-joe-s-3/tickets
+5367	Davenport Field	434 Lannigan Lane Charlottesville, VA 22904	(38.03,-78.48)	https://seatgeek.com/venues/davenport-field/tickets
+5338	Doug Kingsmore Stadium	1 Jervey Meadows Clemson, SC 29632	(34.6826,-82.8395)	https://seatgeek.com/venues/doug-kingsmore-stadium/tickets
+5350	Dick Howser Stadium	1 Chieftan Way Tallahassee, FL 32306	(30.4471,-84.3015)	https://seatgeek.com/venues/dick-howser-stadium/tickets
+5343	Swayze Field	400 University Place University, MS 38677	(34.3619,-89.5304)	https://seatgeek.com/venues/swayze-field/tickets
+1019	The Loft	1374 W. Peachtree Street Atlanta, GA 30309	(33.792,-84.388)	https://seatgeek.com/venues/the-loft/tickets
+1857	8 Seconds Saloon	111 N Lynhurst Indianapolis, IN 46224	(39.7684,-86.1581)	https://seatgeek.com/venues/8-seconds-saloon/tickets
+3518	Lynn Auditorium	3 City Hall Square Lynn, MA 01901	(42.4637,-70.9502)	https://seatgeek.com/venues/lynn-auditorium/tickets
+1420	Bronson Centre	211 Bronson Avenue Ottawa, Canada	(45.4135,-75.7067)	https://seatgeek.com/venues/bronson-centre/tickets
+4374	New World Stages / Stage 2	340 West 50th Street New York, NY 10019	(40.7628,-73.9874)	https://seatgeek.com/venues/new-world-stages-stage-2/tickets
+179563	Great Life Ottawa	1001 E Logan St Ottawa, Canada	(45.3983,-75.6628)	https://seatgeek.com/venues/great-life-ottawa/tickets
+3594	MassMutual Center	1277 MAIN STREET Springfield, MA 01103	(42.1017,-72.5868)	https://seatgeek.com/venues/massmutual-center/tickets
+334	The Stone Pony	913 Ocean Ave Asbury Park, NJ 07712	(40.22,-74.0009)	https://seatgeek.com/venues/the-stone-pony-2/tickets
+1140	UIC Pavilion	525 S Racine Ave. Chicago, IL 60607	(41.8746,-87.6562)	https://seatgeek.com/venues/uic-pavilion/tickets
+4651	Foxwoods Casino	39 Norwich Westerly Road Mashantucket, CT 06338	(41.47,-71.96)	https://seatgeek.com/venues/foxwoods-casino/tickets
+5546	Baker Rink	Faculty and Elm Roads Princeton, NJ 08544	(40.34,-74.66)	https://seatgeek.com/venues/baker-rink/tickets
+233	Starland Ballroom	570 Jernee Mill Road Sayreville, NJ 08872	(40.4364,-74.3495)	https://seatgeek.com/venues/starland-ballroom/tickets
+47984	The Waiting Room	334 Delaware Ave. Buffalo, NY 14202	(42.8935,-78.8764)	https://seatgeek.com/venues/the-waiting-room-4/tickets
+821	Newport Music Hall	1722 N High St Columbus, OH 43201	(39.9975,-83.0073)	https://seatgeek.com/venues/newport-music-hall/tickets
+3490	Palestra	235 S. 33rd Street Philadelphia, PA 19104	(39.9526,-75.1652)	https://seatgeek.com/venues/palestra/tickets
+7550	U Street Music Hall	1115 U Street NW Washington, DC 20009	(38.917,-77.0272)	https://seatgeek.com/venues/u-street-music-hall/tickets
+587	Majestic Theatre	4120 WOODWARD AVE Detroit, MI 48201	(42.3511,-83.0603)	https://seatgeek.com/venues/majestic-theatre-2/tickets
+1255	Canton Memorial Civic Center	1101 Market Ave. Canton, OH 44702	(40.7989,-81.3784)	https://seatgeek.com/venues/canton-memorial-civic-center/tickets
+3619	Erie Insurance Arena	809 French Street Erie, PA 16501	(42.1276,-80.0821)	https://seatgeek.com/venues/erie-insurance-arena-1/tickets
+52183	Kansas Star Casino	777 Kansas Star Dr. Mulvane, KS 67110	(37.4691,-97.3288)	https://seatgeek.com/venues/kansas-star-casino/tickets
+119	Van Andel Arena	130 Fulton Street West Grand Rapids, MI 49503	(42.9621,-85.6716)	https://seatgeek.com/venues/van-andel-arena/tickets
+1195	Fox Theatre Detroit	2211 Woodward Ave Detroit, MI 48201	(42.3382,-83.0525)	https://seatgeek.com/venues/fox-theatre-detroit/tickets
+4221	John J. Lee Amphitheater	70 Tower Pkwy New Haven, CT 06520	(41.3083,-72.9279)	https://seatgeek.com/venues/john-j-lee-amphitheater/tickets
+7	Coors Field	2001 Blake Street Denver, CO 80205	(39.7559,-104.994)	https://seatgeek.com/venues/coors-field/tickets
+6378	Danforth Music Hall	147 Danforth Avenue Toronto, Canada	(43.6764,-79.3571)	https://seatgeek.com/venues/danforth-music-hall/tickets
+7877	Johnny D's Uptown Restaurant & Music Club	17 Holland Street Somerville, MA 02144	(42.4,-71.12)	https://seatgeek.com/venues/johnny-d-s-uptown-restaurant-music-club/tickets
+5309	1 Hotel South Beach	2201 Collins Avenue Miami Beach, FL 33139	(25.7745,-80.1329)	https://seatgeek.com/venues/1-hotel-south-beach/tickets
+360	House Of Blues Cleveland	308 Euclid Avenue Cleveland, OH 44114	(41.4997,-81.691)	https://seatgeek.com/venues/house-of-blues-cleveland/tickets
+2412	Count de Hoernle Amphitheatre	590 Plaza Real Boca Raton, FL 33432	(26.3562,-80.0852)	https://seatgeek.com/venues/count-de-hoernle-amphitheatre/tickets
+3110	Ricoh Coliseum	100 Princes' Blvd. Toronto, Canada	(43.635,-79.4127)	https://seatgeek.com/venues/ricoh-coliseum/tickets
+549	Bogarts	2621 Vine Street Cincinnati, OH 45219	(39.13,-84.5096)	https://seatgeek.com/venues/bogarts/tickets
+4061	World Cafe Live at The Queen	500 N Market Street Wilmington, DE 19801	(39.7413,-75.5507)	https://seatgeek.com/venues/world-cafe-live-at-the-queen/tickets
+670	The Intersection	133 Grandville Sw Grand Rapids, MI 49503	(42.9599,-85.6741)	https://seatgeek.com/venues/the-intersection/tickets
+3076	State Theatre	609 Congress St Portland, ME 04101	(43.6541,-70.2623)	https://seatgeek.com/venues/state-theatre-15/tickets
+296	House of Blues Myrtle Beach	4640 Highway 17 South North Myrtle Beach, SC 29582	(33.8,-78.68)	https://seatgeek.com/venues/house-of-blues-myrtle-beach/tickets
+3692	Constant Convocation Center	4320 Hampton Blvd. Norfolk, VA 23529	(36.8841,-76.3013)	https://seatgeek.com/venues/constant-convocation-center/tickets
+2196	Canton Palace Theatre	605 Market Avenue North Canton, OH 44702	(40.8022,-81.3738)	https://seatgeek.com/venues/canton-palace-theatre/tickets
+1320	DCU Center	50 Foster St. Worcester, MA 01608	(42.2661,-71.7986)	https://seatgeek.com/venues/dcu-center/tickets
+630	Covelli Centre	229 East Front St. Youngstown, OH 44503	(41.0998,-80.6495)	https://seatgeek.com/venues/covelli-centre/tickets
+60019	PPL Center	701 Hamilton Street Allentown, PA 18101	(40.6063,-75.4554)	https://seatgeek.com/venues/ppl-center/tickets
+805	Dunkin' Donuts Center	1 LaSalle Square Providence, RI 02903	(41.824,-71.4128)	https://seatgeek.com/venues/dunkin-donuts-center/tickets
+1360	First Arena	115 N. Main Street Elmira, NY 14901	(42.0881,-76.8074)	https://seatgeek.com/venues/first-arena/tickets
+5149	Athletics Center Orena	2200 N. Squirrel Road Oakland, MI 48309	(42.6598,-83.3865)	https://seatgeek.com/venues/athletics-center-orena/tickets
+4428	Willett Hall	3701 Willett Drive Portsmouth, VA 23707	(36.8387,-76.3456)	https://seatgeek.com/venues/willett-hall/tickets
+2292	Severance Hall	11001 Euclid Ave Cleveland, OH 44106	(41.5065,-81.6085)	https://seatgeek.com/venues/severance-hall/tickets
+1272	Luhrs Center	1871 Old Main Drive Shippensburg, PA 17257	(40.0577,-77.5222)	https://seatgeek.com/venues/luhrs-center/tickets
+4879	Lyric Opera House	140 W Mount Royal Ave Baltimore, MD 21201	(39.31,-76.62)	https://seatgeek.com/venues/lyric-opera-house/tickets
+685	State Theatre	453 Northampton Street Easton, PA 18042	(40.69,-75.21)	https://seatgeek.com/venues/state-theatre-12/tickets
+4507	Ronald Reagan Building and International Trade Center	1300 Pennsylvania Avenue Washington, DC 20004	(38.8817,-76.9881)	https://seatgeek.com/venues/ronald-reagan-building-and-international-trade-center/tickets
+479	Murat Theatre at Old National Centre	502 N. New Jersey St. Indianapolis, IN 46204	(39.7745,-86.1506)	https://seatgeek.com/venues/murat-theatre-at-old-national-centre/tickets
+2057	BankUnited Center	1245 Dauer Drive Coral Gables, FL 33146	(25.7148,-80.2789)	https://seatgeek.com/venues/bankunited-center/tickets
+1564	Times Union Ctr Perf Arts Moran Theater	300 West Water Street Jacksonville, FL 32202	(30.3255,-81.6621)	https://seatgeek.com/venues/times-union-ctr-perf-arts-moran-theater/tickets
+617	House of Blues Orlando	1490 East Buena Vista Drive Orlando, FL 32830	(28.371,-81.5219)	https://seatgeek.com/venues/house-of-blues-orlando/tickets
+8366	Dirty Dog Bar	505 East 6th Street Austin, TX 78701	(30.2667,-97.738)	https://seatgeek.com/venues/dirty-dog-bar/tickets
+45816	Comedy Catch	3224 Brainerd Rd. Chattanooga, TN 37411	(35.0273,-85.2541)	https://seatgeek.com/venues/comedy-catch/tickets
+1018	Curtis M Phillips Center for Performing Arts	315 Hull Road Gainesville, FL 32611	(29.6377,-82.3726)	https://seatgeek.com/venues/curtis-m-phillips-center-for-performing-arts/tickets
+679	Royal Farms Arena	201 W Baltimore St Baltimore, MD 21201	(39.2904,-76.6122)	https://seatgeek.com/venues/royal-farms-arena/tickets
+1622	Wright State University Nutter Center	3640 Colonel Glenn Highway Dayton, OH 45435	(39.7747,-84.0797)	https://seatgeek.com/venues/wright-state-university-nutter-center/tickets
+6353	Compton Family Ice Arena	100 Compton Family Ice Arena South Bend, IN 46556	(41.6764,-86.252)	https://seatgeek.com/venues/compton-family-ice-arena/tickets
+442	The Fillmore Detroit	2115 Woodward Detroit, MI 48201	(42.3378,-83.0515)	https://seatgeek.com/venues/the-fillmore-detroit/tickets
+3679	Lexington Opera House	401 West Short Street Lexington, KY 40507	(38.0499,-84.4992)	https://seatgeek.com/venues/lexington-opera-house/tickets
+8840	Newton Theatre	234 Spring Street Newton, NJ 07860	(41.0562,-74.7499)	https://seatgeek.com/venues/newton-theatre/tickets
+4559	The Palladium Carmel	355 City Center Drive Carmel, IN 46032	(39.9706,-86.1332)	https://seatgeek.com/venues/the-palladium-carmel/tickets
+1459	World Cafe Live	3025 Walnut Street Philadelphia, PA 19104	(39.952,-75.1852)	https://seatgeek.com/venues/world-cafe-live/tickets
+880	Tarrytown Music Hall	13 Main Street Tarrytown, NY 10591	(41.0767,-73.8588)	https://seatgeek.com/venues/tarrytown-music-hall/tickets
+448	The Tabernacle	152 Luckie Street Atlanta, GA 30303	(33.7575,-84.3688)	https://seatgeek.com/venues/the-tabernacle/tickets
+10406	The Capitol Theatre	149 Westchester Avenue Port Chester, NY 10573	(41.0014,-73.6655)	https://seatgeek.com/venues/the-capitol-theatre/tickets
+999	Aragon Ballroom	1106 West Lawrence Avenue Chicago, IL 60640	(41.9694,-87.6579)	https://seatgeek.com/venues/aragon-ballroom/tickets
+1227	Grand Casino Mille Lacs Event Center	777 Grand Avenue Onamia, MN 56359	(46.1802,-93.7589)	https://seatgeek.com/venues/grand-casino-mille-lacs-event-center/tickets
+2729	Living Arts Centre	4141 Living Arts Drive Mississauga, Canada	(43.5872,-79.6439)	https://seatgeek.com/venues/living-arts-centre/tickets
+5746	Sands Bethlehem Event Center	77 Sands Boulevard Bethlehem, PA 18015	(40.61,-75.36)	https://seatgeek.com/venues/sands-bethlehem-event-center-1/tickets
+6103	The Fillmore Silver Spring	8656 Colesville Rd Silver Spring, MD 20910	(38.9974,-77.0275)	https://seatgeek.com/venues/the-fillmore-silver-spring/tickets
+6442	Martin Luther King Jr. Arena	301 West Oglethorpe Avenue Savannah, GA 31401	(32.0779,-81.0967)	https://seatgeek.com/venues/martin-luther-king-jr-arena/tickets
+2284	State Farm Arena	2600 North 10th Street Hidalgo, TX 78557	(26.1227,-98.2439)	https://seatgeek.com/venues/state-farm-arena/tickets
+179333	Hill City Comedy	2457 Meadowbrook Rd. NW Roanoke, VA 24017	(37.3152,-80.0118)	https://seatgeek.com/venues/hill-city-comedy/tickets
+294	Ruth Eckerd Hall	1111 McMullen Booth Rd. Clearwater, FL 33759	(27.9767,-82.7088)	https://seatgeek.com/venues/ruth-eckerd-hall/tickets
+567	Benedum Center	237 7th Street Pittsburgh, PA 15222	(40.443,-80.0001)	https://seatgeek.com/venues/benedum-center/tickets
+4081	ASU Convocation Center	217 Olympic Drive Jonesboro, AR 72401	(35.8438,-90.6691)	https://seatgeek.com/venues/asu-convocation-center-1/tickets
+1012	Flynn Center for the Performing Arts	153 Main Street Burlington, VT 05401	(44.4759,-73.2132)	https://seatgeek.com/venues/flynn-center-for-the-performing-arts/tickets
+3122	Diana Wortham Theatre	2 South Pack Square Asheville, NC 28801	(35.5949,-82.5515)	https://seatgeek.com/venues/diana-wortham-theatre/tickets
+1744	Duke Energy Center Fletcher Opera Theatre	500 Fayetteville Street Mall Raleigh, NC 27601	(35.7796,-78.6382)	https://seatgeek.com/venues/duke-energy-center-fletcher-opera-theatre/tickets
+74411	The Space at Westbury	250 Post Ave Westbury, NY 11590	(40.7534,-73.5859)	https://seatgeek.com/venues/the-space-at-westbury-1/tickets
+7363	Doubletree Hotel Tampa	4500 West Cypress Street Tampa, FL 33607	(27.9516,-82.5206)	https://seatgeek.com/venues/doubletree-hotel-tampa/tickets
+13155	Levoy Theatre	130 North High Street Millville, NJ 08332	(39.397,-75.0385)	https://seatgeek.com/venues/levoy-theatre/tickets
+8878	Schuster Performing Arts Center	1 West 2nd Street Dayton, OH 45402	(39.7609,-84.1924)	https://seatgeek.com/venues/schuster-performing-arts-center-1/tickets
+503	Columbus Civic Center	400 4th St. Columbus, GA 31901	(32.4501,-84.9877)	https://seatgeek.com/venues/columbus-civic-center/tickets
+152	King Center for the Performing Arts	3865 N. Wickham Road Melbourne, FL 32935	(28.1704,-80.6712)	https://seatgeek.com/venues/king-center-for-the-performing-arts/tickets
+5362	Alex Box Stadium	1 North Stadium Road Baton Rouge, LA 70803	(30.4057,-91.188)	https://seatgeek.com/venues/alex-box-stadium/tickets
+79468	Live! at The Ludlow Garage	342 Ludlow Ave Cincinnati, OH 45220	(39.144,-84.5212)	https://seatgeek.com/venues/live-at-the-ludlow-garage/tickets
+127	Philips Arena	1 Philips Dr Atlanta, GA 30303	(33.7572,-84.3964)	https://seatgeek.com/venues/philips-arena/tickets
+792	Bell Auditorium	712 Telfair St Augusta, GA 30901	(33.4717,-81.9658)	https://seatgeek.com/venues/bell-auditorium/tickets
+1105	Calvin Theatre	19 King Street Northampton, MA 01060	(42.3199,-72.6302)	https://seatgeek.com/venues/calvin-theatre/tickets
+78242	The Comedy Club of Williamsburg	50 Kingsmill Rd Williamsburg, VA 23185	(37.2431,-76.6597)	https://seatgeek.com/venues/the-comedy-club-of-williamsburg/tickets
+7084	Reverb	1402 N 9TH STREET Reading, PA 19604	(40.3563,-75.9199)	https://seatgeek.com/venues/reverb/tickets
+968	Altria Theater	6 N Laurel St Richmond, VA 23220	(37.5462,-77.4515)	https://seatgeek.com/venues/altria-theater/tickets
+6260	Baltimore Soundstage	124 Market Place Baltimore, MD 21202	(39.45,-76.7602)	https://seatgeek.com/venues/baltimore-soundstage/tickets
+329	Seneca Niagara Resort & Casino	310 Fourth Street Niagara Falls, NY 14303	(43.0857,-79.0578)	https://seatgeek.com/venues/seneca-niagara-resort-casino/tickets
+583	Kennedy Center Concert Hall	2700 F Street Nw Washington, DC 20566	(38.8962,-77.0555)	https://seatgeek.com/venues/kennedy-center-concert-hall/tickets
+703	Roy Thomson Hall	60 Simcoe St. Toronto, Canada	(43.6468,-79.3859)	https://seatgeek.com/venues/roy-thomson-hall/tickets
+81536	Gottwald Playhouse	600 E. Grace Street Richmond, VA 23219	(37.5415,-77.437)	https://seatgeek.com/venues/gottwald-playhouse/tickets
+6446	New York City Center - Stage 1	131 West 55th Street New York, NY 10019	(40.7636,-73.9794)	https://seatgeek.com/venues/new-york-city-center-stage-1/tickets
+6534	Miami Dade County Auditorium	2901 West Flagler Street Miami, FL 33135	(25.5582,-80.4959)	https://seatgeek.com/venues/miami-dade-county-auditorium/tickets
+669	Trocadero	1003 Arch St Philadelphia, PA 19107	(39.9537,-75.1565)	https://seatgeek.com/venues/trocadero/tickets
+399	Music Hall of Williamsburg	66 North 6th St. Brooklyn, NY 11211	(40.7193,-73.9616)	https://seatgeek.com/venues/music-hall-of-williamsburg/tickets
+1089	Akron Civic Theatre	182 South Main Street Akron, OH 44308	(41.0842,-81.5141)	https://seatgeek.com/venues/akron-civic-theatre/tickets
+914	Joe'S Bar	940 W. Weed Street Chicago, IL 60622	(41.8781,-87.6298)	https://seatgeek.com/venues/joe-s-bar/tickets
+79341	Saint Andrews Hall	431 East Congress Detroit, MI 48226	(42.3322,-83.0415)	https://seatgeek.com/venues/saint-andrews-hall/tickets
+1782	Town Hall	123 West 43rd Street New York, NY 10036	(40.7559,-73.9846)	https://seatgeek.com/venues/town-hall-1/tickets
+95	iWireless Center	1201 River Dr. Moline, IL 61265	(41.5067,-90.5151)	https://seatgeek.com/venues/iwireless-center-1/tickets
+948	Pensacola Bay Center	201 E. Gregory St. Pensacola, FL 32502	(30.4174,-87.2082)	https://seatgeek.com/venues/pensacola-bay-center/tickets
+60477	Denny Sanford Premier Center	1201 North West Avenue Sioux Falls, SD 57104	(43.5635,-96.747)	https://seatgeek.com/venues/denny-sanford-premier-center/tickets
+78765	Baxter Arena	2425 S. 67th St Omaha, NE 68182	(41.2388,-96.0146)	https://seatgeek.com/venues/baxter-arena-1/tickets
+1345	Saenger Theatre	118 S Palafox Pensacola, FL 32502	(30.4107,-87.2149)	https://seatgeek.com/venues/saenger-theatre/tickets
+4783	Cabooze	917 Cedar Ave S Minneapolis, MN 55404	(44.9634,-93.2469)	https://seatgeek.com/venues/cabooze/tickets
+869	Cedar Park Center	2100 Avenue of the Stars Cedar Park, TX 78613	(30.54,-97.82)	https://seatgeek.com/venues/cedar-park-center/tickets
+84	Sprint Center	1407 Grand Blvd Kansas City, MO 64106	(39.0979,-94.5803)	https://seatgeek.com/venues/sprint-center/tickets
+2527	Gallagher Bluedorn Performing Arts Center	8201 Dakota Ave. Cedar Falls, IA 50613	(42.5098,-92.4617)	https://seatgeek.com/venues/gallagher-bluedorn-performing-arts-center/tickets
+2324	BJCC Theatre	1001 19th Street North Birmingham, AL 35203	(33.52,-86.81)	https://seatgeek.com/venues/bjcc-theatre/tickets
+1628	Lake Charles Civic Center	900 Lakeshore Dr Lake Charles, LA 70611	(30.2286,-93.2214)	https://seatgeek.com/venues/lake-charles-civic-center/tickets
+3444	Coleman Coliseum	1201 Coliseum Circle Tuscaloosa, AL 35487	(33.202,-87.5405)	https://seatgeek.com/venues/coleman-coliseum/tickets
+1808	Von Braun Center Arena	700 Monroe St. Huntsville, AL 35801	(34.7273,-86.5903)	https://seatgeek.com/venues/von-braun-center-arena/tickets
+1381	Mobile Civic Center	401 Civic Center Drive Mobile, AL 36602	(30.6866,-88.0451)	https://seatgeek.com/venues/mobile-civic-center/tickets
+6160	UT Tyler Cowan Center	3900 University Blvd Tyler, TX 75799	(32.3129,-95.2477)	https://seatgeek.com/venues/ut-tyler-cowan-center/tickets
+4595	Garrett Coliseum	1555 Federal Drive Montgomery, AL 36107	(32.4027,-86.2692)	https://seatgeek.com/venues/garrett-coliseum/tickets
+1198	Fox Cities Performing Arts Center	400 W. College Avenue Appleton, WI 54911	(44.2618,-88.4115)	https://seatgeek.com/venues/fox-cities-performing-arts-center/tickets
+129	Toyota Center	1510 Polk Street Houston, TX 77002	(29.7505,-95.3622)	https://seatgeek.com/venues/toyota-center/tickets
+64288	Whisky Saigon	116 Boylston St. Boston, MA 02116	(42.3524,-71.0657)	https://seatgeek.com/venues/whisky-saigon/tickets
+1454	Dare Dayclub	711 Horseshoe Blvd Bossier City, LA 71111	(32.5153,-93.7371)	https://seatgeek.com/venues/dare-dayclub/tickets
+42938	Liquid	1212 West 6th Street Cleveland, OH 44113	(41.5009,-81.7002)	https://seatgeek.com/venues/liquid-1/tickets
+301	Casino Rama	5899 Rama Road Rama, Canada	(44.6474,-79.3458)	https://seatgeek.com/venues/casino-rama/tickets
+51154	Margaritaville Resort Casino	777 Margaritaville Way Bossier City, LA 71111	(32.516,-93.7321)	https://seatgeek.com/venues/margaritaville-resort-casino/tickets
+10266	Common Grounds	1123 S 8th St Waco, TX 76706	(31.546,-97.1243)	https://seatgeek.com/venues/common-grounds-1/tickets
+1575	Blueberry Hill	6504 Delmar St Louis, MO 63130	(38.6528,-90.2773)	https://seatgeek.com/venues/blueberry-hill/tickets
+588	Granada Theater	3524 Greenville Ave Dallas, TX 75206	(32.8308,-96.7701)	https://seatgeek.com/venues/granada-theater/tickets
+78730	The Fillmore Philadelphia	1000 Frankford Ave Philadelphia, PA 19125	(39.9648,-75.1345)	https://seatgeek.com/venues/the-fillmore-philadelphia/tickets
+58902	Limelight Eventplex	8102 N University Street Peoria, IL 61615	(40.7868,-89.6207)	https://seatgeek.com/venues/limelight-eventplex/tickets
+4131	Arcada Theater	105 E. Main St. Saint Charles, IL 60174	(41.9138,-88.3122)	https://seatgeek.com/venues/arcada-theater/tickets
+74559	Bomb Factory	2713 Canton Street Dallas, TX 75226	(32.7824,-96.7837)	https://seatgeek.com/venues/bomb-factory/tickets
+114	CenturyLink Center	2000 CenturyLink Center Dr. Bossier City, LA 71112	(32.4646,-93.672)	https://seatgeek.com/venues/centurylink-center/tickets
+3736	Club Regent Casino	1425 Regent Avenue West Winnipeg, Canada	(49.8954,-97.0435)	https://seatgeek.com/venues/club-regent-casino/tickets
+1584	Grand 1894 Opera House	2020 Post Office St Galveston, TX 77550	(29.3052,-94.7908)	https://seatgeek.com/venues/grand-1894-opera-house/tickets
+3584	North Shore Center for the Performing Arts	9501 Skokie Blvd Skokie, IL 60077	(42.0537,-87.7455)	https://seatgeek.com/venues/north-shore-center-for-the-performing-arts/tickets
+550	Pabst Theater	144 E Wells St Milwaukee, WI 53202	(43.0389,-87.9064)	https://seatgeek.com/venues/pabst-theater/tickets
+341	Heartland Events Center	700 East Stolley Park Rd. Grand Island, NE 68802	(40.9021,-98.3285)	https://seatgeek.com/venues/heartland-events-center/tickets
+1514	Civic Center Music Hall	201 North Walker Avenue Oklahoma City, OK 73102	(35.469,-97.5235)	https://seatgeek.com/venues/civic-center-music-hall/tickets
+126514	Rebel Lounge LLC	50 Exchange Terrace Providence, RI 02903	(41.5801,-71.4774)	https://seatgeek.com/venues/rebel-lounge-llc/tickets
+4362	James K. Polk Theater	505 Deaderick Street Nashville, TN 37243	(36.1645,-86.7818)	https://seatgeek.com/venues/james-k-polk-theater/tickets
+829	Center Stage Theatre	1374 West Peachtree St NW Atlanta, GA 30309	(33.792,-84.388)	https://seatgeek.com/venues/center-stage-theatre/tickets
+58696	The Ready Room	4195 Manchester Ave St Louis, MO 63110	(38.6277,-90.254)	https://seatgeek.com/venues/the-ready-room/tickets
+775	Chaifetz Arena	1 S. Compton Ave. St. Louis, MO 63103	(38.6325,-90.2279)	https://seatgeek.com/venues/chaifetz-arena/tickets
+25959	Bikkuri Lounge	1915 E. Coloniel Dr Orlando, FL 32803	(28.5534,-81.3565)	https://seatgeek.com/venues/bikkuri-lounge/tickets
+32942	Sidebar Theater	809 Railroad Avenue Tallahassee, FL 32310	(30.435,-84.2896)	https://seatgeek.com/venues/sidebar-theater/tickets
+353	The Colosseum at Caesars Windsor	377 Riverside Drive East Windsor, Canada	(42.321,-83.0341)	https://seatgeek.com/venues/the-colosseum-at-caesars-windsor/tickets
+713	Arvest Bank Theatre at The Midland	1228 Main Kansas City, MO 64105	(39.0989,-94.5835)	https://seatgeek.com/venues/arvest-bank-theatre-at-the-midland/tickets
+3534	Trees	2709 Elm Street Dallas, TX 75226	(32.7848,-96.7845)	https://seatgeek.com/venues/trees/tickets
+292	Ryman Auditorium	116 5th Avenue North Nashville, TN 37219	(36.161,-86.7787)	https://seatgeek.com/venues/ryman-auditorium/tickets
+737	Voodoo Lounge	1 Riverboat Drive Kansas City, MO 64116	(39.1425,-94.5459)	https://seatgeek.com/venues/voodoo-lounge-10/tickets
+2611	Harrah's Cherokee	777 Casino Drive Cherokee, NC 28719	(35.4699,-83.305)	https://seatgeek.com/venues/harrah-s-cherokee/tickets
+78586	Northlight Theatre	9501 Skokie Blvd. Skokie, IL 60077	(42.06,-87.75)	https://seatgeek.com/venues/northlight-theatre/tickets
+372	Vic Theatre	3145 N Sheffield Chicago, IL 60657	(41.9395,-87.6541)	https://seatgeek.com/venues/vic-theatre/tickets
+623	Riverside Theatre	116 W Wisconsin Ave Milwaukee, WI 53203	(43.0387,-87.9108)	https://seatgeek.com/venues/riverside-theatre/tickets
+8030	The Frequency	121 W Main St Madison, WI 53703	(43.0723,-89.3848)	https://seatgeek.com/venues/the-frequency/tickets
+492	Bass Performance Hall	525 Commerce Street Fort Worth, TX 76102	(32.7544,-97.33)	https://seatgeek.com/venues/bass-performance-hall/tickets
+1308	Minglewood Hall	1555 Madison Ave Memphis, TN 38104	(35.138,-90.0101)	https://seatgeek.com/venues/minglewood-hall/tickets
+1152	Genesee Theatre	203 N. Genesee St. Waukegan, IL 60085	(42.3624,-87.8313)	https://seatgeek.com/venues/genesee-theatre/tickets
+981	Bottom Lounge	1375 W Lake St Chicago, IL 60607	(41.8852,-87.6618)	https://seatgeek.com/venues/bottom-lounge/tickets
+5501	The Chicago Theatre	175 N State St Chicago, IL 60601	(41.8854,-87.6275)	https://seatgeek.com/venues/the-chicago-theatre/tickets
+18796	River City Casino	777 River City Casino Blvd Saint Louis, MO 63125	(38.5308,-90.2645)	https://seatgeek.com/venues/river-city-casino/tickets
+4299	City Bank Auditorium	2720 Drive of Champions Lubbock, TX 79409	(33.5896,-101.878)	https://seatgeek.com/venues/city-bank-auditorium/tickets
+8625	Silver Creek Event Center At Four Winds	11111 Wilson Road New Buffalo, MI 49117	(41.78,-86.71)	https://seatgeek.com/venues/silver-creek-event-center-at-four-winds/tickets
+3620	Music Hall at Fair Park	909 1st Ave Dallas, TX 75210	(32.7794,-96.759)	https://seatgeek.com/venues/music-hall-at-fair-park/tickets
+3808	Scout Bar	18307 Egret Bay Blvd Houston, TX 77058	(29.5431,-95.1035)	https://seatgeek.com/venues/scout-bar/tickets
+58148	Tobin Center for the Performing Arts	100 Auditorium Circle San Antonio, TX 78205	(29.4305,-98.4888)	https://seatgeek.com/venues/tobin-center-for-the-performing-arts/tickets
+1867	The Cotillion	11120 W Kellogg St Wichita, KS 67209	(37.6681,-97.4708)	https://seatgeek.com/venues/the-cotillion/tickets
+9598	The Abbey	100 South Eola Drive Orlando, FL 32801	(28.5073,-81.0637)	https://seatgeek.com/venues/the-abbey/tickets
+1495	Black Cat	1811 14th St Washington, DC 20009	(38.9146,-77.0315)	https://seatgeek.com/venues/black-cat/tickets
+56436	The District	4521 West Empire Place Sioux Falls, SD 57106	(43.5175,-96.7249)	https://seatgeek.com/venues/the-district-4/tickets
+1439	McFarlin Auditorium	6405 Boaz Lane Dallas, TX 75275	(32.8441,-96.7857)	https://seatgeek.com/venues/mcfarlin-auditorium/tickets
+16077	Echostage	2135 Queens Chapel Road NE Washington, DC 20018	(38.9197,-76.9727)	https://seatgeek.com/venues/echostage-1/tickets
+471	Ameristar Casino	3200 North Ameristar Drive Kansas City, MO 64161	(39.0865,-94.5686)	https://seatgeek.com/venues/ameristar-casino/tickets
+646	IP Casino Resort and Spa	850 Bayview Avenue Biloxi, MS 39530	(30.4116,-88.8909)	https://seatgeek.com/venues/ip-casino-resort-and-spa/tickets
+682	The Venue at Horseshoe Casino	777 Casino Center Dr. Hammond, IN 46320	(41.6942,-87.5057)	https://seatgeek.com/venues/the-venue-at-horseshoe-casino/tickets
+912	Majestic Theatre San Antonio	226 E Houston St San Antonio, TX 78205	(29.481,-98.4935)	https://seatgeek.com/venues/majestic-theatre-san-antonio/tickets
+614	The Lyric Oxford	1006 Van Buren Avenue Oxford, MS 38655	(34.3663,-89.521)	https://seatgeek.com/venues/the-lyric-oxford/tickets
+769	Rock and Roll Hotel	1353 H St. NE Washington, DC 20002	(38.8999,-76.9866)	https://seatgeek.com/venues/rock-and-roll-hotel/tickets
+3583	Ellie Caulkins Opera House	950 13th Street Denver, CO 80204	(39.7432,-104.999)	https://seatgeek.com/venues/ellie-caulkins-opera-house/tickets
+11200	NMSU Center for the Arts	1000 East University Las Cruces, NM 88003	(32.2841,-106.756)	https://seatgeek.com/venues/nmsu-center-for-the-arts/tickets
+3741	McAllen Civic Auditorium	1300 South 10th McAllen, TX 78501	(26.1914,-98.2332)	https://seatgeek.com/venues/mcallen-civic-auditorium-2/tickets
+4549	Colonial Theater	450 A Street Idaho Falls, ID 83402	(43.4932,-112.041)	https://seatgeek.com/venues/colonial-theater-2/tickets
+3065	Maverik Center	3200 S. Decker Lake Dr. West Valley City, UT 84119	(40.6916,-112.001)	https://seatgeek.com/venues/maverik-center/tickets
+7767	Elektricity Festival Grounds	10 Water St. Pontiac, MI 48342	(42.6357,-83.2904)	https://seatgeek.com/venues/elektricity-festival-grounds/tickets
+1204	Popejoy Hall	203 Cornell Drive Southeast Albuquerque, NM 87131	(35.0788,-106.62)	https://seatgeek.com/venues/popejoy-hall/tickets
+8380	Bleu	1540 Woodward Ave Detroit, MI 48226	(42.3357,-83.0494)	https://seatgeek.com/venues/bleu/tickets
+1230	WinStar World Casino	777 Casino Avenue Thackerville, OK 73459	(33.7579,-97.1322)	https://seatgeek.com/venues/winstar-world-casino/tickets
+45941	Opera Nightclub	1150 Crescent Avenue Northeast Atlanta, GA 30309	(33.786,-84.3841)	https://seatgeek.com/venues/opera-nightclub-1/tickets
+73930	Madrid Theatre	3810 Main Street Kansas City, MO 64111	(39.0581,-94.5864)	https://seatgeek.com/venues/madrid-theatre-1/tickets
+75990	Alea	1, boulevard du Casino Gatineau, Canada	(45.4476,-75.7274)	https://seatgeek.com/venues/alea/tickets
+3852	Coda	794 Bathurst Street Toronto, Canada	(43.6654,-79.4113)	https://seatgeek.com/venues/coda-3/tickets
+78496	Newspeak	1403 Saint Elisabeth Montreal, Canada	(45.5017,-73.5673)	https://seatgeek.com/venues/newspeak/tickets
+32267	Salon Daome	141 Avenue du Mont Montreal, Canada	(45.5216,-73.5852)	https://seatgeek.com/venues/salon-daome/tickets
+14546	1884 Lounge	1555 Madison Ave Memphis, TN 38104	(35.1382,-90.0094)	https://seatgeek.com/venues/1884-lounge/tickets
+828	Gothic Theatre	3263 S Broadway Englewood, CO 80113	(39.6577,-104.988)	https://seatgeek.com/venues/gothic-theatre/tickets
+441	Myth	3090 Southlawn Drive Saint Paul, MN 55109	(44.9537,-93.09)	https://seatgeek.com/venues/myth/tickets
+75931	Royale	279 Tremont Street Boston, MA 02116	(42.3581,-71.1303)	https://seatgeek.com/venues/royale-1/tickets
+1579	Venue 578	578 North Orange Avenue Orlando, FL 32801	(28.5507,-81.3795)	https://seatgeek.com/venues/venue-578-1/tickets
+34280	Stage 48	605 West 48th Street New York, NY 10036	(40.7651,-73.996)	https://seatgeek.com/venues/stage-48/tickets
+69493	Sky Room	330 W 40th St New York, NY 10018	(40.7565,-73.9925)	https://seatgeek.com/venues/sky-room-2/tickets
+78597	Nest	423 College Street Toronto, Canada	(43.6564,-79.4071)	https://seatgeek.com/venues/nest/tickets
+179525	Bohemian Hall & Beer Garden	2919 24th Ave Astoria, NY 11102	(40.7728,-73.916)	https://seatgeek.com/venues/bohemian-hall-beer-garden/tickets
+14092	Velvet Speakeasy	426 Rue St Gabriel Montreal, Canada	(45.5065,-73.5541)	https://seatgeek.com/venues/velvet-speakeasy/tickets
+31370	Cielo	18 Little West 12th Street New York, NY 10014	(40.7397,-74.007)	https://seatgeek.com/venues/cielo-1/tickets
+1005	New Daisy Theatre	330 Beale St Memphis, TN 38103	(35.1396,-90.0501)	https://seatgeek.com/venues/new-daisy-theatre/tickets
+30922	The North Door	502 Brushy Street Austin, TX 78702	(30.2647,-97.7342)	https://seatgeek.com/venues/the-north-door/tickets
+12469	The DL	95 Delancey Street New York, NY 10002	(40.7186,-73.9894)	https://seatgeek.com/venues/the-dl/tickets
+463	Webster Hall	125 East 11th Street New York, NY 10003	(40.7316,-73.9892)	https://seatgeek.com/venues/webster-hall/tickets
+54901	Concord Music Hall	2047 N Milwaukee Ave Chicago, IL 60647	(41.9187,-87.69)	https://seatgeek.com/venues/concord-music-hall/tickets
+763	Black Sheep	2106 E Platte Ave Colorado Springs, CO 80909	(38.8373,-104.789)	https://seatgeek.com/venues/black-sheep/tickets
+78575	Icon Nightclub	100 Warrenton Street Boston, MA 02116	(42.3507,-71.0662)	https://seatgeek.com/venues/icon-nightclub-1/tickets
+30828	Katra	217 Bowery New York, NY 10002	(40.7217,-73.9931)	https://seatgeek.com/venues/katra/tickets
+42588	Uniun Nightclub	473 Adelaide Street West Toronto, Canada	(43.65,-79.4)	https://seatgeek.com/venues/uniun-nightclub/tickets
+8905	The Church	1160 Lincoln Denver, CO 80203	(39.7222,-104.989)	https://seatgeek.com/venues/the-church/tickets
+982	Antones	213 West 5th Street Austin, TX 78701	(30.2914,-97.7034)	https://seatgeek.com/venues/antones/tickets
+59421	Heart Nightclub	1421 South Miami Avenue Miami, FL 33132	(25.7617,-80.1918)	https://seatgeek.com/venues/heart-nightclub/tickets
+76004	Haven Nightclub	1 Castle Blvd Atlantic City, NJ 08401	(39.3783,-74.429)	https://seatgeek.com/venues/haven-nightclub/tickets
+42363	Dady 'O Nightclub	 Cancun, Mexico	(21.1619,-86.8515)	https://seatgeek.com/venues/dady-o-nightclub/tickets
+305	Billy Bobs	2520 Rodeo Plaza Fort Worth, TX 76164	(32.7555,-97.3308)	https://seatgeek.com/venues/billy-bobs/tickets
+30943	Beta	1909 Blake St Denver, CO 80202	(39.7537,-104.995)	https://seatgeek.com/venues/beta-3/tickets
+13533	Stereo	858 Ste Montreal, Canada	(45.5161,-73.5583)	https://seatgeek.com/venues/stereo-2/tickets
+1637	Atlanta Motor Speedway	1500 Tara Place Hampton, GA 30228	(33.3839,-84.3122)	https://seatgeek.com/venues/atlanta-motor-speedway/tickets
+218416	Student City	8 Essex Center Drive Peabody, MA 01960	(42.5401,-70.9506)	https://seatgeek.com/venues/student-city/tickets
+3205	Shubert Theater	247 College Street New Haven, CT 06510	(41.3083,-72.9279)	https://seatgeek.com/venues/shubert-theater/tickets
+42364	Palazzo	 Cancun, Mexico	(21.1619,-86.8515)	https://seatgeek.com/venues/palazzo-4/tickets
+179564	1892 Bishop&apos;s Palace	1402 Broadway Galveston, TX 77550	(29.3032,-94.7815)	https://seatgeek.com/venues/1892-bishop-apos-s-palace/tickets
+3463	University of Dayton Arena	1801 Edwin Moses Blvd. Dayton, OH 45408	(39.7355,-84.1995)	https://seatgeek.com/venues/university-of-dayton-arena/tickets
+3482	Stegeman Coliseum	100 Smith St. Athens, GA 30602	(33.9424,-83.3787)	https://seatgeek.com/venues/stegeman-coliseum/tickets
+3469	Allen Fieldhouse	16511 Naismith Drive Lawrence, KS 66045	(38.9509,-95.2513)	https://seatgeek.com/venues/allen-fieldhouse/tickets
+3430	Liacouras Center	1776 N Broad St Philadelphia, PA 19121	(39.9799,-75.1586)	https://seatgeek.com/venues/liacouras-center/tickets
+206	Budweiser Gardens	99 Dundas St. London, Canada	(42.983,-81.2522)	https://seatgeek.com/venues/budweiser-gardens/tickets
+3350	Charles E. Smith Center	600 22nd Street NW Washington, DC 20052	(38.8978,-77.0493)	https://seatgeek.com/venues/charles-e-smith-center/tickets
+727	Fifth Third Ballpark	4500 W. River Dr Comstock Park, MI 49503	(43.0403,-85.6601)	https://seatgeek.com/venues/fifth-third-ballpark/tickets
+6370	Ford Center	1 Martin Luther King Jr Blvd Evansville, IN 47708	(37.9731,-87.5679)	https://seatgeek.com/venues/ford-center/tickets
+56634	District N9ne	460 N 9th Street Philadelphia, PA 19123	(39.9601,-75.1533)	https://seatgeek.com/venues/district-n9ne/tickets
+4254	Convocation Center	211 Convocation Center Athens, OH 45701	(39.3292,-82.1013)	https://seatgeek.com/venues/convocation-center-2/tickets
+3904	John E. Worthen Arena	2000 W. University Ave. Muncie, IN 47306	(40.2071,-85.4062)	https://seatgeek.com/venues/john-e-worthen-arena/tickets
+4536	Singletary Center for the Arts	405 Rose Street Lexington, KY 40506	(38.0378,-84.5011)	https://seatgeek.com/venues/singletary-center-for-the-arts/tickets
+223	USF Sun Dome	4202 East Fowler Ave Tampa, FL 33620	(28.0592,-82.4066)	https://seatgeek.com/venues/usf-sun-dome/tickets
+4380	Procter and Gamble Hall	650 Walnut St Cincinnati, OH 45202	(39.1034,-84.5119)	https://seatgeek.com/venues/procter-and-gamble-hall/tickets
+1620	Carrier Dome	900 Irving Ave Syracuse, NY 13244	(43.0362,-76.1363)	https://seatgeek.com/venues/carrier-dome/tickets
+917	Frank Erwin Center	1701 Red River St Austin, TX 78701	(30.2769,-97.7322)	https://seatgeek.com/venues/frank-erwin-center/tickets
+607	American Music Theatre	2425 Lincoln Hwy East Lancaster, PA 17605	(40.0241,-76.2009)	https://seatgeek.com/venues/american-music-theatre/tickets
+4224	Tom Gola Arena	1900 W. Olney Ave. Philadelphia, PA 19141	(40.0377,-75.1525)	https://seatgeek.com/venues/tom-gola-arena/tickets
+3445	Welsh-Ryan Arena	2705 Ashland Ave. Evanston, IL 60208	(42.0668,-87.6925)	https://seatgeek.com/venues/welsh-ryan-arena/tickets
+925	Bijou Theatre	803 South Gay Street Knoxville, TN 37902	(35.9623,-83.9171)	https://seatgeek.com/venues/bijou-theatre/tickets
+45667	Bay Area Renaissance Festival at MOSI	11315 N 46th St Tampa, FL 33617	(28.0515,-82.4086)	https://seatgeek.com/venues/bay-area-renaissance-festival-at-mosi/tickets
+3433	Humphrey Coliseum	55 Coliseum Boulevard Starkville, MS 39762	(33.4595,-88.7896)	https://seatgeek.com/venues/humphrey-coliseum/tickets
+3913	JMU Convocation Center	895 University Boulevard Harrisonburg, VA 22807	(38.4496,-78.8689)	https://seatgeek.com/venues/jmu-convocation-center/tickets
+1434	Cox Convention Center	1 Myriad Gardens Oklahoma City, OK 73102	(35.4665,-97.5147)	https://seatgeek.com/venues/cox-convention-center/tickets
+3567	Casa Manana	3101 W Lancaster Ave Fort Worth, TX 76107	(32.7555,-97.3308)	https://seatgeek.com/venues/casa-manana/tickets
+352	Mississippi Coast Coliseum	2350 Beach Boulevard Biloxi, MS 39531	(30.396,-88.8853)	https://seatgeek.com/venues/mississippi-coast-coliseum/tickets
+2195	Bridgestone Arena	501 Broadway Nashville, TN 37203	(36.1601,-86.7791)	https://seatgeek.com/venues/bridgestone-arena/tickets
+2265	Consol Energy Center	1001 5th Ave Pittsburgh, PA 15219	(40.4392,-79.9897)	https://seatgeek.com/venues/consol-energy-center/tickets
+5718	Cowtown Coliseum	121 E. Exchange Ave. Fort Worth, TX 76107	(32.79,-97.35)	https://seatgeek.com/venues/cowtown-coliseum/tickets
+3486	Mackey Arena	900 John R Wooden Drive West Lafayette, IN 47907	(40.4327,-86.9167)	https://seatgeek.com/venues/mackey-arena/tickets
+3461	Mizzou Arena	1 Champions Drive Columbia, MO 65211	(38.9325,-92.335)	https://seatgeek.com/venues/mizzou-arena/tickets
+354	Donald L. Tucker Center	505 West Pensacola Street Tallahassee, FL 32301	(30.4377,-84.2875)	https://seatgeek.com/venues/donald-l-tucker-center/tickets
+654	Crossroads	417 E 18th St Kansas City, MO 64108	(39.0916,-94.5781)	https://seatgeek.com/venues/crossroads-22/tickets
+4433	Fitzgerald Theater	10 E Exchange St Saint Paul, MN 55101	(44.95,-93.1)	https://seatgeek.com/venues/fitzgerald-theater/tickets
+7479	Baseball Grounds of Jacksonville	301 A. Philip Randolph Blvd. Jacksonville, FL 32202	(30.3249,-81.6436)	https://seatgeek.com/venues/baseball-grounds-of-jacksonville/tickets
+218413	Coliseum White Plains	15 South Broadway White Plains, NY 10601	(41.0327,-73.763)	https://seatgeek.com/venues/coliseum-white-plains/tickets
+3441	A.J. Palumbo Center	1302 Forbes Ave Pittsburgh, PA 15282	(40.4378,-79.9881)	https://seatgeek.com/venues/a-j-palumbo-center/tickets
+3439	Gallagher-Iba Arena	1046 West Hall of Fame Avenue Stillwater, OK 74078	(36.1269,-97.0704)	https://seatgeek.com/venues/gallagher-iba-arena/tickets
+3889	Royal George Theatre	1641 North Halsted Avenue Chicago, IL 60614	(41.9121,-87.6479)	https://seatgeek.com/venues/royal-george-theatre/tickets
+38	Georgia Dome	659 Peachtree St. NE Atlanta, GA 30313	(33.7577,-84.4008)	https://seatgeek.com/venues/georgia-dome/tickets
+2513	The Theater at Madison Square Garden	4 Pennsylvania Plaza New York, NY 10001	(40.75,-73.9942)	https://seatgeek.com/venues/the-theater-at-madison-square-garden/tickets
+3508	Mile One Centre	50 New Gower Street St. John's, Canada	(47.5607,-52.7122)	https://seatgeek.com/venues/mile-one-centre/tickets
+90	John Paul Jones Arena	295 Massie Rd Charlottesville, VA 22903	(38.0459,-78.5066)	https://seatgeek.com/venues/john-paul-jones-arena/tickets
+41012	Miccosukee Resort & Gaming	500 SW 177TH Ave Miami, FL 33194	(25.7642,-80.484)	https://seatgeek.com/venues/miccosukee-resort-gaming/tickets
+4965	AT&T Stadium	1 Legends Way Arlington, TX 76011	(32.7473,-97.0945)	https://seatgeek.com/venues/at-t-stadium/tickets
+3390	Whittemore Center Arena	128 Main St. Durham, NH 03824	(43.134,-70.9264)	https://seatgeek.com/venues/whittemore-center-arena/tickets
+1073	Town Ballroom	681 Main Street Buffalo, NY 14203	(42.8925,-78.8722)	https://seatgeek.com/venues/town-ballroom/tickets
+263	Seneca Allegany Casino	777 Seneca Allegany Blvd Salamanca, NY 14779	(42.1531,-78.7471)	https://seatgeek.com/venues/seneca-allegany-casino/tickets
+346	Ford Field	2000 Brush St. Detroit, MI 48226	(42.34,-83.0459)	https://seatgeek.com/venues/ford-field/tickets
+3973	Lincoln Theatre	769 East Long Street Columbus, OH 43203	(39.9673,-82.9805)	https://seatgeek.com/venues/lincoln-theatre-3/tickets
+190184	The Rooftop At The Gale Hotel	1690 Collins Avenue Miami Beach, FL 33139	(25.7921,-80.1301)	https://seatgeek.com/venues/the-rooftop-at-the-gale-hotel/tickets
+178	FirstOntario Centre	101 York Blvd Hamilton, Canada	(43.2595,-79.8726)	https://seatgeek.com/venues/firstontario-centre/tickets
+2896	Hu Ke Lau	705 Memorial Drive Chicopee, MA 01020	(42.1771,-72.5767)	https://seatgeek.com/venues/hu-ke-lau/tickets
+3442	Halton Arena	9201 University City Blvd Charlotte, NC 28223	(35.3063,-80.7344)	https://seatgeek.com/venues/halton-arena/tickets
+4231	Savage Arena	2801 W Bancroft St Toledo, OH 43606	(41.6639,-83.5552)	https://seatgeek.com/venues/savage-arena/tickets
+681	Mod Club Theatre	722 College Street West Toronto, Canada	(43.6553,-79.4194)	https://seatgeek.com/venues/mod-club-theatre/tickets
+53645	East Cleveland Theater	14108 Euclid Avenue Cleveland, OH 44112	(41.5281,-81.5838)	https://seatgeek.com/venues/east-cleveland-theater/tickets
+57469	Hard Rock Rocksino	10777 Northfield Rd Northfield, OH 44067	(41.3502,-81.5267)	https://seatgeek.com/venues/hard-rock-rocksino/tickets
+37534	Loews Miami Beach Hotel	1601 Collins Ave Miami Beach, FL 33139	(25.7895,-80.1292)	https://seatgeek.com/venues/loews-miami-beach-hotel/tickets
+3510	War Memorial At Oncenter	515 Montgomery St. Syracuse, NY 13202	(43.0481,-76.1474)	https://seatgeek.com/venues/war-memorial-at-oncenter/tickets
+5163	Island Federal Credit Union Arena	100 Nicolls Road Stony Brook, NY 11794	(40.9143,-73.1162)	https://seatgeek.com/venues/island-federal-credit-union-arena/tickets
+5548	Goggin Ice Arena	610 Oak Street Oxford, OH 45056	(39.507,-84.7452)	https://seatgeek.com/venues/goggin-ice-arena/tickets
+5537	BGSU Ice Arena	417 North Mercer Road Bowling Green, OH 43403	(41.3799,-83.6296)	https://seatgeek.com/venues/bgsu-ice-arena/tickets
+9172	The Vanguard	222 N. Main Street Tulsa, OK 74103	(36.1589,-95.9944)	https://seatgeek.com/venues/the-vanguard/tickets
+10933	The Korova	107 East Martin Street San Antonio, TX 78205	(29.4293,-98.4931)	https://seatgeek.com/venues/the-korova/tickets
+891	Diamond Ballroom	8001 S. Eastern Ave Oklahoma City, OK 73149	(35.4676,-97.5164)	https://seatgeek.com/venues/diamond-ballroom/tickets
+958	Michigan Theater	603 East Liberty Ann Arbor, MI 48104	(42.2808,-83.743)	https://seatgeek.com/venues/michigan-theater/tickets
+16416	Marlin Room at Webster Hall	125 East 11th Street New York, NY 10003	(40.7535,-73.981)	https://seatgeek.com/venues/marlin-room-at-webster-hall/tickets
+4353	KFC Yum! Center	1 Arena Plaza Louisville, KY 40202	(38.2572,-85.754)	https://seatgeek.com/venues/kfc-yum-center/tickets
+458	Blue Cross Arena	1 War Memorial Square Rochester, NY 14614	(43.1539,-77.6108)	https://seatgeek.com/venues/blue-cross-arena/tickets
+3721	Orlando Citrus Bowl	1 Citrus Bowl Place Orlando, FL 32805	(28.5378,-81.4016)	https://seatgeek.com/venues/orlando-citrus-bowl/tickets
+3212	Straz Center Ferguson Hall	1010 North WC MacInnes Place Tampa, FL 33602	(27.9516,-82.4639)	https://seatgeek.com/venues/straz-center-ferguson-hall/tickets
+1192	Macon Centreplex	200 Coliseum Drive Macon, GA 31217	(32.8397,-83.6276)	https://seatgeek.com/venues/macon-centreplex/tickets
+88	Boardwalk Hall	2301 Boardwalk Atlantic City, NJ 08401	(39.3549,-74.4384)	https://seatgeek.com/venues/boardwalk-hall/tickets
+1234	Santander Performing Arts Center	136 North 6th Street Reading, PA 19601	(40.3377,-75.9258)	https://seatgeek.com/venues/santander-performing-arts-center/tickets
+461	Thompson Boling Arena	1600 Phillip Fulmer Way Knoxville, TN 37996	(35.9507,-83.9252)	https://seatgeek.com/venues/thompson-boling-arena/tickets
+785	Pops	1405 Mississippi Ave Sauget, IL 62201	(38.6088,-90.1705)	https://seatgeek.com/venues/pops/tickets
+2068	Wesbanco Arena	2 14th St Wheeling, WV 26003	(40.066,-80.7179)	https://seatgeek.com/venues/wesbanco-arena/tickets
+2506	Township Auditorium	1703 Taylor Street Columbia, SC 29201	(34.0092,-81.0277)	https://seatgeek.com/venues/township-auditorium/tickets
+4699	Guilford College	5800 W. Friendly Ave Greensboro, NC 27410	(36.09,-79.89)	https://seatgeek.com/venues/guilford-college/tickets
+3098	Palace Theatre	61 Atlantic St. Stamford, CT 06901	(41.0534,-73.5387)	https://seatgeek.com/venues/palace-theatre-37/tickets
+78024	Gilt	740 Bennett Rd Orlando, FL 32803	(28.5549,-81.3342)	https://seatgeek.com/venues/gilt/tickets
+431	Trump Taj Mahal	1000 Boardwalk Atlantic City, NJ 08401	(39.3587,-74.4199)	https://seatgeek.com/venues/trump-taj-mahal/tickets
+1221	Sherman Theater	524 Main Street Stroudsburg, PA 18360	(40.9861,-75.1914)	https://seatgeek.com/venues/sherman-theater/tickets
+4245	Ed & Rae Schollmaier Arena	2900 Stadium Drive Fort Worth, TX 76129	(32.7093,-97.3652)	https://seatgeek.com/venues/ed-rae-schollmaier-arena/tickets
+1060	Providence Performing Arts Center	220 Weybosset Street Providence, RI 02903	(41.8239,-71.412)	https://seatgeek.com/venues/providence-performing-arts-center/tickets
+78827	Taft Stadium	NW 27th Street Oklahoma City, OK 73107	(35.4957,-97.5672)	https://seatgeek.com/venues/taft-stadium/tickets
+724	University At Buffalo Center for the Arts	103 Center For The Arts Buffalo, NY 14260	(43.001,-78.7829)	https://seatgeek.com/venues/university-at-buffalo-center-for-the-arts/tickets
+4095	SIU Arena	1490 Douglas Drive Carbondale, IL 62901	(37.7251,-89.2167)	https://seatgeek.com/venues/siu-arena/tickets
+4340	Rialto Center for the Arts	80 Forsyth Street Atlanta, GA 30303	(33.7521,-84.3937)	https://seatgeek.com/venues/rialto-center-for-the-arts/tickets
+602	Penns Peak	325 Maury Road Jim Thorpe, PA 18229	(40.8848,-75.6778)	https://seatgeek.com/venues/penns-peak/tickets
+3826	Ohio Theatre	1511 Euclid Avenue Cleveland, OH 44115	(41.502,-81.6807)	https://seatgeek.com/venues/ohio-theatre-1/tickets
+1850	Bears Den At Seneca Niagara Casino & Hotel	310 4th Street Niagara Falls, NY 14303	(43.1969,-78.7674)	https://seatgeek.com/venues/bears-den-at-seneca-niagara-casino-hotel/tickets
+5274	The Local 662	662 Central Avenue Saint Petersburg, FL 33701	(27.7709,-82.643)	https://seatgeek.com/venues/the-local-662/tickets
+852	Tropicana Showroom at Tropicana Casino	2831 Boardwalk Atlantic City, NJ 08401	(39.3519,-74.4441)	https://seatgeek.com/venues/tropicana-showroom-at-tropicana-casino/tickets
+738	Brown Theatre	315 West Broadway Louisville, KY 40202	(38.246,-85.7574)	https://seatgeek.com/venues/brown-theatre/tickets
+1723	Toyota Oakdale Theatre	95 South Turnpike Rd Wallingford, CT 06492	(41.4494,-72.8452)	https://seatgeek.com/venues/toyota-oakdale-theatre/tickets
+16312	Copernicus Center	5216 W. Lawrence Ave. Chicago, IL 60630	(41.9681,-87.7586)	https://seatgeek.com/venues/copernicus-center/tickets
+3491	BancorpSouth Arena	375 East Main Street Tupelo, MS 38804	(34.2595,-88.6997)	https://seatgeek.com/venues/bancorpsouth-arena/tickets
+494	Turning Stone Casino	5218 Patrick Road Verona, NY 13478	(43.1135,-75.5951)	https://seatgeek.com/venues/turning-stone-casino/tickets
+2730	Babeville	341 Delaware Avenue Buffalo, NY 14202	(42.8938,-78.8758)	https://seatgeek.com/venues/babeville/tickets
+762	The Bottleneck	737 New Hampshire St Lawrence, KS 66044	(38.9705,-95.2347)	https://seatgeek.com/venues/the-bottleneck/tickets
+4481	Aventura Arts & Cultural Center	3385 NE 188th Street Aventura, FL 33180	(25.9498,-80.1346)	https://seatgeek.com/venues/aventura-arts-cultural-center/tickets
+45920	Ardmore Music Hall	23 E. Lancaster Avenue Ardmore, PA 19003	(40.0076,-75.29)	https://seatgeek.com/venues/ardmore-music-hall/tickets
+4142	CFSB Center	1401 State Route 121 North Murray, KY 42071	(36.6103,-88.3148)	https://seatgeek.com/venues/cfsb-center/tickets
+721	Rialto Square Theatre	102 N Chicago Joliet, IL 60432	(41.5261,-88.0816)	https://seatgeek.com/venues/rialto-square-theatre/tickets
+622	Riviera Theatre	4746 N Racine Ave Chicago, IL 60640	(41.9687,-87.66)	https://seatgeek.com/venues/riviera-theatre/tickets
+434	Hammerstein Ballroom	311 West 34th Street New York, NY 10001	(40.7524,-73.9939)	https://seatgeek.com/venues/hammerstein-ballroom/tickets
+15808	The VETS	1 Avenue of the Arts Providence, RI 02903	(41.8301,-71.417)	https://seatgeek.com/venues/the-vets/tickets
+12534	Colonial Theatre	95 Main Street Keene, NH 03431	(42.9317,-72.2787)	https://seatgeek.com/venues/colonial-theatre-1/tickets
+98	MTS Centre	300 Portage Avenue Winnipeg, Canada	(49.8936,-97.1435)	https://seatgeek.com/venues/mts-centre/tickets
+56779	Rough Trade NYC	64 North 9th St Brooklyn, NY 11249	(40.721,-73.9598)	https://seatgeek.com/venues/rough-trade-nyc/tickets
+1064	Bojangles Coliseum	2700 E. Independence Blvd. Charlotte, NC 28205	(35.2046,-80.7947)	https://seatgeek.com/venues/bojangles-coliseum/tickets
+940	James L Knight Center	400 SE 2nd Ave Miami, FL 33131	(25.7709,-80.1909)	https://seatgeek.com/venues/james-l-knight-center/tickets
+4873	Blue Ocean Music Hall	4 Ocean Front North Salisbury, MA 01952	(42.8417,-70.8606)	https://seatgeek.com/venues/blue-ocean-music-hall/tickets
+3600	Tyson Events Center	401 Gordon Drive Sioux City, IA 51101	(42.4908,-96.4063)	https://seatgeek.com/venues/tyson-events-center/tickets
+2516	Paramount Theatre	30 Center Street Rutland, VT 05701	(43.8717,-72.4517)	https://seatgeek.com/venues/paramount-theatre-8/tickets
+1263	Ovens Auditorium	2700 E Independence Blvd Charlotte, NC 28205	(35.2051,-80.794)	https://seatgeek.com/venues/ovens-auditorium/tickets
+5462	Place des Arts	175 rue Ste Montreal, Canada	(45.4761,-73.8711)	https://seatgeek.com/venues/place-des-arts/tickets
+2902	David Geffen Hall	10 Lincoln Center Plaza New York, NY 10023	(40.7726,-73.9833)	https://seatgeek.com/venues/david-geffen-hall/tickets
+1470	DeVos Performance Hall	303 Monroe NW Grand Rapids, MI 49503	(42.9688,-85.6721)	https://seatgeek.com/venues/devos-performance-hall/tickets
+179847	2Gardenias	6710 hanley rd tampa, FL 33634	(28.0089,-82.5627)	https://seatgeek.com/venues/2gardenias/tickets
+4138	United Wireless Arena	4100 West Comanche Dodge City, KS 67801	(37.7666,-100.062)	https://seatgeek.com/venues/united-wireless-arena/tickets
+113	Cajundome	444 Cajundome Blvd. Lafayette, LA 70506	(30.2174,-92.04)	https://seatgeek.com/venues/cajundome/tickets
+5437	Peoria Civic Center	201 SW Jefferson St. Peoria, IL 61602	(40.692,-89.5943)	https://seatgeek.com/venues/peoria-civic-center/tickets
+1883	Mesquite Arena	1818 Rodeo Drive Mesquite, TX 75149	(32.7668,-96.5992)	https://seatgeek.com/venues/mesquite-arena/tickets
+1368	Des Moines Civic Center	221 Walnut Street Des Moines, IA 50309	(41.5872,-93.6204)	https://seatgeek.com/venues/des-moines-civic-center/tickets
+3526	Brooklyn Bowl	61 Wythe Ave Brooklyn, NY 11211	(40.7222,-73.9575)	https://seatgeek.com/venues/brooklyn-bowl/tickets
+13129	Paramount Theatre	123 3rd Ave SE Cedar Rapids, IA 52401	(41.9766,-91.667)	https://seatgeek.com/venues/paramount-theatre-9/tickets
+11491	Arlington Music Hall	224 North Center Street Arlington, TX 76011	(32.7385,-97.1072)	https://seatgeek.com/venues/arlington-music-hall/tickets
+5790	Georgia Theatre	215 N. Lumpkin Street Athens, GA 30601	(33.9583,-83.3774)	https://seatgeek.com/venues/georgia-theatre/tickets
+14574	Showcase Lounge	1214 Williston Road South Burlington, VT 05403	(44.4689,-73.1756)	https://seatgeek.com/venues/showcase-lounge/tickets
+39314	Tally Ho Theatre	19 West Market Street Leesburg, VA 20176	(39.1157,-77.5636)	https://seatgeek.com/venues/tally-ho-theatre/tickets
+3480	Pete Maravich Assembly Center	1 North Stadium Rd. Baton Rouge, LA 70803	(30.4173,-91.1856)	https://seatgeek.com/venues/pete-maravich-assembly-center/tickets
+1574	Show Me Center	1333 N. Sprigg Street Cape Girardeau, MO 63701	(37.3059,-89.5182)	https://seatgeek.com/venues/show-me-center/tickets
+363	The Rex Theater	1602 E Carson St Pittsburgh, PA 15203	(40.4406,-79.9959)	https://seatgeek.com/venues/the-rex-theater/tickets
+7427	SCERA Center: Showhouse II	745 South State Street Orem, UT 84058	(40.28,-111.69)	https://seatgeek.com/venues/scera-center-showhouse-ii/tickets
+2958	Capitol Theatre	50 West 200 South Salt Lake City, UT 84101	(40.765,-111.893)	https://seatgeek.com/venues/capitol-theatre-6/tickets
+1491	Sheldon Concert Hall	3648 Washington Boulevard Saint Louis, MO 63108	(38.6394,-90.2325)	https://seatgeek.com/venues/sheldon-concert-hall/tickets
+1043	Bluebird Nightclub	216 N Walnut Bloomington, IN 47404	(39.1682,-86.5332)	https://seatgeek.com/venues/bluebird-nightclub/tickets
+12359	Fitzgerald's	437 McCarty Rd San Antonio, TX 78216	(29.5289,-98.4994)	https://seatgeek.com/venues/fitzgerald-s-3/tickets
+369	Burton Cummings Theatre	364 Smith St Winnipeg, Canada	(49.8958,-97.1436)	https://seatgeek.com/venues/burton-cummings-theatre/tickets
+7982	High Dive	210 SW 2nd Ave Gainesville, FL 32601	(29.6504,-82.327)	https://seatgeek.com/venues/high-dive-2/tickets
+4333	KiMo Theatre	423 Central Avenue Northwest Albuquerque, NM 87102	(35.085,-106.653)	https://seatgeek.com/venues/kimo-theatre/tickets
+3395	Cypress Bayou Casino	832 Martin Luther King Road Charenton, LA 70523	(29.88,-91.54)	https://seatgeek.com/venues/cypress-bayou-casino/tickets
+55860	Gas Monkey Bar N Grill	10261 Technology Drive E Dallas, TX 75220	(32.8608,-96.8962)	https://seatgeek.com/venues/gas-monkey-bar-n-grill/tickets
+1094	Caesars Atlantic City	2100 Pacific Ave Atlantic City, NJ 08404	(39.3571,-74.4375)	https://seatgeek.com/venues/caesars-atlantic-city/tickets
+1023	Cannery Ballroom	1 Cannery Row Nashville, TN 37203	(36.153,-86.7799)	https://seatgeek.com/venues/cannery-ballroom-1/tickets
+36865	The Bottling Plant Event Center	614 N Railroad Ave Opelika, AL 36801	(32.6501,-85.3783)	https://seatgeek.com/venues/the-bottling-plant-event-center/tickets
+314	Hard Rock Live Biloxi	777 Beach Blvd. Biloxi, MS 39530	(30.4259,-88.9192)	https://seatgeek.com/venues/hard-rock-live-biloxi/tickets
+3558	Wentz Concert Hall	171 E. Chicago Avenue Naperville, IL 60540	(41.77,-88.15)	https://seatgeek.com/venues/wentz-concert-hall/tickets
+42782	Rockwells	105 Wolfe Lane Pelham, NY 10803	(40.9096,-73.8108)	https://seatgeek.com/venues/rockwells/tickets
+2602	Orpheum Theatre	200 N. Broadway Wichita, KS 67202	(37.6872,-97.3301)	https://seatgeek.com/venues/orpheum-theatre-6/tickets
+4172	Dee Glen Smith Spectrum	7600 Old Main Hl Logan, UT 84322	(41.7422,-111.808)	https://seatgeek.com/venues/dee-glen-smith-spectrum/tickets
+514	Arena Theatre	7326 Southwest Freeway Houston, TX 77074	(29.7029,-95.518)	https://seatgeek.com/venues/arena-theatre/tickets
+906	Fine Line Music Cafe	318 First Avenue North Minneapolis, MN 55401	(44.9816,-93.2721)	https://seatgeek.com/venues/fine-line-music-cafe/tickets
+61312	Wiley's Comedy Club	101 Pine Street Dayton, OH 45402	(39.7577,-84.1854)	https://seatgeek.com/venues/wiley-s-comedy-club/tickets
+943	The Blue Note	17 N 9th St Columbia, MO 65201	(38.9521,-92.3275)	https://seatgeek.com/venues/the-blue-note/tickets
+2280	1stBank Center	11450 Broomfield Lane Broomfield, CO 80021	(39.9046,-105.087)	https://seatgeek.com/venues/1stbank-center/tickets
+655	Pikes Peak Center	190 South Cascade Ave Colorado Springs, CO 80903	(38.8339,-104.821)	https://seatgeek.com/venues/pikes-peak-center/tickets
