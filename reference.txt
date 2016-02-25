@@ -3,6 +3,9 @@ http://www.programmableweb.com/category/tickets/apis?category=20393
 SeatGeek:
 http://platform.seatgeek.com/
 
+Faker for Python:
+http://fake-factory.readthedocs.org/en/latest/index.html
+
 Operations for psql:
 \i test.sql 
 

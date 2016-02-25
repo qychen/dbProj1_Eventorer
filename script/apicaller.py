@@ -63,10 +63,10 @@ f_part = open('../data/Participates.txt','w')
 f_favor = open('../data/Favors.txt','w')
 
 
-for _ in range(200):
-  uid = random.randrange(2000,4000)
+for _ in range(2000):
+  uid = random.randrange(20000,40000)
   while uid in u_ids:
-    uid = random.randrange(2000,4000)
+    uid = random.randrange(20000,40000)
   u_ids.append(uid)
   f_user.write(str(uid)+'\t'+fake.name()+'\t'+\
     ''.join(random.SystemRandom().choice(string.ascii_uppercase + string.digits) for _ in range(15))\
@@ -85,6 +85,7 @@ for i in range(len(u_ids)):
 
 for i in range(len(u_ids)):
   num = random.randrange(0,20)
+  idxs = []
   for j in range(num):
     index = random.randrange(0,len(t_ids))
     while index in idxs:
