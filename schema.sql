@@ -54,8 +54,9 @@ CREATE TABLE Performers (
 CREATE TABLE Restaurants (
 	rid int PRIMARY KEY,
 	name varchar(80),
-	cuisine varchar(30),
-	image text
+	address text,
+	image text,
+	rating real
 );
 
 /* relationship */
@@ -110,3 +111,6 @@ CREATE TABLE Nearby (
 \copy users from data/Users.txt
 \copy participates from data/Participates.txt
 \copy favors from data/Favors.txt
+\copy restaurants from data/Restaurants.txt
+\copy nearby from data/Nearby.txt
+\copy reviews from data/Reviews.txt
