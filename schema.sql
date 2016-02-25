@@ -7,7 +7,8 @@ CREATE TABLE Users (
 	name text,
 	password text,
 	birthday date,
-	email text
+	email text,
+	CHECK(char_length(password) > 5)
 );
 
 CREATE TABLE Venues (
@@ -37,6 +38,9 @@ CREATE TABLE Has_Tickets (
 	highest_price real,
 	happen_date timestamp,
 	url text,
+	CHECK(listing_count > 0),
+	CHECK(lowest_price <= average_price),
+	CHECK(average_price <= highest_price),
 	PRIMARY KEY (tid),
 	FOREIGN KEY (eid) REFERENCES Event_Locates
 		ON DELETE CASCADE
@@ -56,7 +60,8 @@ CREATE TABLE Restaurants (
 	name varchar(80),
 	address text,
 	image text,
-	rating real
+	rating real,
+	CHECK(rating >= 0 and rating <= 5)
 );
 
 /* relationship */
@@ -65,6 +70,7 @@ CREATE TABLE Participates (
 	uid int REFERENCES Users,
 	eid int REFERENCES Event_Locates,
 	status int,
+	CHECK (status = 0 or status = 1 or status = 2),
 	PRIMARY KEY (uid, eid)
 );
 
@@ -88,6 +94,7 @@ CREATE TABLE Reviews (
 	uid int,
 	content text,
 	rating int,
+	CHECK(rating >= 0),
 	PRIMARY KEY (cid, vid, uid),
 	FOREIGN KEY (vid) REFERENCES Venues
 		ON DELETE CASCADE,
@@ -100,6 +107,7 @@ CREATE TABLE Nearby (
 	vid int REFERENCES Venues,
 	rid int REFERENCES Restaurants,
 	distance real, 
+	CHECK(distance >= 0 and distance <= 5),
 	PRIMARY KEY (vid, rid)
 );
 
