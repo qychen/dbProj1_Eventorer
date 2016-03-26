@@ -8,9 +8,9 @@ application = Flask(__name__)
 def main_page():
 	return render_template('index.html') 
 
-@application.route('/events')
-def events_list():
-	return render_template('details.html', payload = {"test":"data"}) 
+@application.route('/<list_name>')
+def events_list(list_name=None):
+	return render_template('lists.html', name = list_name) 
 
 @application.route('/event/<id>')
 def event(id=None):
