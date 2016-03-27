@@ -58,8 +58,40 @@ def events_list(list_name=None):
 @application.route('/event/<id>')
 def event(id=None):
 	context = dict()
-	content = get_sql("SELECT name, description, category FROM Event_Locates WHERE eid=")
-	return render_template('event.html', id = id) 
+	context['event'] = get_sql("SELECT eid, name, description, category FROM Event_Locates WHERE eid=%s", id)[0]
+	context['venues'] = get_sql("SELECT V.vid, V.name, V.location, V.coordinate FROM Event_Locates AS E, Venues AS V \
+								WHERE E.eid=%s AND E.vid=V.vid", id)
+	context['performers'] = get_sql("SELECT P.pid, P.name, P.type, P.image, P.url \
+									 FROM Performers AS P, Performs AS T \
+									 WHERE T.eid=%s AND P.pid=T.pid", id)
+	context['tickets'] = get_sql("SELECT tid, listing_count, average_price, lowest_price, highest_price, happen_date, url \
+								  FROM Has_Tickets \
+								  WHERE eid=%s", id)
+	return render_template('event.html', **context) 
+
+@application.route('/venue/<id>')
+def venue(id=None):
+	context = dict()
+	context['venue'] = get_sql("SELECT vid, name, location, coordinate FROM Venues \
+								WHERE vid=%s", id)[0]
+	context['resturants'] = get_sql("SELECT R.rid, R.name, R.address, R.image, R.rating, N.distance \
+									 FROM Restaurants AS R, Nearby AS N \
+									 WHERE N.vid=%s AND N.rid=R.rid \
+									 ORDER BY distance ASC", id)
+	context['reviews'] = get_sql("SELECT R.content, R.rating, U.uid, U.name \
+								  FROM Reviews AS R, Users AS U \
+								  WHERE R.uid=U.uid AND R.vid=%s", id)
+	return render_template('venue.html', **context) 
+
+@application.route('/performer/<id>')
+def performer(id=None):
+	context = dict()
+	context['performer'] = get_sql("SELECT name, type, image, url FROM Performers \
+								WHERE pid=%s", id)[0]
+	context['events'] = get_sql("SELECT E.name, E.eid \
+								 FROM Event_Locates AS E, Performers AS P, Performs AS T \
+								 WHERE T.eid=E.eid AND T.pid=P.pid AND P.pid=%s", id)
+	return render_template('performer.html', **context) 
 
 
 @application.route('/surround')

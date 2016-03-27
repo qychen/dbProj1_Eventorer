@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>{{event.name}}</title>
+    <title>{{venue.name}}</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="/static/css/bootstrap.min.css" rel="stylesheet">
@@ -39,7 +39,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">{{event.name}}</a>
+                <a class="navbar-brand" href="#">{{venue.name}}</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -66,11 +66,11 @@
         <div class="row">
 
             <div class="col-md-3">
-                <p class="lead">{{event.name}}</p>
+                <p class="lead">{{venue.name}}</p>
                 <div class="list-group">
                     <a class="list-group-item page-scroll" href="#introduction" class="list-group-item active">Introduction</a>
-                    <a class="list-group-item page-scroll" href="#performers" class="list-group-item">Performers</a>
-                    <a class="list-group-item page-scroll" href="#tickets" class="list-group-item">Tickets</a>
+                    <a class="list-group-item page-scroll" href="#resturants" class="list-group-item">Resturants</a>
+                    <a class="list-group-item page-scroll" href="#reviews" class="list-group-item">Reviews</a>
                 </div>
             </div>
 
@@ -79,38 +79,49 @@
                 <div id='introduction' class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/800x300" alt="">
                     <div class="caption-full">
-                        <h4>{{event.name}}</h4>
-                        <p>description: {{event.description}}</p>
-                        <p>category: {{event.category}}</p>
-                        {% for venue in venues%}
-                            <p>location: {{venue.location}}</p>
+                        <!-- h4 class="pull-right">$24.99</h4> -->
+                        <h4>{{venue.name}}</h4>
+                        <p>location: {{venue.location}}</p>
+                    </div>
+                </div>
+
+                <div id="resturants" class="well">
+                    <div class="caption-full">
+                        <h4>Resturants</h4>
+                        {% for resturant in resturants %}
+                            <div class="row">
+                                <div class="col-md-12">
+                                    {% for _ in range(1, resturant.rating|int + 1) %}
+                                        <span class="glyphicon glyphicon-star"></span>
+                                    {% endfor %}
+                                    {% for _ in range(resturant.rating|int, 5) %}
+                                        <span class="glyphicon glyphicon-star-empty"></span>
+                                    {% endfor %}
+                                    <a href="#">{{resturant.name}}</a>
+                                    <span class="pull-right">{{'%0.2f' % resturant.distance}}mi</span>
+                                    <p>{{resturant.address}}</p>
+                                </div>
+                            </div>
+                            {% if loop.index < performers|length %}
+                                <hr>
+                            {% endif %}   
                         {% endfor %}
                     </div>
                 </div>
 
-                <div id="performers" class="well">
-                    <div class="caption-full">
-                        <h4>performers</h4>
-                             <div class="row">
-                                {% for performer in performers %}
-                                <div class="col-md-4">
-                                    <a href="{{performer.url}}">{{performer.name}}</a>
-                                    {% if performer.image != 'None' %}
-                                        <img class="img-responsive" src="{{performer.image}}" alt="">
-                                    {% endif %}
-                                </div>
-                                {% endfor %}
-                            </div> 
-                    </div>
-                </div>
-
-                <div id="tickets" class="well">
-                    <h4>Tickets</h4>
-                    {% for ticket in tickets %}
+                <div id="reviews" class="well">
+                    <h4>Reviews</h4>
+                    {% for review in reviews %}
                         <div class="row">
                             <div class="col-md-12">
-                                <a href="{{ticket.url}}">{{ticket.lowest_price}} - {{ticket.highest_price}}</a>
-                                <span class="pull-right">{{ticket.happen_date}}</span>
+                                {% for _ in range(1, (review.rating/2)|int + 1) %}
+                                    <span class="glyphicon glyphicon-star"></span>
+                                {% endfor %}
+                                {% for _ in range((review.rating/2)|int, 5) %}
+                                    <span class="glyphicon glyphicon-star-empty"></span>
+                                {% endfor %}
+                                <a href="user/{{review.uid}}">{{review.name}}</a>
+                                <p>{{review.content}}</p>
                             </div>
                         </div>
                         {% if loop.index < performers|length %}
