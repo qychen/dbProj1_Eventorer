@@ -9,6 +9,12 @@ application = Flask(__name__)
 DATABASEURI = "postgresql://kl2844:PKKNNH@w4111db.eastus.cloudapp.azure.com/kl2844"
 engine = create_engine(DATABASEURI)
 
+def get_sql(command, args=None):
+	cursor = g.conn.execute(command, args)
+	res = [event for event in cursor]
+	cursor.close()
+	return res
+
 @application.before_request
 def before_request():
 	"""
@@ -39,15 +45,10 @@ def teardown_request(exception):
 @application.route('/')
 def main_page():
 	context = dict()
-	cursor = g.conn.execute("SELECT name, description FROM Event_Locates LIMIT 6")
-	context['events'] = [event for event in cursor]
-	cursor.close()
-	cursor = g.conn.execute("SELECT name, location FROM Venues LIMIT 6")
-	context['venues'] = [venue for venue in cursor]
-	cursor.close()
-	cursor = g.conn.execute("SELECT name, type, image FROM Performers LIMIT 60")
-	context['performers'] = [performer for performer in cursor if performer['image'] != 'None'][:6]
-	cursor.close()
+	context['events'] = get_sql("SELECT eid, name, description FROM Event_Locates LIMIT 6")
+	context['venues'] = get_sql("SELECT vid, name, location FROM Venues LIMIT 6")
+	context['performers'] = get_sql("SELECT pid, name, type, image FROM Performers LIMIT 60")
+	context['performers'] = [performer for performer in context['performers'] if performer['image'] != 'None'][:6]
 	return render_template('index.html', **context) 
 
 @application.route('/<list_name>')
@@ -56,8 +57,9 @@ def events_list(list_name=None):
 
 @application.route('/event/<id>')
 def event(id=None):
-	print id
-	return render_template('details.html', id = id) 
+	context = dict()
+	content = get_sql("SELECT name, description, category FROM Event_Locates WHERE eid=")
+	return render_template('event.html', id = id) 
 
 
 @application.route('/surround')
