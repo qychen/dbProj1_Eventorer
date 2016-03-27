@@ -45,10 +45,9 @@ def main_page():
 	cursor = g.conn.execute("SELECT name, location FROM Venues LIMIT 6")
 	context['venues'] = [venue for venue in cursor]
 	cursor.close()
-	cursor = g.conn.execute("SELECT name, type, image FROM Performers LIMIT 6")
-	context['performers'] = [performer for performer in cursor]
+	cursor = g.conn.execute("SELECT name, type, image FROM Performers LIMIT 60")
+	context['performers'] = [performer for performer in cursor if performer['image'] != 'None'][:6]
 	cursor.close()
-	print context['performers']
 	return render_template('index.html', **context) 
 
 @application.route('/<list_name>')
