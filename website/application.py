@@ -51,9 +51,23 @@ def main_page():
 	context['performers'] = [performer for performer in context['performers'] if performer['image'] != 'None'][:6]
 	return render_template('index.html', **context) 
 
-@application.route('/<list_name>')
-def events_list(list_name=None):
-	return render_template('lists.html', name = list_name) 
+@application.route('/events')
+def events_list():
+	page = request.args.get('p')
+	payload = get_sql("SELECT eid, name, description FROM Event_Locates LIMIT 9 "+"OFFSET "+str(int(page)*9))
+	return render_template('elists.html', page=page, payload=payload) 
+
+@application.route('/venues')
+def venues_list():
+	page = request.args.get('p')
+	payload = get_sql("SELECT vid, name, location FROM Venues LIMIT 9 "+"OFFSET "+str(int(page)*9))
+	return render_template('vlists.html', page=page, payload=payload) 
+
+@application.route('/performers')
+def performers_list():
+	page = request.args.get('p')
+	payload = get_sql("SELECT pid, name, type, image FROM Performers LIMIT 9"+"OFFSET "+str(page*9))
+	return render_template('plists.html', page=page, payload=payload) 
 
 @application.route('/event/<id>')
 def event(id=None):
