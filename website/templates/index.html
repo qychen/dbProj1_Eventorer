@@ -108,7 +108,7 @@
                     <div class="col-md-4 portfolio-item">
                         <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         <h3>
-                            <a class ="names" href="event/e0231">{{event.name}}</a>
+                            <a href="event/{{event.eid}}">{{event.name}}</a>
                         </h3>
                         <p>{{event.description}}</p>
                     </div>
@@ -122,7 +122,7 @@
                     <div class="col-md-4 portfolio-item">
                         <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         <h3>
-                            <a href="#">{{event.name}}</a>
+                            <a href="event/{{event.eid}}">{{event.name}}</a>
                         </h3>
                         <p>{{event.description}}</p>
                     </div>
@@ -151,7 +151,7 @@
                     <div class="col-md-4 portfolio-item">
                         <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         <h3>
-                            <a href="#">{{venue.name}}</a>
+                            <a href="venue/{{venue.vid}}">{{venue.name}}</a>
                         </h3>
                         <p>{{venue.location}}</p>
                     </div>
@@ -165,7 +165,7 @@
                     <div class="col-md-4 portfolio-item">
                         <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                         <h3>
-                            <a href="#">{{venue.name}}</a>
+                            <a href="venue/{{venue.vid}}">{{venue.name}}</a>
                         </h3>
                         <p>{{venue.location}}</p>
                     </div>
@@ -194,7 +194,7 @@
                     <div class="col-md-4 portfolio-item">
                         <img class="img-responsive" src="{{performer.image}}" alt="">
                         <h3>
-                            <a href="#">{{performer.name}}</a>
+                            <a href="performer/{{performer.pid}}">{{performer.name}}</a>
                         </h3>
                         <p>{{performer.type}}</p>
                     </div>
@@ -208,7 +208,7 @@
                     <div class="col-md-4 portfolio-item">
                         <img class="img-responsive" src="{{performer.image}}" alt="">
                         <h3>
-                            <a href="#">{{performer.name}}</a>
+                            <a href="performer/{{performer.pid}}">{{performer.name}}</a>
                         </h3>
                         <p>{{performer.type}}</p>
                     </div>
