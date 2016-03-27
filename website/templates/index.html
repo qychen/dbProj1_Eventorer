@@ -104,53 +104,29 @@
             <!-- /.row -->
             <!-- Projects Row -->
             <div class="row">
-                <div id="e1" class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a class ="names" href="event/e0231">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
-                <div id="e2" class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
-                <div id="e3" class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
+                {% for event in events[:3] %}
+                    <div class="col-md-4 portfolio-item">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <h3>
+                            <a class ="names" href="event/e0231">{{event.name}}</a>
+                        </h3>
+                        <p>{{event.description}}</p>
+                    </div>
+                {% endfor %}
             </div>
             <!-- /.row -->
 
             <!-- Projects Row -->
             <div class="row">
-                <div class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
-                <div class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
-                <div class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
+                {% for event in events[3:] %}
+                    <div class="col-md-4 portfolio-item">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <h3>
+                            <a href="#">{{event.name}}</a>
+                        </h3>
+                        <p>{{event.description}}</p>
+                    </div>
+                {% endfor %}
             </div>
         </div>
     </section>
@@ -171,53 +147,29 @@
             <!-- /.row -->
             <!-- Projects Row -->
             <div class="row">
-                <div class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
-                <div class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
-                <div class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
+                {% for venue in venues[:3] %}
+                    <div class="col-md-4 portfolio-item">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <h3>
+                            <a href="#">{{venue.name}}</a>
+                        </h3>
+                        <p>{{venue.location}}</p>
+                    </div>
+                {% endfor %}
             </div>
             <!-- /.row -->
 
             <!-- Projects Row -->
             <div class="row">
-                <div class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
-                <div class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
-                <div class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
+                {% for venue in venues[3:] %}
+                    <div class="col-md-4 portfolio-item">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <h3>
+                            <a href="#">{{venue.name}}</a>
+                        </h3>
+                        <p>{{venue.location}}</p>
+                    </div>
+                {% endfor %}
             </div>
         </div>
     </section>
@@ -238,53 +190,29 @@
             <!-- /.row -->
             <!-- Projects Row -->
             <div class="row">
-                <div class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
-                <div class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
-                <div class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
+                {% for performer in performers[:3] %}
+                    <div class="col-md-4 portfolio-item">
+                        <img class="img-responsive" src="{{performer.image}}" alt="">
+                        <h3>
+                            <a href="#">{{performer.name}}</a>
+                        </h3>
+                        <p>{{performer.type}}</p>
+                    </div>
+                {% endfor %}
             </div>
             <!-- /.row -->
 
             <!-- Projects Row -->
             <div class="row">
-                <div class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
-                <div class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
-                <div class="col-md-4 portfolio-item">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                    <h3>
-                        <a href="#">Project Name</a>
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                </div>
+                {% for performer in performers[3:] %}
+                    <div class="col-md-4 portfolio-item">
+                        <img class="img-responsive" src="{{performer.image}}" alt="">
+                        <h3>
+                            <a href="#">{{performer.name}}</a>
+                        </h3>
+                        <p>{{performer.type}}</p>
+                    </div>
+                {% endfor %}
             </div>
         </div>
     </section>
