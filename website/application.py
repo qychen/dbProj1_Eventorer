@@ -78,7 +78,7 @@ def event(id=None):
 	context['performers'] = get_sql("SELECT P.pid, P.name, P.type, P.image, P.url \
 									 FROM Performers AS P, Performs AS T \
 									 WHERE T.eid=%s AND P.pid=T.pid", id)
-	context['tickets'] = get_sql("SELECT tid, listing_count, average_price, lowest_price, highest_price, happen_date, url \
+	context['tickets'] = get_sql("SELECT tid, listing_count, price, happen_date, url \
 								  FROM Has_Tickets \
 								  WHERE eid=%s", id)
 	return render_template('event.html', **context) 

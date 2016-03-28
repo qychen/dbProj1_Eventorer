@@ -109,8 +109,8 @@
                     {% for ticket in tickets %}
                         <div class="row">
                             <div class="col-md-12">
-                                <a href="{{ticket.url}}">{{ticket.lowest_price}} - {{ticket.highest_price}}</a>
-                                <span class="pull-right">{{ticket.happen_date}}</span>
+                                <a href="{{ticket.url}}">{{ticket.happen_date}}</a>
+                                <span class="pull-right">${{ticket.price}}</span>
                             </div>
                         </div>
                         {% if loop.index < performers|length %}
