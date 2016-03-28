@@ -120,7 +120,7 @@
                                 {% for _ in range((review.rating/2)|int, 5) %}
                                     <span class="glyphicon glyphicon-star-empty"></span>
                                 {% endfor %}
-                                <a href="user/{{review.uid}}">{{review.name}}</a>
+                                <a href="../users/{{review.uid}}">{{review.name}}</a>
                                 <p>{{review.content}}</p>
                             </div>
                         </div>

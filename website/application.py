@@ -66,7 +66,7 @@ def venues_list():
 @application.route('/performers')
 def performers_list():
 	page = request.args.get('p')
-	payload = get_sql("SELECT pid, name, type, image FROM Performers LIMIT 9"+"OFFSET "+str(page*9))
+	payload = get_sql("SELECT pid, name, type, image FROM Performers LIMIT 9"+"OFFSET "+str(int(page)*9))
 	return render_template('plists.html', page=page, payload=payload) 
 
 @application.route('/event/<id>')
@@ -127,10 +127,6 @@ def search():
 	keywords = request.args.get('keywords')
 	context = dict()
 	sql = "SELECT eid, name, description FROM Event_Locates WHERE name LIKE %s LIMIT 6"
-	# sql = "SELECT eid, name, description FROM Event_Locates WHERE name LIKE '%" + keywords + "% LIMIT 6"
-	# for c in cursor:
-	# 	print c
-	# print sql
 	a = get_sql(sql, "%" + keywords + "%")
 	print a
 	return "ok"
