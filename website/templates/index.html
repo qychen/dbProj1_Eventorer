@@ -114,7 +114,7 @@
             <div class="row">
                 {% for event in events[:3] %}
                     <div class="col-md-4 portfolio-item">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src={{event.image}} alt="">
                         <h3>
                             <a href="event/{{event.eid}}">{{event.name}}</a>
                         </h3>
@@ -128,7 +128,7 @@
             <div class="row">
                 {% for event in events[3:] %}
                     <div class="col-md-4 portfolio-item">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src={{event.image}} alt="">
                         <h3>
                             <a href="event/{{event.eid}}">{{event.name}}</a>
                         </h3>
@@ -157,7 +157,7 @@
             <div class="row">
                 {% for venue in venues[:3] %}
                     <div class="col-md-4 portfolio-item">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src={{venue.image}} alt="">
                         <h3>
                             <a href="venue/{{venue.vid}}">{{venue.name}}</a>
                         </h3>
@@ -171,7 +171,7 @@
             <div class="row">
                 {% for venue in venues[3:] %}
                     <div class="col-md-4 portfolio-item">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src={{venue.image}} alt="">
                         <h3>
                             <a href="venue/{{venue.vid}}">{{venue.name}}</a>
                         </h3>

@@ -6,7 +6,7 @@ CREATE TABLE Users (
 	uid int PRIMARY KEY,
 	name text,
 	password text,
-	birthday date,
+	birthday text,
 	email text,
 	CHECK(char_length(password) > 5)
 );
@@ -16,7 +16,8 @@ CREATE TABLE Venues (
 	name varchar(80),
 	location text,
 	coordinate point,
-	url text
+	url text,
+	image text
 );
 
 CREATE TABLE Event_Locates (
@@ -25,6 +26,7 @@ CREATE TABLE Event_Locates (
 	name text,
 	description text,
 	category text,
+	image text,
 	FOREIGN KEY (vid) REFERENCES Venues
 		ON DELETE CASCADE
 );
@@ -33,14 +35,11 @@ CREATE TABLE Has_Tickets (
 	eid int NOT NULL,
 	tid int, 
 	listing_count int,
-	average_price real,
-	lowest_price real,
-	highest_price real,
+	price real,
 	happen_date timestamp,
 	url text,
 	CHECK(listing_count > 0),
-	CHECK(lowest_price <= average_price),
-	CHECK(average_price <= highest_price),
+	CHECK(price >=0 ),
 	PRIMARY KEY (tid),
 	FOREIGN KEY (eid) REFERENCES Event_Locates
 		ON DELETE CASCADE

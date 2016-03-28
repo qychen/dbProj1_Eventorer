@@ -52,8 +52,8 @@ def teardown_request(exception):
 @application.route('/')
 def main_page():
 	context = dict()
-	context['events'] = get_sql("SELECT eid, name, description FROM Event_Locates LIMIT 6")
-	context['venues'] = get_sql("SELECT vid, name, location FROM Venues LIMIT 6")
+	context['events'] = get_sql("SELECT eid, name, image, description FROM Event_Locates LIMIT 6")
+	context['venues'] = get_sql("SELECT vid, name, location, image FROM Venues LIMIT 6")
 	context['performers'] = get_sql("SELECT pid, name, type, image FROM Performers LIMIT 60")
 	context['performers'] = [performer for performer in context['performers'] if performer['image'] != 'None'][:6]
 	return render_template('index.html', **context) 
@@ -61,13 +61,13 @@ def main_page():
 @application.route('/events')
 def events_list():
 	page = request.args.get('p')
-	payload = get_sql("SELECT eid, name, description FROM Event_Locates LIMIT 9 OFFSET %s", str(int(page)*9))
+	payload = get_sql("SELECT eid, name, description, image FROM Event_Locates LIMIT 9 OFFSET %s", str(int(page)*9))
 	return render_template('elists.html', page=page, payload=payload) 
 
 @application.route('/venues')
 def venues_list():
 	page = request.args.get('p')
-	payload = get_sql("SELECT vid, name, location FROM Venues LIMIT 9 OFFSET %s", str(int(page)*9))
+	payload = get_sql("SELECT vid, name, location, image FROM Venues LIMIT 9 OFFSET %s", str(int(page)*9))
 	return render_template('vlists.html', page=page, payload=payload) 
 
 @application.route('/performers')
