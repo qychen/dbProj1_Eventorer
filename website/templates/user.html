@@ -70,6 +70,7 @@
                 <div class="list-group">
                     <a class="list-group-item page-scroll" href="#info" class="list-group-item active">Info</a>
                     <a class="list-group-item page-scroll" href="#events" class="list-group-item">Events</a>
+                    <a class="list-group-item page-scroll" href="#tickets" class="list-group-item">Tickets</a>
                     <a class="list-group-item page-scroll" href="#reviews" class="list-group-item">Reviews</a>
                 </div>
             </div>
@@ -101,6 +102,21 @@
                             {% endif %}   
                         {% endfor %}
                     </div>
+                </div>
+
+                <div id="tickets" class="well">
+                    <h4>Tickets</h4>
+                    {% for ticket in tickets %}
+                        <div class="row">
+                            <div class="col-md-12">
+                                <a href="{{ticket.url}}">{{ticket.happen_date}}</a>
+                                <span class="pull-right">${{ticket.price}}</span>
+                            </div>
+                        </div>
+                        {% if loop.index < performers|length %}
+                            <hr>
+                        {% endif %}   
+                    {% endfor %}
                 </div>
 
                 <div id="reviews" class="well">
