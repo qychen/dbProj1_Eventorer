@@ -54,19 +54,19 @@ def main_page():
 @application.route('/events')
 def events_list():
 	page = request.args.get('p')
-	payload = get_sql("SELECT eid, name, description FROM Event_Locates LIMIT 9 "+"OFFSET "+str(int(page)*9))
+	payload = get_sql("SELECT eid, name, description FROM Event_Locates LIMIT 9 OFFSET %s", str(int(page)*9))
 	return render_template('elists.html', page=page, payload=payload) 
 
 @application.route('/venues')
 def venues_list():
 	page = request.args.get('p')
-	payload = get_sql("SELECT vid, name, location FROM Venues LIMIT 9 "+"OFFSET "+str(int(page)*9))
+	payload = get_sql("SELECT vid, name, location FROM Venues LIMIT 9 OFFSET %s", str(int(page)*9))
 	return render_template('vlists.html', page=page, payload=payload) 
 
 @application.route('/performers')
 def performers_list():
 	page = request.args.get('p')
-	payload = get_sql("SELECT pid, name, type, image FROM Performers LIMIT 9"+"OFFSET "+str(int(page)*9))
+	payload = get_sql("SELECT pid, name, type, image FROM Performers LIMIT 9 OFFSET %s", str(int(page)*9))
 	return render_template('plists.html', page=page, payload=payload) 
 
 @application.route('/event/<id>')
