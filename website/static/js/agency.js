@@ -47,3 +47,36 @@ for (var i = 0; i < names.length; i++) {
 }
 */
 
+$('#search').keyup(function (e) {
+    if (e.keyCode === 13) {
+        if (!this.value)
+            alert("Please enter some keywords for search!");
+        else{
+            var xmlHttp = new XMLHttpRequest();
+            xmlHttp.onreadystatechange = function() { 
+                if (xmlHttp.readyState == 4 && xmlHttp.status == 200){
+                    //alert(xmlHttp.responseText);
+                    var res = JSON.parse(xmlHttp.responseText);
+                }
+            }
+            url = baseURL + "search?keywords=" + this.value;
+            xmlHttp.open("GET", url, true); // true for asynchronous 
+            xmlHttp.send(null);
+
+        }
+
+
+
+
+    }
+});
+
+
+
+
+
+
+
+
+
+

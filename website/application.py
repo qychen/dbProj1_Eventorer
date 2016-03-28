@@ -111,7 +111,7 @@ def performer(id=None):
 def login():
 	username = request.args.get('usnm');
 	password = request.args.get('pswd');
-	users = get_sql("SELECT * FROM Users WHERE uid="+username+" AND password='"+password+"'")
+	users = get_sql("SELECT * FROM Users WHERE uid=%s AND password=%s", (username, password))
 	if users:
 		return "yes"
 	else:
@@ -122,13 +122,15 @@ def users(id=None):
 	users = get_sql("SELECT * FROM Users WHERE uid="+id)
 	return render_template('user.html', user = users[0]) 
 
-@application.route('/surround')
-def surround():
-	lat = request.args.get('lat')
-	lon = request.args.get('long')
-
-	r = requests.get('http://52.1.34.124:9200/tweetmaps/tweets/_search', json = payload)
-	return r.text
+@application.route('/search')
+def search():
+	keywords = request.args.get('keywords')
+	context = dict()
+	sql = "SELECT eid, name, description FROM Event_Locates WHERE name LIKE '\%" + keywords + "\%' LIMIT 6"
+	print sql
+	a = get_sql(sql)
+	print a
+	return render_template('search.html', **context) 
 
 if __name__ == '__main__':
 	application.run(debug=True)
