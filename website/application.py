@@ -133,10 +133,15 @@ def users(id=None):
 def search():
 	keywords = request.args.get('keywords')
 	context = dict()
-	sql = "SELECT eid, name, description FROM Event_Locates WHERE name LIKE %s LIMIT 6"
-	a = get_sql(sql, "%" + keywords + "%")
-	print a
-	return "ok"
+	sql = "SELECT eid, name, description FROM Event_Locates WHERE name LIKE %s LIMIT 9"
+	context['events'] = get_sql(sql, "%" + keywords + "%")
+	sql = "SELECT vid, name, location FROM Venues WHERE name LIKE %s LIMIT 9"
+	context['venues'] = get_sql(sql, "%" + keywords + "%")
+	sql = "SELECT pid, name, type, image FROM Performers WHERE name LIKE %s LIMIT 9"
+	context['performers'] = get_sql(sql, "%" + keywords + "%")
+	return render_template('search.html', **context) 
 
 if __name__ == '__main__':
 	application.run(debug=True)
+
+

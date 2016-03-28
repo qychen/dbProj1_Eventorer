@@ -52,6 +52,7 @@ $('#search').keyup(function (e) {
         if (!this.value)
             alert("Please enter some keywords for search!");
         else{
+            /*
             var xmlHttp = new XMLHttpRequest();
             xmlHttp.onreadystatechange = function() { 
                 if (xmlHttp.readyState == 4 && xmlHttp.status == 200){
@@ -62,6 +63,8 @@ $('#search').keyup(function (e) {
             url = baseURL + "search?keywords=" + this.value;
             xmlHttp.open("GET", url, true); // true for asynchronous 
             xmlHttp.send(null);
+            */
+            window.location = "search?keywords=" + this.value;
 
         }
 
