@@ -68,15 +68,15 @@
             <div class="col-md-3">
                 <p class="lead">{{user.name}}</p>
                 <div class="list-group">
-                    <a class="list-group-item page-scroll" href="#introduction" class="list-group-item active">Introduction</a>
-                    <a class="list-group-item page-scroll" href="#performers" class="list-group-item">Performers</a>
-                    <a class="list-group-item page-scroll" href="#tickets" class="list-group-item">Tickets</a>
+                    <a class="list-group-item page-scroll" href="#info" class="list-group-item active">Info</a>
+                    <a class="list-group-item page-scroll" href="#events" class="list-group-item">Events</a>
+                    <a class="list-group-item page-scroll" href="#reviews" class="list-group-item">Reviews</a>
                 </div>
             </div>
 
             <div class="col-md-9">
 
-                <div id='introduction' class="thumbnail">
+                <div id='info' class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/800x300" alt="">
                     <div class="caption-full">
                         <h4>{{user.name}}</h4>
@@ -86,14 +86,44 @@
                     </div>
                 </div>
 
-                <div id="Events" class="well">
+                <div id="events" class="well">
                     <div class="caption-full">
                         <h4>Events</h4>
+                        {% for event in events %}
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <a href="../event/{{event.eid}}">{{event.name}}</a>
+                                    <p>{{event.description}}</p>
+                                </div>
+                            </div>
+                            {% if loop.index < events|length %}
+                                <hr>
+                            {% endif %}   
+                        {% endfor %}
                     </div>
                 </div>
 
-                <div id="Favo-Tickets" class="well">
-                    <h4>Favo-Tickets</h4>
+                <div id="reviews" class="well">
+                    <div class="caption-full">
+                        <h4>Reviews</h4>
+                        {% for review in reviews %}
+                            <div class="row">
+                                <div class="col-md-12">
+                                    {% for _ in range(1, (review.rating/2)|int + 1) %}
+                                        <span class="glyphicon glyphicon-star"></span>
+                                    {% endfor %}
+                                    {% for _ in range((review.rating/2)|int, 5) %}
+                                        <span class="glyphicon glyphicon-star-empty"></span>
+                                    {% endfor %}
+                                    <a href="../venue/{{review.vid}}">{{review.name}}</a>
+                                    <p>{{review.content}}</p>
+                                </div>
+                            </div>
+                            {% if loop.index < reviews|length %}
+                                <hr>
+                            {% endif %}   
+                        {% endfor %}
+                    </div>
                 </div>
 
             </div>

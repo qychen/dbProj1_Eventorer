@@ -119,8 +119,15 @@ def login():
 
 @application.route('/users/<id>')
 def users(id=None):
-	users = get_sql("SELECT * FROM Users WHERE uid="+id)
-	return render_template('user.html', user = users[0]) 
+	context = dict()
+	context['user'] = get_sql("SELECT * FROM Users WHERE uid=%s", id)[0]
+	context['events'] = get_sql("SELECT E.eid, E.name, E.description, P.status \
+								 FROM Participates AS P, Event_Locates AS E \
+								 WHERE P.uid=%s AND P.eid=E.eid", id)
+	context['reviews'] = get_sql("SELECT V.name, V.vid, R.content, R.rating \
+								  FROM Reviews AS R, Venues AS V \
+								  WHERE R.vid=V.vid AND R.uid=%s", id)
+	return render_template('user.html', **context) 
 
 @application.route('/search')
 def search():
