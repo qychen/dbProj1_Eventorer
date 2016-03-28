@@ -76,7 +76,7 @@
             <div class="col-md-9">
 
                 <div id='introduction' class="thumbnail">
-                    <img class="img-responsive" src="http://placehold.it/800x300" alt="">
+                    <img style="width: 500px;height: 300px" class="img-responsive" src="{{performer.image}}" alt="">
                     <div class="caption-full">
                         <h4>{{performer.name}}</h4>
                         <p>type: {{performer.type}}</p>
@@ -89,7 +89,7 @@
                         <div class="row">
                             {% for event in events %}
                                 <div class="col-md-4">
-                                    <img class="img-responsive" src="http://placehold.it/800x300" alt="">
+                                    <img class="img-responsive" src="{{event.image}}" alt="">
                                     <a href="../event/{{event.eid}}">{{event.name}}</a>
                                 </div>
                             {% endfor %}

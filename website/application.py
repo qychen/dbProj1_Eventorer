@@ -153,7 +153,7 @@ def users(id=None):
 def search():
 	keywords = request.args.get('keywords')
 	context = dict()
-	sql = "SELECT eid, name, description FROM Event_Locates, image WHERE name LIKE %s LIMIT 9"
+	sql = "SELECT eid, name, description,image FROM Event_Locates WHERE name LIKE %s LIMIT 9"
 	context['events'] = get_sql(sql, "%" + keywords + "%")
 	sql = "SELECT vid, name, location, image FROM Venues WHERE name LIKE %s LIMIT 9"
 	context['venues'] = get_sql(sql, "%" + keywords + "%")
