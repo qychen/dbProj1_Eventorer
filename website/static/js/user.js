@@ -20,6 +20,12 @@ document.write(
 		<input type="password" name="password1" id="password1" maxlength="20" class="text ui-widget-content ui-corner-all">\
 		<label for="password" style="width:100px">Confirm Password</label>\
 		<input type="password" name="password2" id="password2" maxlength="20" class="text ui-widget-content ui-corner-all">\
+		<label for="password" style="width:100px">Name</label>\
+		<input type="text" name="password2" id="name" maxlength="20" class="text ui-widget-content ui-corner-all">\
+		<label for="password" style="width:100px">Birthday</label>\
+		<input type="text" name="password2" id="birthday" maxlength="20" class="text ui-widget-content ui-corner-all">\
+		<label for="password" style="width:100px">email</label>\
+		<input type="text" name="password2" id="email" maxlength="20" class="text ui-widget-content ui-corner-all">\
 		<!-- Allow form submission with keyboard without duplicating the dialog button -->\
 		<input type="submit" tabindex="-1" style="position:absolute; top:-1000px">\
 		</fieldset>\
@@ -46,7 +52,7 @@ var ipaddress = "http://localhost:5000/";
 
 function ReloadUserInfo(username,json)
 {
-	alert("Successfully login!");
+	alert("Success!");
 	localStorage.setItem("username", username);
 	location.reload();
 }
@@ -54,7 +60,7 @@ function ReloadUserInfo(username,json)
 function new_user(){
 
 	var neuser_dialog;
-
+/*
 	function create() {
 		var pwd1 = document.getElementById("password1");
 		var pwd2 = document.getElementById("password2");
@@ -106,8 +112,55 @@ function new_user(){
 		else {
 			alert("Two passwords different!");
 		}
+	}
+*/
+	function create() {
+		var pwd1 = document.getElementById("password1");
+		var pwd2 = document.getElementById("password2");
+		var username = document.getElementById("username");
+		var name = document.getElementById("name");
+		var birthday = document.getElementById("birthday");
+		var email = document.getElementById("email");
+		if (pwd1.value == pwd2.value) {
+			//basic validation of input
+			re = /^[0-9]+$/;
+			if(!re.test(username.value)) {
+				alert("Error: Username must contain only numbers!");
+				username.focus();
+			}
+			else if(pwd1.value.length<=5) {
+				alert("Error: The length of password must be longer than 5!");
+				pwd1.focus();
+			}
+			else
+			{
+				//sending request to UserServlet
+				var url = ipaddress + "login?usnm="+username.value+"&pswd="+pwd1.value+"&n="+name.value+"&bd="+birthday.value+"&e="+email.value;
+				var xhr = new XMLHttpRequest();
+				user = username.value;
 
+				xhr.onreadystatechange = function() {
+					console.log(username.value);
+					if (xhr.readyState == 4 && xhr.status == 200) {
+						//response
+						response = this.responseText.trim();
+						if (response == "yes"){
+							console.log(response);
+							newuser_dialog.dialog( "close" )
+							ReloadUserInfo(user,response.split('\n')[1]);
+						}
+						else
+							alert("The Username is Already Exists!");
+					}
 
+				}
+				xhr.open("POST", url, true);
+    			xhr.send(null);
+			}
+		}
+		else {
+			alert("Two passwords different!");
+		}
 	}
 
 	newuser_dialog = $( "#newuser_dialog-form" ).dialog({

@@ -15,6 +15,13 @@ def get_sql(command, args=None):
 	cursor.close()
 	return res
 
+def insert_sql(command, args=None):
+	try:
+		cursor = g.conn.execute(command, args)
+		return "yes"
+	except:
+		return "no"
+
 @application.before_request
 def before_request():
 	"""
@@ -107,15 +114,25 @@ def performer(id=None):
 								 WHERE T.eid=E.eid AND T.pid=P.pid AND P.pid=%s", id)
 	return render_template('performer.html', **context) 
 
-@application.route('/login')
+@application.route('/login', methods=['GET', 'POST'])
 def login():
-	username = request.args.get('usnm');
-	password = request.args.get('pswd');
-	users = get_sql("SELECT * FROM Users WHERE uid=%s AND password=%s", (username, password))
-	if users:
-		return "yes"
+	if request.method == 'GET':
+		username = request.args.get('usnm')
+		password = request.args.get('pswd')
+		users = get_sql("SELECT * FROM Users WHERE uid=%s AND password=%s", (username, password))
+		if users:
+			return "yes"
+		else:
+			return "no"
 	else:
-		return "no"
+		uid = request.args.get('usnm')
+		password = request.args.get('pswd')
+		name = request.args.get('n')
+		birthday = request.args.get('bd')
+		email = request.args.get('e')
+		r = insert_sql("INSERT INTO Users VALUES (%s,%s,%s,%s,%s)", (uid, name, password, birthday, email))
+		return r
+
 
 @application.route('/users/<id>')
 def users(id=None):
