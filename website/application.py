@@ -144,9 +144,9 @@ def users(id=None):
 	context['reviews'] = get_sql("SELECT V.name, V.vid, R.content, R.rating \
 								  FROM Reviews AS R, Venues AS V \
 								  WHERE R.vid=V.vid AND R.uid=%s", id)
-	context['tickets'] = get_sql("SELECT T.tid, T.listing_count, T.price, T.happen_date, T.url  \
-								  FROM Has_Tickets AS T, Favors AS F \
-								  WHERE T.tid=F.tid AND F.uid=%s", id)
+	context['tickets'] = get_sql("SELECT T.tid, T.listing_count, T.price, T.happen_date, T.url, E.name  \
+								  FROM Has_Tickets AS T, Favors AS F, Event_Locates AS E \
+								  WHERE T.tid=F.tid AND F.uid=%s AND E.eid=T.eid", id)
 	return render_template('user.html', **context) 
 
 @application.route('/search')

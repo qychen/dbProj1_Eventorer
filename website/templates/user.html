@@ -90,17 +90,14 @@
                 <div id="events" class="well">
                     <div class="caption-full">
                         <h4>Events</h4>
-                        {% for event in events %}
-                            <div class="row">
-                                <div class="col-md-12">
+                        <div class="row">
+                            {% for event in events %}
+                                <div class="col-md-4">
+                                    <img class="img-responsive" src="{{event.image}}" alt="">
                                     <a href="../event/{{event.eid}}">{{event.name}}</a>
-                                    <p>{{event.description}}</p>
                                 </div>
-                            </div>
-                            {% if loop.index < events|length %}
-                                <hr>
-                            {% endif %}   
-                        {% endfor %}
+                            {% endfor %}
+                        </div>
                     </div>
                 </div>
 
@@ -109,7 +106,7 @@
                     {% for ticket in tickets %}
                         <div class="row">
                             <div class="col-md-12">
-                                <a href="{{ticket.url}}">{{ticket.happen_date}}</a>
+                                <a href="{{ticket.url}}">{{ticket.happen_date}} {{ticket.name}}</a>
                                 <span class="pull-right">${{ticket.price}}</span>
                             </div>
                         </div>
