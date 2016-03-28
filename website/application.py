@@ -107,6 +107,20 @@ def performer(id=None):
 								 WHERE T.eid=E.eid AND T.pid=P.pid AND P.pid=%s", id)
 	return render_template('performer.html', **context) 
 
+@application.route('/login')
+def login():
+	username = request.args.get('usnm');
+	password = request.args.get('pswd');
+	users = get_sql("SELECT * FROM Users WHERE uid="+username+" AND password='"+password+"'")
+	if users:
+		return "yes"
+	else:
+		return "no"
+
+@application.route('/users/<id>')
+def users(id=None):
+	users = get_sql("SELECT * FROM Users WHERE uid="+id)
+	return render_template('user.html', user = users[0]) 
 
 @application.route('/surround')
 def surround():

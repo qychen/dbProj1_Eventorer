@@ -32,6 +32,8 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+    <link rel="stylesheet" href="/static/css/jquery-ui.css">
+
 </head>
 
 <body id="page-top" class="index">
@@ -67,6 +69,12 @@
                     </li>
                     <li>
                         <a class="page-scroll" href="#team">Team</a>
+                    </li>
+                    <li>
+                        <a id="profile" class="page-scroll" href="" style="display: none">Profile</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" id="nav-LOGIN" cursor="pointer" onclick="user_login()">Login</a>
                     </li>
                 </ul>
             </div>
@@ -275,7 +283,9 @@
     <script src="/static/js/contact_me.js"></script>
 
     <!-- Custom Theme JavaScript -->
+    <script src="/static/js/jquery-ui.js"></script>
     <script src="/static/js/agency.js"></script>
+    <script src="/static/js/user.js"></script>
 
 </body>
 
