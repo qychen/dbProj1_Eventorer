@@ -206,7 +206,20 @@
 
             <!-- Projects Row -->
             <div class="row">
-                {% for performer in performers[3:] %}
+                {% for performer in performers[3:6] %}
+                    <div class="col-md-4 portfolio-item">
+                        <img style="width: 350px;height: 200px" class="img-responsive" src="{{performer.image}}" alt="">
+                        <h3>
+                            <a href="performer/{{performer.pid}}">{{performer.name}}</a>
+                        </h3>
+                        <p>{{performer.type}}</p>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <!-- Projects Row -->
+            <div class="row">
+                {% for performer in performers[6:] %}
                     <div class="col-md-4 portfolio-item">
                         <img style="width: 350px;height: 200px" class="img-responsive" src="{{performer.image}}" alt="">
                         <h3>
