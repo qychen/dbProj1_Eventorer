@@ -48,7 +48,7 @@ else{
 
 }
 
-var ipaddress = "http://localhost:5000/";
+var ipaddress = "/";
 
 function ReloadUserInfo(username,json)
 {

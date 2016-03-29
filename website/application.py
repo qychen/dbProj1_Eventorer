@@ -157,7 +157,7 @@ def users(id=None):
 def search():
 	keywords = request.args.get('keywords')
 	context = dict()
-	sql = "SELECT eid, name, description,image FROM Event_Locates WHERE name LIKE %s LIMIT 9"
+	sql = "SELECT eid, name, description,image FROM Event_Locates WHERE name LIKE %s OR name LIKE %s LIMIT 9"
 	context['events'] = get_sql(sql, "%" + keywords + "%")
 	sql = "SELECT vid, name, location, image FROM Venues WHERE name LIKE %s LIMIT 9"
 	context['venues'] = get_sql(sql, "%" + keywords + "%")
@@ -182,6 +182,6 @@ def favors():
 
 
 if __name__ == '__main__':
-	application.run(debug=True)
+	application.run(host='0.0.0.0', debug=True)
 
 

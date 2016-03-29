@@ -25,7 +25,7 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
-var baseURL = "http://localhost:5000/"
+var baseURL = "/"
 /*
 var names = document.getElementsByClassName("names");
 

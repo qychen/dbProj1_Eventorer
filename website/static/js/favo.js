@@ -34,7 +34,7 @@ document.write(
 		'
 );
 
-var ipaddress = "http://localhost:5000/";
+var ipaddress = "/";
 
 if (localStorage.getItem("username")) {
 
