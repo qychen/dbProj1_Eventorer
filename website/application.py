@@ -157,12 +157,12 @@ def users(id=None):
 def search():
 	keywords = request.args.get('keywords')
 	context = dict()
-	sql = "SELECT eid, name, description,image FROM Event_Locates WHERE name LIKE %s OR name LIKE %s LIMIT 9"
-	context['events'] = get_sql(sql, "%" + keywords + "%")
-	sql = "SELECT vid, name, location, image FROM Venues WHERE name LIKE %s LIMIT 9"
-	context['venues'] = get_sql(sql, "%" + keywords + "%")
-	sql = "SELECT pid, name, type, image FROM Performers WHERE name LIKE %s LIMIT 9"
-	context['performers'] = get_sql(sql, "%" + keywords + "%")
+	sql = "SELECT eid, name, description,image FROM Event_Locates WHERE LOWER(name) LIKE %s LIMIT 9"
+	context['events'] = get_sql(sql, "%" + keywords.lower() + "%")
+	sql = "SELECT vid, name, location, image FROM Venues WHERE LOWER(name) LIKE %s LIMIT 9"
+	context['venues'] = get_sql(sql, "%" + keywords.lower() + "%")
+	sql = "SELECT pid, name, type, image FROM Performers WHERE LOWER(name) LIKE %s LIMIT 9"
+	context['performers'] = get_sql(sql, "%" + keywords.lower() + "%")
 	return render_template('search.html', **context) 
 
 @application.route('/participates')
