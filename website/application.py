@@ -3,6 +3,7 @@ import requests
 import json
 from sqlalchemy import *
 from sqlalchemy.pool import NullPool
+import datetime
 
 application = Flask(__name__)
 
@@ -164,6 +165,22 @@ def search():
 	sql = "SELECT pid, name, type, image FROM Performers WHERE name LIKE %s LIMIT 9"
 	context['performers'] = get_sql(sql, "%" + keywords + "%")
 	return render_template('search.html', **context) 
+
+@application.route('/participates')
+def participates():
+	uid = request.args.get('uid')
+	eid = request.args.get('eid')
+	return insert_sql("INSERT INTO Participates VALUES (%s, %s, 0)", (uid, eid))
+
+@application.route('/favors')
+def favors():
+	uid = request.args.get('uid')
+	tid = request.args.get('tid')
+	time = str(datetime.datetime.now())
+	time = 'T'.join(time.split(' '))
+	time = time[:time.rfind('.')]
+	return insert_sql("INSERT INTO Favors VALUES (%s, %s, %s)", (uid, tid, time))
+
 
 if __name__ == '__main__':
 	application.run(debug=True)
