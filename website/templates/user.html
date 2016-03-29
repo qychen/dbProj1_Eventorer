@@ -76,7 +76,47 @@
                     <div class="caption-full">
                         <h4>Events</h4>
                         <div class="row">
-                            {% for event in events %}
+                            {% for event in events[0:3] %}
+                                <div class="col-md-4">
+                                    <img class="img-responsive" src="{{event.image}}" alt="">
+                                    <a href="../event/{{event.eid}}">{{event.name}}</a>
+                                </div>
+                            {% endfor %}
+                        </div>
+                        <div class="row">
+                            {% for event in events[0:3] %}
+                                <div class="col-md-4">
+                                    <img class="img-responsive" src="{{event.image}}" alt="">
+                                    <a href="../event/{{event.eid}}">{{event.name}}</a>
+                                </div>
+                            {% endfor %}
+                        </div>
+                        <div class="row">
+                            {% for event in events[3:6] %}
+                                <div class="col-md-4">
+                                    <img class="img-responsive" src="{{event.image}}" alt="">
+                                    <a href="../event/{{event.eid}}">{{event.name}}</a>
+                                </div>
+                            {% endfor %}
+                        </div>
+                        <div class="row">
+                            {% for event in events[9:12] %}
+                                <div class="col-md-4">
+                                    <img class="img-responsive" src="{{event.image}}" alt="">
+                                    <a href="../event/{{event.eid}}">{{event.name}}</a>
+                                </div>
+                            {% endfor %}
+                        </div>
+                        <div class="row">
+                            {% for event in events[12:15] %}
+                                <div class="col-md-4">
+                                    <img class="img-responsive" src="{{event.image}}" alt="">
+                                    <a href="../event/{{event.eid}}">{{event.name}}</a>
+                                </div>
+                            {% endfor %}
+                        </div>
+                        <div class="row">
+                            {% for event in events[15:18] %}
                                 <div class="col-md-4">
                                     <img class="img-responsive" src="{{event.image}}" alt="">
                                     <a href="../event/{{event.eid}}">{{event.name}}</a>
