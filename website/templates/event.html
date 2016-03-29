@@ -104,10 +104,7 @@
                                 <a href="{{ticket.url}}">{{ticket.happen_date}}</a>
                                 <span class="pull-right">${{ticket.price}}</span>
                             </div>
-                        </div>
-                        {% if loop.index < performers|length %}
-                            <hr>
-                        {% endif %}   
+                        </div> 
                     {% endfor %}
                 </div>
 
@@ -119,9 +116,6 @@
                                 <a href="../users/{{p.uid}}">{{p.name}}</a>
                             </div>
                         </div>
-                        {% if loop.index < performers|length %}
-                            <hr>
-                        {% endif %}   
                     {% endfor %}
                 </div>
 
