@@ -71,6 +71,7 @@
                     <a class="list-group-item page-scroll" href="#introduction" class="list-group-item active">Introduction</a>
                     <a class="list-group-item page-scroll" href="#performers" class="list-group-item">Performers</a>
                     <a class="list-group-item page-scroll" href="#tickets" class="list-group-item">Tickets</a>
+                    <a class="list-group-item page-scroll" href="#participants" class="list-group-item">Participants</a>
                 </div>
             </div>
 
@@ -111,6 +112,20 @@
                             <div class="col-md-12">
                                 <a href="{{ticket.url}}">{{ticket.happen_date}}</a>
                                 <span class="pull-right">${{ticket.price}}</span>
+                            </div>
+                        </div>
+                        {% if loop.index < performers|length %}
+                            <hr>
+                        {% endif %}   
+                    {% endfor %}
+                </div>
+
+                <div id="participants" class="well">
+                    <h4>Participants</h4>
+                    {% for p in participants %}
+                        <div class="row">
+                            <div class="col-md-12">
+                                <a href="../users/{{p.uid}}">{{p.name}}</a>
                             </div>
                         </div>
                         {% if loop.index < performers|length %}
