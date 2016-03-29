@@ -64,11 +64,33 @@ if (localStorage.getItem("username")) {
 			xhr.open("GET", url, true);
 			xhr.send(null);
 	});
+
+	$(".glyphicon-heart").click(function(){
+			//sending request to UserServlet
+			tid = this.id;
+			var url = ipaddress + "favors?uid="+localStorage.getItem("username")+"&tid="+tid;
+			var xhr = new XMLHttpRequest();
+			user = username.value;
+
+			xhr.onreadystatechange = function() {
+				console.log(username.value);
+				if (xhr.readyState == 4 && xhr.status == 200) {
+					//response
+					response = this.responseText.trim();
+					if (response == "yes"){
+						alert("Success");
+					}
+					else
+						alert("Sorry You Already Favored!");
+				}
+
+			}
+			xhr.open("GET", url, true);
+			xhr.send(null);
+	});
 }
 else{
-	var login = document.getElementById("ptc");
-	login.value = "Login to Participate";
-	$("#ptc").click(user_login);
+	$(".glyphicon-heart").click(user_login);
 }
 
 function ReloadUserInfo(username,json)
