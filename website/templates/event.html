@@ -84,7 +84,7 @@
                              <div class="row">
                                 {% for performer in performers %}
                                 <div class="col-md-4">
-                                    <a href="{{performer.url}}">{{performer.name}}</a>
+                                    <a href="../performer/{{performer.pid}}">{{performer.name}}</a>
                                     {% if performer.image != 'None' %}
                                         <img class="img-responsive" src="{{performer.image}}" alt="">
                                     {% endif %}
