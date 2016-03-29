@@ -82,7 +82,7 @@
                     <div class="caption-full">
                         <h4>Performers</h4>
                              <div class="row">
-                                {% for performer in performers %}
+                                {% for performer in performers[0:3] %}
                                 <div class="col-md-4">
                                     <a href="../performer/{{performer.pid}}">{{performer.name}}</a>
                                     {% if performer.image != 'None' %}
@@ -91,6 +91,27 @@
                                 </div>
                                 {% endfor %}
                             </div> 
+                             <div class="row">
+                                {% for performer in performers[3:6] %}
+                                <div class="col-md-4">
+                                    <a href="../performer/{{performer.pid}}">{{performer.name}}</a>
+                                    {% if performer.image != 'None' %}
+                                        <img class="img-responsive" src="{{performer.image}}" alt="">
+                                    {% endif %}
+                                </div>
+                                {% endfor %}
+                            </div> 
+                             <div class="row">
+                                {% for performer in performers[6:9] %}
+                                <div class="col-md-4">
+                                    <a href="../performer/{{performer.pid}}">{{performer.name}}</a>
+                                    {% if performer.image != 'None' %}
+                                        <img class="img-responsive" src="{{performer.image}}" alt="">
+                                    {% endif %}
+                                </div>
+                                {% endfor %}
+                            </div> 
+
                     </div>
                 </div>
 
