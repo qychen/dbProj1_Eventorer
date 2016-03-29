@@ -92,7 +92,6 @@ def event(id=None):
 	context['participants'] = get_sql("SELECT U.uid, U.name \
 									   FROM Participates AS P, Users AS U \
 									   WHERE P.eid=%s AND U.uid=P.uid", id)
-	print context['participants']
 	return render_template('event.html', **context) 
 
 @application.route('/venue/<id>')
