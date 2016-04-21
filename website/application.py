@@ -145,6 +145,8 @@ def users(id=None):
 	context['events'] = get_sql("SELECT E.eid, E.name, E.description, P.status, E.image \
 								 FROM Participates AS P, Event_Locates AS E \
 								 WHERE P.uid=%s AND P.eid=E.eid", id)
+	for line in context['events']:
+		print line
 	context['reviews'] = get_sql("SELECT V.name, V.vid, R.content, R.rating \
 								  FROM Reviews AS R, Venues AS V \
 								  WHERE R.vid=V.vid AND R.uid=%s", id)
