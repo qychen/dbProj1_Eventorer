@@ -1,11 +1,5 @@
 DROP TABLE Event_Locates, Favors, Has_Tickets, Nearby, Participates, Performers, Performs, Restaurants, Reviews, Users, Venues;
-
-/* UDF */
-CREATE FUNCTION CheckBirthFormat(str text) return boolean
-AS $$
-SELECT str SIMILAR TO '[0-9]{4}-[0-9]{2}-[0-9]{2}' 
-		AND substring(str, 1, 4)::int < 2002;
-$$ LANGUAGE SQL;
+DROP FUNCTION CheckBirthFormat();
 
 /* entity */
 
@@ -116,6 +110,23 @@ CREATE TABLE Nearby (
 	PRIMARY KEY (vid, rid)
 );
 
+CREATE FUNCTION CheckBirthFormat() RETURNS trigger AS $CheckBirthFormat$
+    BEGIN
+        IF NEW.info->>'birthday' NOT SIMILAR TO '[0-9]{4}-[0-9]{2}-[0-9]{2}' THEN
+            RAISE EXCEPTION 'Birthday Format: XXXX(year)-XX(month)-XX(date)';
+        END IF;
+
+        IF substring(NEW.info->>'birthday', 1, 4)::int > 2002 THEN
+            RAISE EXCEPTION 'You must be larger than 14-year-old in order to register! :)';
+        END IF;
+
+        RETURN NEW;
+    END;
+$CheckBirthFormat$ LANGUAGE plpgsql;
+
+CREATE TRIGGER CheckBirthFormat BEFORE INSERT OR UPDATE ON Users
+    FOR EACH ROW EXECUTE PROCEDURE CheckBirthFormat();
+
 \copy venues from data/Venues.txt 
 \copy event_locates from data/Event_Locates.txt
 \copy performers from data/Performers.txt
@@ -127,3 +138,5 @@ CREATE TABLE Nearby (
 \copy restaurants from data/Restaurants.txt
 \copy nearby from data/Nearby.txt
 \copy reviews from data/Reviews.txt
+
+
